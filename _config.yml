@@ -21,3 +21,21 @@ markdown: kramdown
 
 # gems:
 #   - jekyll-angular
+
+collections:
+  algorithms:
+    output: true
+  shell:
+    output: true
+  databases:
+    output: true
+  general:
+    output: true
+  html:
+    output: true
+  ruby:
+    output: true
+  javascript:
+    output: true
+  work:
+    output: true

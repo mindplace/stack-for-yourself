@@ -1,19 +1,22 @@
 ---
 layout: page
-title:  "Resources"
-date:   2016-06-27 14:32:23 -0400
+title: Blog
 ---
+
 <div class="home">
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h3>
+        <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
+        </h2>
       </li>
     {% endfor %}
   </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

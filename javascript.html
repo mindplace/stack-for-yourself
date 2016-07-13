@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Algorithms
+title: JavaScript & JS Frameworks
 ---
-
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for file in site.algorithms %}
+    {% for file in site.javascript %}
       <li>
+        <span class="post-meta">{{ file.date | date: "%b %-d, %Y" }}</span>
+
         <h2>
           <a class="post-link" href="{{ file.url | prepend: site.baseurl }}">{{ file.title }}</a>
         </h2>
