@@ -234,7 +234,7 @@ a:focus::before {
   font-family: "Roboto Slab", "PT Serif", Georgia, serif;
   color: #fff;
   margin-top: 0;
-  font-size: 2rem;
+  font-size: 1.65rem;
 }
 
 .sidebar-about code {
@@ -253,11 +253,11 @@ a:focus::before {
   font-family: "Roboto Slab", "PT Serif", Georgia, serif;
   font-weight: bold;
   display: block;
-  line-height: 1.75;
+  line-height: 1.5;
   padding: .25rem .1rem;
   margin-left: 0;
   margin-right: 0;
-  border-top: 1px solid rgba(255, 255, 255, 0.23);
+  /*border-top: 1px solid rgba(255, 255, 255, 0.23);*/
 }
 .sidebar-nav > ul > li:last-child {
   border-bottom: 1px solid rgba(255, 255, 255, 0.23);
@@ -288,9 +288,9 @@ a:focus::before {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
     bottom: 1rem;
-    left:   1rem;
+    /*right:  1rem;*/
+    /*left:   1rem;*/
   }
 }
 

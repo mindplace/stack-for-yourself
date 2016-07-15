@@ -15,7 +15,7 @@ algorithms:
   name: Algorithms
   color: '#949667'
   description: >
-    Alforithms are cool.
+    Algorithms are cool.
 
 databases:
   name: Databases
@@ -28,6 +28,11 @@ frontend:
   color: '#949667'
   description: >
     Frontend is cool.
+
+backend:
+  name: Backend
+  description: >
+    Backend is cool.
 
 general:
   name: General
@@ -66,3 +71,8 @@ working:
   color: '#949667'
   description: >
     Working for money is cool.
+
+blog:
+  name: Blog
+  description: >
+    Blogging about becoming a web developer and cool resources.

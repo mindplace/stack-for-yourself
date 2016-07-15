@@ -8,7 +8,7 @@ url:              http://stackforyourself.com
 baseurl:          /stackforyourself
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [javascript, ruby, working, databases, mobile, shell, algorithms, general, frontend]
+sidebar_tags:     [general, algorithms, frontend, backend, mobile, blog]
 
 # Fallback image and color if not overwritten for tag or post
 color:            '#A85641'
@@ -50,33 +50,9 @@ kramdown:
 title: Stack For Yourself
 email: eleytush@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A place to collect and share resources for various areas of web development, including content,
-  links, and comments.
+  A collection of resources on web development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-# gems:
-#   - jekyll-angular
-
-collections:
-  algorithms:
-    output: true
-  shell:
-    output: true
-  databases:
-    output: true
-  general:
-    output: true
-  html:
-    output: true
-  ruby:
-    output: true
-  javascript:
-    output: true
-  work:
-    output: true
-  mobile:
-    output: true
