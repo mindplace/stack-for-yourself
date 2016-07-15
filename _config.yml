@@ -1,3 +1,44 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              http://stackforyourself.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          /stackforyourself
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     [javascript, ruby, working, databases, mobile, shell, algorithms, general, frontend]
+
+# Fallback image and color if not overwritten for tag or post
+color:            '#A85641'
+
+author:
+  name:           'Esther'
+
+  twitter: mindpl_ace
+  github:  mindplace
+
+  # Setting a disqus username will enable the comment section
+  disqus:         eleytush
+
+  # This photo will be used in the about section
+  photo:          http://qwtel.com/public/img/flo.jpg
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
+    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+
+    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,8 +54,6 @@ description: > # this means to ignore newlines until "baseurl:"
   links, and comments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -38,4 +77,6 @@ collections:
   javascript:
     output: true
   work:
+    output: true
+  mobile:
     output: true

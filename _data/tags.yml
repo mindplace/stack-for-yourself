@@ -1,0 +1,68 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+algorithms:
+  name: Algorithms
+  color: '#949667'
+  description: >
+    Alforithms are cool.
+
+databases:
+  name: Databases
+  color: '#949667'
+  description: >
+    Databases are cool.
+
+frontend:
+  name: Frontend
+  color: '#949667'
+  description: >
+    Frontend is cool.
+
+general:
+  name: General
+  color: '#949667'
+  description: >
+    General computer stuff is cool.
+
+javascript:
+  name: JavaScript
+  image: /stack-for-yourself/public/img/jekyll.jpg
+  color: '#949667'
+  description: >
+    Javascript is cool.
+
+mobile:
+  name: Mobile
+  color: '#949667'
+  description: >
+    Mobile is cool.
+
+ruby:
+  name: Ruby
+  image: /stack-for-yourself/public/img/hyde.jpg
+  color: '#949667'
+  description: >
+    Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. According to its creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp. Today it is a highly popular web language thanks to its major framework, Rails.
+
+shell:
+  name: Bash/Shell
+  color: '#949667'
+  description: >
+    Shell is cool.
+
+working:
+  name: Working as a dev
+  color: '#949667'
+  description: >
+    Working for money is cool.
