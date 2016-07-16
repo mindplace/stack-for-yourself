@@ -33,18 +33,6 @@ layout: default
   {{ content }}
 </article>
 
-{% if site.author.about %}
-<aside class="author">
-  <h2 class="aside-title">About</h2>
-
-  {% if site.author.photo %}
-  <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
-  {% endif %}
-
-  {{ site.author.about | markdownify }}
-</aside>
-{% endif %}
-
 <aside class="related">
   <h2 class="aside-title">Related Posts</h2>
   <ul class="related-posts">

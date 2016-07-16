@@ -24,11 +24,11 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Esther, or [`@mindpl_ace`](https://www.twitter.com/mindpl_ace). I love coding
+    Hi, I'm Esther, or [@mindpl_ace](https://www.twitter.com/mindpl_ace). I love coding
     and I get excited about web development, only in part due to the fact that I'm a nerd.
 
-    I'm [`elsewhere on the internet`](http://estherleytush.com/), and I would love to
-    [`hear from you`](http://estherleytush.com/contact/) about your fullstack journey.
+    I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
+    [hear from you](http://estherleytush.com/contact/) about your fullstack journey.
 
 kramdown:
   math_engine: mathjax
