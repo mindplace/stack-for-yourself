@@ -76,26 +76,14 @@ layout: default
   <div id="disqus_thread"></div>
 
   <script>
-    var disqus_config = function () {
-      this.page.url = '{{ site.url }}{{ site.baseurl }}{{ post.url }}';
-      this.page.identifier = '{{ post.id }}';
-    };
+    (function() {
+      var d = document, s = d.createElement('script');
 
-    var loaded = false;
-    var disqusThreadOffsetTop = document.getElementById('disqus_thread').offsetTop;
+      s.src = '//estherleytush.disqus.com/embed.js';
 
-    window.addEventListener('scroll', function (e) {
-      var bodyScrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-      if (!loaded && bodyScrollTop + window.innerHeight >= disqusThreadOffsetTop) {
-        loaded = true;
-        var d = document, s = d.createElement('script');
-
-        s.src = '//{{site.author.disqus}}.disqus.com/embed.js';
-
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-      }
-    });
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 </aside>
