@@ -11,8 +11,8 @@ layout: default
 
 {% for tag_key in site.all_tags %}
   {% assign tag = site.data.tags[tag_key] %}
-  <h3>
-    <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag.name }}</a>
-    <br><small>{{ tag.description }}</small>
-  </h3>
+  <div class="tag-name-and-desc">
+    <h3><a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag.name }}</a></h3>
+    <p>{{ tag.description }}</p>
+  </div>
 {% endfor %}
