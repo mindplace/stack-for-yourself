@@ -87,3 +87,8 @@ ruby-frameworks:
   name: Ruby Frameworks
   description: >
     More than just Rails!
+
+resources:
+  name: Resources
+  description: >
+    Everything this site has.

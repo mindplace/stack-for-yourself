@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% for tag in site.tags %}
+  <ul>
+    {% for tag in site.data.tags %}
+      {% if tag.name != "Resources" %}
+        <li>
+          <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag }}/">{{ tag.name }}</a>
+          <br><p>{{ tag.description }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
