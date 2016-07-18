@@ -25,9 +25,8 @@ layout: default
     <li>
       <h4>
         <a href="/stack-for-yourself{{ post.url | prepend:site.baseurl }}">
-          <span>{{ post.title }}</span></a><br>
+          <span>{{ post.title }}</span></a></h4>
           <p>{{ post.shortnote }}</p>
-      </h4>
     </li>
     {% if forloop.last %}</ul><hr/>{% endif %}
   {% endfor %}
