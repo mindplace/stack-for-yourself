@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Ruby frameworks"
+title: "Ruby frameworks and Ruby on the web"
 label: ruby
 shortnote: "Ruby frameworks to check out."
 tags: [ruby]
 ---
+
+[Change-positive Ruby app architecture] http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/
+[mistakes junior rubyists make] http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/
 
 Sinatra:
 Sinatra docs: http://www.sinatrarb.com/intro.html
@@ -27,7 +30,9 @@ Inspiration:
 Love Thy Desk: http://www.lovethydesk.com/
 
 Rails:
+rspec tutorial [http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I#.Vqvnq1MrKV4]
 Rails cheatsheet: https://teamgaslight.com/blog/ready-to-try-ruby-an-awesome-rails-cheat-sheet
+Various Rails tutorials: http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite
 Rails forums: https://railsforum.com/
 Rails Casts: http://railscasts.com/
 Rails guides/documentation: http://guides.rubyonrails.org/

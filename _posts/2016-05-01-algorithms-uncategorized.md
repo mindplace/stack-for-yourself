@@ -23,3 +23,5 @@ Project Euler problems [https://projecteuler.net/archives]
 RubyQuiz: http://rubyquiz.com/
 
 Algosaur [http://algosaur.us/]
+
+binary search http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/

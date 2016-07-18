@@ -29,6 +29,7 @@ Bento: https://bento.io/
 Learn the Hard Way courses: http://programming-motherfucker.com/become.html
 Codeschool: http://discover-devtools.codeschool.com/
 Videos at Lynda: https://www.lynda.com/
+blog with interactive Ruby http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html
 
 Challenges:
 General challenge list: https://github.com/karan/Projects
@@ -37,6 +38,7 @@ Important articles:
 Your first 100 hours of code: https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code
 Why learning to code is so damn hard: https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 Paul Ford, “What is Code?”: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+General OOP: http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  
 
 Uptime Robot: http://kaffeine.herokuapp.com/
 Work on this: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
@@ -115,3 +117,6 @@ Tutorial for getting started: https://medium.com/@martinmalinda/ultimate-guide-f
 
 Text Editors:
 Atom keyboard cheatsheet: http://blog.bugsnag.com/atom-editor-cheat-sheet
+
+Refactoring: Improving the Design of Existing Code
+http://confreaks.tv/
