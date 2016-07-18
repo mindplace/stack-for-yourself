@@ -9,12 +9,14 @@ layout: default
   {{ desc | markdownify }}
 <hr/>
 
+<ul class="related-posts">
 {% for tag_key in site.all_tags %}
   {% assign tag = site.data.tags[tag_key] %}
-  <ul class="related-posts">
-    <h4><a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">
-      <span>{{ tag.name }}</span></a>
-      <small>{{ tag.description }}</small>
-    </h4>
-  </div>
+    <li>
+      <h4><a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">
+        <span>{{ tag.name }}</span></a>
+        <small>{{ tag.description }}</small>
+      </h4>
+    </li>
 {% endfor %}
+</ul>
