@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% assign tag = site.data.tags[page.tag] %}
-
 <h1 class="page-title">{{ tag.name }}</h1>
   {% capture desc %}{{ tag.description }}{:.message}{% endcapture %}
   {{ desc | markdownify }}
@@ -14,8 +12,8 @@ layout: default
     {% assign tag_entry = site.data.tags[tag_page.tag]%}
     {% if tag_entry.name != "Resources" %}
       <li>
-        <p>This tag is: {{ tag }}</p>
-        <a href="{{ site.baseurl }}/stack-for-yourself{{ tag.permalink }}">{{ tag_entry.name }}</a>
+        <p>This tag is: {{ tag_page }}</p>
+        <a href="{{ site.baseurl }}/stack-for-yourself{{ tag_page.permalink }}">{{ tag_entry.name }}</a>
         <br><p>{{ tag_entry.description }}</p>
       </li>
     {% endif %}
