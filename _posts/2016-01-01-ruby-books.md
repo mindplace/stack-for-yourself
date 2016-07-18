@@ -6,7 +6,6 @@ shortnote: "Awesome Ruby books to check out."
 tags: [ruby]
 ---
 
-## Ruby books
 There's definitely a lot of great Ruby books. Here's a few, and if that's not enough, [there's a ton more here](http://blog.ozim.eu/2016/04/29/books-every-ruby-slash-rails-dev-should-read).  
 
 ### Free Ruby books online

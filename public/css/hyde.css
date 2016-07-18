@@ -113,7 +113,7 @@ a:focus::before {
   color: rgba(255,255,255,.75);
   background-color: #202020!important;
   text-align: left;
-  background-image: url(/stack-for-yourself/public/img/nap.jpg);
+  background-image: url(/stack-for-yourself/public/img/computer.jpg);
   background-size: cover;
   background-position: center center;
 }

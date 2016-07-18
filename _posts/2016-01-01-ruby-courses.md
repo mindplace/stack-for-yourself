@@ -5,8 +5,7 @@ label: ruby
 shortnote: "Complete online Ruby courses and tutorials."
 tags: [ruby]
 ---
-
-## Complete, free, online courses  
+ 
 [Kickstart](https://github.com/JoshCheek/ruby-kickstart)  
 A fantastic full course on Ruby entirely taught through you building to make the included tests pass. Get started simply by forking and pulling down a copy on Github.  
 
