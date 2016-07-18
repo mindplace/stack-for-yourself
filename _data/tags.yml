@@ -76,3 +76,14 @@ blog:
   name: Blog
   description: >
     Blogging about becoming a web developer and cool resources.
+
+rails:
+  name: Ruby on Rails
+  description: >
+    Rails, Ruby's most popular web framework, an amazing and worthwile thing to check out for its
+    programmer productivity, extensive supporting codebase, ease of use, and awesome community.
+
+ruby-frameworks:
+  name: Ruby Frameworks
+  description: >
+    More than just Rails!

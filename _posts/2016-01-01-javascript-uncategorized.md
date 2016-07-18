@@ -54,6 +54,7 @@ Backbone.js - Developing Backbone.js Applications: https://addyosmani.com/backbo
 Angular.js - Angular tutorial/docs: https://docs.angularjs.org/tutorial/step_00
 Angular.js tutorial https://www.airpair.com/angularjs/building-angularjs-app-tutorial
 Angular.js - PhoneCat tutorial: https://docs.angularjs.org/tutorial
+Really nice Angular tutorial http://www.learn-angular.org/#!/lessons/the-essentials
 
 jQuery docs: http://api.jquery.com/
 jQuery API events docs: http://api.jquery.com/category/events/

@@ -19,15 +19,14 @@ layout: default
     {% assign currentdate = post.date | date: "%Y" %}
     {% if currentdate != date %}
       {% unless forloop.first %}</ul><hr/>{% endunless %}
-      <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
       <ul class="related-posts">
       {% assign date = currentdate %}
     {% endif %}
     <li>
       <h4>
         <a href="/stack-for-yourself{{ post.url | prepend:site.baseurl }}">
-          <span>{{ post.title }}</span>
-          <small>{{ post.date | date: "%m/%d" }}</small>
+          <span>{{ post.title }}</span><br>
+          <small>{{ post.shortnote}}</small>
         </a>
       </h4>
     </li>
