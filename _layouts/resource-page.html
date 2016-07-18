@@ -10,12 +10,13 @@ layout: default
 <hr/>
 
 <ul>
-  {% for tag in site.data.tags %}
-    {% if tag.name != "Resources" %}
+  {% for tag_page in site.tag %}
+    {% assign tag_entry = site.data.tags[tag_page.tag]%}
+    {% if tag_entry.name != "Resources" %}
       <li>
         <p>This tag is: {{ tag }}</p>
-        <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag }}/">{{ tag.name }}</a>
-        <br><p>{{ tag.description }}</p>
+        <a href="{{ site.baseurl }}/stack-for-yourself{{ tag.permalink }}">{{ tag_entry.name }}</a>
+        <br><p>{{ tag_entry.description }}</p>
       </li>
     {% endif %}
   {% endfor %}
