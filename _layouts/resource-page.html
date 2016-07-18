@@ -2,19 +2,16 @@
 layout: default
 ---
 
+{% assign tag = site.data.tags[page.tag] %}
+
 <h1 class="page-title">{{ tag.name }}</h1>
-{% if tag.description %}
-  {% comment %}
-    Adding the "message" class to the last (and usually only) paragraph of the description.
-  {% endcomment %}
   {% capture desc %}{{ tag.description }}{:.message}{% endcapture %}
   {{ desc | markdownify }}
-{% endif %}
 <hr/>
 
 <ul>
   {% for tag in site.data.tags %}
-    {% assign tag_key = site.data.tags[tag_key] %}
+    {% assign tag_key = site.data.tags[tag] %}
     {% if tag_key.name != "Resources" %}
       <li>
         <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag_key.name }}</a>
