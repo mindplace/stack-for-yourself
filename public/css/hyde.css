@@ -115,7 +115,7 @@ a:focus::before {
   text-align: left;
   background-image: url(/stack-for-yourself/public/img/computer.jpg);
   background-size: cover;
-  background-position: center center;
+  background-position: left center;
 }
 /* make sidebar slightly darker to increase text readability (when using a background image) */
 .sidebar::before {
