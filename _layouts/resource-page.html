@@ -9,11 +9,11 @@ layout: default
   {{ desc | markdownify }}
 <hr/>
 
-<ul>
-  {% for tag_key in site.all_tags %}
-    {% assign tag = site.data.tags[tag_key] %}
-    <li>
-      <a class="sidebar-nav-item {% if page.tag == tag_key %}active{% endif %}" href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag.name }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for tag_key in site.all_tags %}
+  {% assign tag = site.data.tags[tag_key] %}
+  <h3>
+    <a class="sidebar-nav-item {% if page.tag == tag_key %}active{% endif %}" href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag.name }}</a>
+    <br>
+    <small>{{ tag.description }}</small>
+  </h3>
+{% endfor %}
