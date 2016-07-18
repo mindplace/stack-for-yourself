@@ -5,10 +5,11 @@ layout: default
 {% for tag in site.tags %}
   <ul>
     {% for tag in site.data.tags %}
-      {% if tag.name != "Resources" %}
+      {% assign tag_key = site.data.tags[tag_key] %}
+      {% if tag_key.name != "Resources" %}
         <li>
-          <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag }}/">{{ tag.name }}</a>
-          <br><p>{{ tag.description }}</p>
+          <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag_key.name }}</a>
+          <br><p>{{ tag_key.description }}</p>
         </li>
       {% endif %}
     {% endfor %}
