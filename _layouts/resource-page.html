@@ -14,10 +14,10 @@ layout: default
     {% assign tag_key = site.data.tags[tag] %}
     {% if tag_key.name != "Resources" %}
       <li>
+        <p>This tag_key is: {{ tag_key }}</p>
         <a href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag_key.name }}</a>
         <br><p>{{ tag_key.description }}</p>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-g
