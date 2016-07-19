@@ -7,6 +7,7 @@ tags: [frontend]
 
 Jekyll:
 Jekyll tags from scratch: http://charliepark.org/tags-in-jekyll/
+http://www.minddust.com/post/tags-and-categories-on-github-pages/
 
 Inspiration:
 Amazing 1-page sites: https://onepagelove.com/gallery/landing-page

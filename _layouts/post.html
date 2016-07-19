@@ -19,8 +19,7 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%m/%d/%y" }}</time>
-    <span>{{ tags_content }}</span>
+    Filed under <span>{{ tags_content }}</span>
   </div>
   {% if post.description %}
     {% comment %}
