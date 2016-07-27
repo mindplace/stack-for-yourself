@@ -13,6 +13,7 @@ Resources for Rubyists: https://pragtob.wordpress.com/resources/#Agile
 mastery learning http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/
 general resources: http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending
 
+intro to machine learning https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y
 What do real programmers do?:
 Narkoz scripts: https://github.com/NARKOZ/hacker-scripts
 
@@ -44,6 +45,8 @@ Uptime Robot: http://kaffeine.herokuapp.com/
 Work on this: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
 
 (Uncategorized)
+Understanding Docker ecosystm, book http://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary
+5 OO basics learned from Sandi Metz https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email
 Tips for front-end: https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b
 API directory http://www.programmableweb.com/apis/directory
 Using Vagrant VMs for Rails development https://gorails.com/guides/using-vagrant-for-rails-development
@@ -90,6 +93,7 @@ Bash reference manual: http://www.gnu.org/software/bash/manual/bashref.html
 Bash cheatsheet: http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
 OverTheWire Command Line game: http://overthewire.org/wargames/bandit/
 Command Line Crash Course [http://cli.learncodethehardway.org/book/]
+Writing a shell in Ruby http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/?utm_source=rubyweekly&utm_medium=email
 
 Data Science:
 Kaggle.com: https://www.kaggle.com/competitions

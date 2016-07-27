@@ -5,6 +5,8 @@ shortnote: "Uncategorized frotend stuff including CSS and HTML"
 tags: [frontend]
 ---
 
+html5 geolocation https://www.sitepoint.com/html5-geolocation/
+
 Jekyll:
 Jekyll tags from scratch: http://charliepark.org/tags-in-jekyll/
 http://www.minddust.com/post/tags-and-categories-on-github-pages/
@@ -35,6 +37,7 @@ HTML view any page’s tree layout: https://htmltree.peterbe.com/
 make icons: https://iconsflow.com/
 bootstrap themes: http://bootswatch.com/
 free front-end stuff: http://www.premiumpixels.com/
+gorgeous material design UI kit http://www.creative-tim.com/live/material-kit
 
 Responsiveness
 Codeply, Responsive Design Cheatsheet: http://www.codeply.com/responsive-design-cheatsheet.html

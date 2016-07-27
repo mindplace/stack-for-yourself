@@ -10,6 +10,8 @@ tags: [ruby]
 
 [Ruby heap corruption](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)  
 
+[Visualizing Ruby heaps](https://github.com/mattbaker/ruby-heap-viz)
+
 [Scraping with Ruby](https://learnetto.com/blog/the-beginner-s-guide-scraping-in-ruby-cheat-sheet)  
 
 [Variables, constants, literals](http://www.tutorialspoint.com/ruby/ruby_variables.ht)
@@ -35,4 +37,7 @@ tags: [ruby]
 [Include vs Extend for using modules](http://www.railstips.org/blog/archives/2009/05/15/include-vs-extend-in-ruby/)
 
 ['Inject is a Fundamental Building Block'](http://renderedtext.com/blog/2016/02/18/inject-is-a-fundamental-building-block/)
-<hr>
+
+[Writing a microservice in plain Ruby](https://blog.codeship.com/writing-microservice-in-ruby/?utm_source=rubyweekly&utm_medium=email)
+
+[50 most common mistakes Ruby newbies make](http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/)

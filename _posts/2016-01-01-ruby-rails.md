@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Ruby overview: start here!"
+label: ruby
+shortnote: "A general overview of Ruby and some cool supportive links."
+tags: [ruby, rails, ruby-frameworks]
+---
+
+“This is why learning Rails is hard”: https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin
+
+
+
+# Rails tutorials and books
+[Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial
+Everyday Rails with RSpec
+Rails 4 in Action
+Agile Web Development With Rails
+Learn Ruby on Rails
+LevelUP courses [https://www.leveluprails.com/]
+
+<hr>
+
+# Further resources
+Various Rails tutorials: http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite
+Rails forums: https://railsforum.com/
+Rails Casts: http://railscasts.com/
+Rails guides/documentation: http://guides.rubyonrails.org/
+
+<hr>
+
+# Articles
+
+## Rails 5
+[Rails 5 intro](http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/?utm_source=rubyweekly&utm_medium=email)
+
+[Rails 5 the tour](https://www.youtube.com/watch?v=OaDhY_y8WTo)
+
+[Rails 5 Turbolinks](https://www.youtube.com/watch?v=SWEts0rlezA)
+
+[Intro to nio4r](https://tonyarcieri.com/a-gentle-introduction-to-nio4r)
+
+## ActiveRecord
+[Intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners?utm_source=rubyweekly&utm_medium=email)
+
+## Testing Rails
+[Stubbing with Rails](https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails)
+
+[Capybara](https://github.com/jnicklas/capybara): texting via mocks and stubs
+
+[Testing Rails](http://everydayrails.com/2012/03/12/testing-series-intro.html): a cool series covering a lot of topics
+
+[RSpec for Rails](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec?utm_campaign=community&utm_content=78&utm_medium=email&utm_source=community-subscription)
+
+[Rspec tutorial](http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I#.Vqvnq1MrKV4): testing Rails 4 apps
+
+## Rails and the frontend
+[1-page Ajaxified Rails site](https://codediode.io/lessons/1904-ajaxified-one-page-application-with-rails)
+
+[React with Devise forms](https://labs.chie.do/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting)
+
+[WYSIWYG postings editor](https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix): add an awesome text editor for your views that can send back rich text to your backend
+
+[CRUD interface with React and Rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
+
+[Making Rails asset pipeline faster](http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster)
+
+[Asset pipeline best practices](https://launchschool.com/blog/rails-asset-pipeline-best-practices)
+
+[How Ajax works in Rails](https://launchschool.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails)
+
+## User authentication
+
+[Token-based oauth in Rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api)
+
+[Tutorial for implementing Devise gem](https://www.codementor.io/ruby-on-rails/tutorial/devise-rails-build-automatic-login-tokens-email)
+
+[Using Devise gem to authenticate](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
+
+[Authenticating with Twitter via the Devise gem ](https://gorails.com/episodes/omniauth-twitter-sign-in)
+
+## Just lots of awesome links
+
+[Creating a rails5 api](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/)
+
+[Improving large rails apps with service objects](http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/)
+
+[Containerizing Rails with Docker](http://www.codelitt.com/blog/intro-setting-up-your-first-docker-container-your-rails-app/)
+
+[ActionCable intro](https://www.driftingruby.com/episodes/actioncable-part-1-configuration-and-basics)
+
+[Adding HTTPS to Rails hosted on Heroku](https://www.juanitofatas.com/blog/2016/07/12/rails_app_on_heroku_with_ssl_from_dnsimple)
+
+[Rails cheatsheet](https://teamgaslight.com/blog/ready-to-try-ruby-an-awesome-rails-cheat-sheet)
+
+[Rails debugging cheatsheet](http://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html)
+
+[In-app messaging between users](https://gorails.com/episodes/in-app-messaging-between-users?autoplay=1)
+
+[Add chat to a Rails app](https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html)
+
+[Building a Reddit-like commentating site](https://www.codementor.io/ruby-on-rails/tutorial/threaded-comments-polymorphic-associations)
+
+[Stripe with Rails](https://launchschool.com/blog/stripe-checkout): integrating client payments into your app
+
+[Heroku’s Intro to Ruby]([https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction): support for deploying to a Heroku site
+
+[Full-text search in Rails](https://www.viget.com/articles/implementing-full-text-search-in-rails-with-postgres)
+
+[Send email via Amazon Web Services](https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/)
+
+[Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
+
+[LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers 
+
+[Rails mailers](http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/)
+
+[Better Rails performance with background jobs](https://blog.codeminer42.com/improving-rails-scalability-with-better-architecture-c102a2a0cdec#.6cakwxwws)

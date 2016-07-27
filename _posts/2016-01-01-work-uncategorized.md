@@ -16,6 +16,8 @@ https://www.blueapron.com/pages/jobs
 Cracking the Coding Interview
 Apprentice.io: http://www.apprentice.io/
 
+Negotiating: https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl
+
 Interview support:
 Coderrust http://www.coderust.com/
 interview.io http://interviewing.io/

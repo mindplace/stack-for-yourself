@@ -6,6 +6,7 @@ shortnote: "Ruby frameworks to check out."
 tags: [ruby]
 ---
 
+Ruby apps not in Rails https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email
 [Change-positive Ruby app architecture] http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/
 [mistakes junior rubyists make] http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/
 
@@ -21,6 +22,7 @@ Other Frameworks:
 rebuilding Rails from layers: https://www.reddit.com/r/ruby/comments/2b1su1/rebuilding_rails_or_how_do_i_build_my_own_ruby/
 Hanami, another framework for Ruby: http://hanamirb.org/
 Hanami oauth w github http://codetunes.com/2016/hanami-with-oauth/
+Reactive ruby with ratpack and jruby https://blog.heroku.com/reactive_ruby_building_real_time_apps_with_jruby_and_ratpack?c=7013A000000mLcUQAU=Display%20-%20Endemic%20-%C2%A0Cooper%20-%C2%A0Ruby%20-%20Blog%20-%20Real-Time-JRuby-Ratpack=display=cooperpress=blog=ruby
 General list: http://blog.cloud66.com/cloud-66-for-rails-new-rack-frameworks-part-2/
 
 Installs:
@@ -28,39 +30,3 @@ RailsFest installs: http://installfest.railsbridge.org/installfest/installfest
 
 Inspiration:
 Love Thy Desk: http://www.lovethydesk.com/
-
-Rails:
-rspec tutorial [http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I#.Vqvnq1MrKV4]
-Rails cheatsheet: https://teamgaslight.com/blog/ready-to-try-ruby-an-awesome-rails-cheat-sheet
-Various Rails tutorials: http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite
-Rails forums: https://railsforum.com/
-Rails Casts: http://railscasts.com/
-Rails guides/documentation: http://guides.rubyonrails.org/
-Rails API: http://api.rubyonrails.org/
-Rails mailers: http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
-Rails debugging cheatsheet http://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
-In-app messaging between users https://gorails.com/episodes/in-app-messaging-between-users?autoplay=1
-Stubbing with Rails: https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails
-Testing Rails: http://everydayrails.com/2012/03/12/testing-series-intro.html
-RSpec for Rails: https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec?utm_campaign=community&utm_content=78&utm_medium=email&utm_source=community-subscription
-Add chat to a Rails app: https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html
-Rails for Ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04
-“This is why learning Rails is hard”: https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin
-Using Devise to authenticate: http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
-Devise with twitter: https://gorails.com/episodes/omniauth-twitter-sign-in
-Tutorial for Devise: https://www.codementor.io/ruby-on-rails/tutorial/devise-rails-build-automatic-login-tokens-email
-1-page Ajaxified Rails site: https://codediode.io/lessons/1904-ajaxified-one-page-application-with-rails
-Building a Reddit-like commentating site: https://www.codementor.io/ruby-on-rails/tutorial/threaded-comments-polymorphic-associations
-Stripe with Rails: https://launchschool.com/blog/stripe-checkout
-CRUD interface with React and Rails: http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails
-Heroku’s Intro to Ruby [https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction]
-LevelUP courses [https://www.leveluprails.com/]
-Capybara [https://github.com/jnicklas/capybara]
-Everyday Rails with RSpec
-Rails 4 in Action
-Ruby Science
-Agile Web Development With Rails
-Learn Ruby on Rails
-React with Devise forms https://labs.chie.do/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting
-WYSIWYG postings editor! https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix
-Making Rails asset pipeline faster http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster
