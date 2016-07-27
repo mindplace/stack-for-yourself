@@ -1,30 +1,44 @@
 ---
 layout: post
-title: "Ruby overview: start here!"
+title: "Rails resources"
 label: ruby
-shortnote: "A general overview of Ruby and some cool supportive links."
+shortnote: "Overview of Rails: tutorials and articles."
 tags: [ruby, rails, ruby-frameworks]
 ---
 
-“This is why learning Rails is hard”: https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin
+Learning Rails is hard, in part because [there are quite a lot of different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin). That's okay--it's worth it.
 
-
+<hr>
 
 # Rails tutorials and books
+
+## Free and absolutely essential
+*[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time
+
 [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial
-Everyday Rails with RSpec
-Rails 4 in Action
-Agile Web Development With Rails
-Learn Ruby on Rails
-LevelUP courses [https://www.leveluprails.com/]
+
+## Not free but also awesome
+
+*[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*
+
+*[Rails 4 in Action](https://www.amazon.com/Rails-Action-Revised/dp/1617291099)*
+
+*Agile Web Development With Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)*
+
+[LevelUP courses](https://www.leveluprails.com/)
 
 <hr>
 
 # Further resources
-Various Rails tutorials: http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite
-Rails forums: https://railsforum.com/
-Rails Casts: http://railscasts.com/
-Rails guides/documentation: http://guides.rubyonrails.org/
+[Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
+
+[Rails forums](https://railsforum.com/)
+
+[Rails Casts](http://railscasts.com/)
+
+[Rails guides/documentation](http://guides.rubyonrails.org/)
+
+[Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*
 
 <hr>
 
@@ -110,7 +124,7 @@ Rails guides/documentation: http://guides.rubyonrails.org/
 
 [Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
 
-[LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers 
+[LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers
 
 [Rails mailers](http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/)
 
