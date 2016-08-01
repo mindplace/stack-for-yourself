@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rails resources"
-label: ruby
+label: rails
 shortnote: "Overview of Rails: tutorials and articles."
 tags: [ruby, rails, ruby-frameworks]
 ---
@@ -13,9 +13,9 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 # Rails tutorials and books
 
 ## Free and absolutely essential
-*[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time
+*[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time. Also, you can [check out his take on Rails for beginner programmers](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner).
 
-[Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial
+[Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial.
 
 ## Not free but also awesome
 
@@ -23,22 +23,9 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 *[Rails 4 in Action](https://www.amazon.com/Rails-Action-Revised/dp/1617291099)*
 
-*Agile Web Development With Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)*
+*[Agile Web Development With Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)*
 
 [LevelUP courses](https://www.leveluprails.com/)
-
-<hr>
-
-# Further resources
-[Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
-
-[Rails forums](https://railsforum.com/)
-
-[Rails Casts](http://railscasts.com/)
-
-[Rails guides/documentation](http://guides.rubyonrails.org/)
-
-[Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*
 
 <hr>
 
@@ -47,7 +34,7 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 ## Rails 5
 [Rails 5 intro](http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/?utm_source=rubyweekly&utm_medium=email)
 
-[Rails 5 the tour](https://www.youtube.com/watch?v=OaDhY_y8WTo)
+[Rails 5 the tour](https://www.youtube.com/watch?v=OaDhY_y8WTo), from DHH himself.
 
 [Rails 5 Turbolinks](https://www.youtube.com/watch?v=SWEts0rlezA)
 
@@ -56,12 +43,14 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 ## ActiveRecord
 [Intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners?utm_source=rubyweekly&utm_medium=email)
 
+[Another good intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners)
+
 ## Testing Rails
 [Stubbing with Rails](https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails)
 
-[Capybara](https://github.com/jnicklas/capybara): texting via mocks and stubs
+[Capybara](https://github.com/jnicklas/capybara): testing via mocks and stubs.
 
-[Testing Rails](http://everydayrails.com/2012/03/12/testing-series-intro.html): a cool series covering a lot of topics
+[Testing Rails](http://everydayrails.com/2012/03/12/testing-series-intro.html): a cool series covering a lot of topics.
 
 [RSpec for Rails](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec?utm_campaign=community&utm_content=78&utm_medium=email&utm_source=community-subscription)
 
@@ -72,7 +61,7 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 [React with Devise forms](https://labs.chie.do/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting)
 
-[WYSIWYG postings editor](https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix): add an awesome text editor for your views that can send back rich text to your backend
+[WYSIWYG postings editor](https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix): add an awesome text editor for your views that can send back rich text to your backend.
 
 [CRUD interface with React and Rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
 
@@ -92,11 +81,22 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 [Authenticating with Twitter via the Devise gem ](https://gorails.com/episodes/omniauth-twitter-sign-in)
 
-## Just lots of awesome links
+## Production-level apps
+[Better Rails performance with background jobs](https://blog.codeminer42.com/improving-rails-scalability-with-better-architecture-c102a2a0cdec#.6cakwxwws)
 
-[Creating a rails5 api](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/)
+[Is your app ready for production?](http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production)
 
 [Improving large rails apps with service objects](http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/)
+
+[Phases of refactoring Rails apps](http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/)
+
+## Great articles and mini tutorials
+
+[Essentials of cache expiration with Rails](http://sorentwo.com/2016/07/11/essentials-of-cache-expiration-in-rails.html)
+
+[Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
+
+[Creating a rails5 api](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/)
 
 [Containerizing Rails with Docker](http://www.codelitt.com/blog/intro-setting-up-your-first-docker-container-your-rails-app/)
 
@@ -114,9 +114,9 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 [Building a Reddit-like commentating site](https://www.codementor.io/ruby-on-rails/tutorial/threaded-comments-polymorphic-associations)
 
-[Stripe with Rails](https://launchschool.com/blog/stripe-checkout): integrating client payments into your app
+[Stripe with Rails](https://launchschool.com/blog/stripe-checkout): integrating client payments into your app.
 
-[Heroku’s Intro to Ruby]([https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction): support for deploying to a Heroku site
+[Heroku’s Intro to Ruby]([https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction): support for deploying to a Heroku site.
 
 [Full-text search in Rails](https://www.viget.com/articles/implementing-full-text-search-in-rails-with-postgres)
 
@@ -124,8 +124,19 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 [Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
 
-[LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers
+[LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers.
 
 [Rails mailers](http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/)
 
-[Better Rails performance with background jobs](https://blog.codeminer42.com/improving-rails-scalability-with-better-architecture-c102a2a0cdec#.6cakwxwws)
+<hr>
+
+# Further resources
+[Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
+
+[Rails forums](https://railsforum.com/)
+
+[Rails Casts](http://railscasts.com/)
+
+[Rails guides/documentation](http://guides.rubyonrails.org/)
+
+[Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*.

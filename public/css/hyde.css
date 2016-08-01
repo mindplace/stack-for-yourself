@@ -63,8 +63,8 @@ a:focus {
   border-bottom: 0.15em solid;
 }
 
-/* Styles for "Cesar" link hover effect. */
-/*a::after,
+ /*Styles for "Cesar" link hover effect. */
+a::after,
 a::before {
   font-family: 'icomoon'!important;
   font-style: normal;
@@ -96,7 +96,7 @@ a:focus::before {
   -webkit-transform: translateX(0.05em) translateY(0.075em);
   -ms-transform: translateX(0.05em) translateY(0.075em);
   transform: translateX(0.05em) translateY(0.075em);
-}*/
+}
 
 /*
  * Sidebar
