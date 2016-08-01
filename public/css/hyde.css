@@ -54,17 +54,17 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   position: relative;
-  padding-bottom: 0.15em;
-  border-bottom: 0.15em solid transparent;
+  padding-bottom: 0.1em;
+  border-bottom: 0.1em solid transparent;
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  border-bottom: 0.15em solid;
+  border-bottom: 0.1em solid;
 }
 
  /*Styles for "Cesar" link hover effect. */
-a::after,
+/*a::after,
 a::before {
   font-family: 'icomoon'!important;
   font-style: normal;
@@ -96,7 +96,7 @@ a:focus::before {
   -webkit-transform: translateX(0.05em) translateY(0.075em);
   -ms-transform: translateX(0.05em) translateY(0.075em);
   transform: translateX(0.05em) translateY(0.075em);
-}
+}*/
 
 /*
  * Sidebar
