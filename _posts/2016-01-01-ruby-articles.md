@@ -41,3 +41,5 @@ tags: [ruby]
 [Writing a microservice in plain Ruby](https://blog.codeship.com/writing-microservice-in-ruby/?utm_source=rubyweekly&utm_medium=email)
 
 [50 most common mistakes Ruby newbies make](http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/)
+
+[Using Google's Calendar API with Ruby wrappers](http://readysteadycode.com/howto-access-the-google-calendar-api-with-ruby)

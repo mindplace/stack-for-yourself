@@ -27,6 +27,8 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 
 [LevelUP courses](https://www.leveluprails.com/)
 
+*[](http://objectsonrails.com/)*, by the awesome Avdi Grimm, check out his awesome tech blog + podcasts [here](http://www.virtuouscode.com/).
+
 <hr>
 
 # Articles
@@ -91,6 +93,7 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 [Phases of refactoring Rails apps](http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/)
 
 ## Great articles and mini tutorials
+[Rails security guide](http://guides.rubyonrails.org/security.html)
 
 [Essentials of cache expiration with Rails](http://sorentwo.com/2016/07/11/essentials-of-cache-expiration-in-rails.html)
 
@@ -133,6 +136,8 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 # Further resources
 [Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
 
+[Rails guides](http://guides.rubyonrails.org/) from the official documentation.
+
 [Rails forums](https://railsforum.com/)
 
 [Rails Casts](http://railscasts.com/)
@@ -140,3 +145,5 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 [Rails guides/documentation](http://guides.rubyonrails.org/)
 
 [Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*.
+
+[Rails Best-practices Blog](http://rails-bestpractices.com/)

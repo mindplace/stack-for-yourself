@@ -65,6 +65,7 @@ Box-Sizing: Border Box http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 Codepen: visually see what CSS elements do: http://codepen.io/carolineartz/full/ogVXZj/
 Flexbox Cheat Sheet: http://jonibologna.com/flexbox-cheatsheet/
 cute speech bubble maker: http://ilikepixels.co.uk/drop/bubbler/
+Sitepoint CSS reference http://reference.sitepoint.com/css
 
 Bootstrap
 Bootstrap: http://getbootstrap.com/

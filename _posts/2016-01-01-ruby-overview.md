@@ -14,7 +14,7 @@ Definitely [take a look at the Ruby core object model](https://www.gliffy.com/go
 Probably the best reason to learn Ruby is to be able to build awesome things on the web and have a lot of fun while doing it. So check out [Rails](/stack-for-yourself/tag/rails/) and other [Ruby frameworks](/stack-for-yourself/tag/ruby-frameworks/) for building with
 Ruby on the web.
 
-Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups. Less well known 
+Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups. Less well known
 <hr>
 
 ### Some really great resources buckets
@@ -37,3 +37,8 @@ Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/
 [Ruby style guide](https://github.com/bbatsov/ruby-style-guide), one of the good ones  
 
 [AirBnB Ruby Style guide](https://github.com/airbnb/ruby)  
+
+### Subscribe to these Ruby news outlets
+[Ruby Rogues podcast](https://devchat.tv/ruby-rogues), a panel discussion about topics relating to programming, careers, community, and Ruby. They release a conversation with notable programmers and Rubyists each week.
+
+[Ruby Weekly](http://rubyweekly.com/?m), a once–weekly e-mail round-up of Ruby news and articles, created and managed by Peter Cooper, author of the awesome *[Beginning Ruby](https://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634)* book.

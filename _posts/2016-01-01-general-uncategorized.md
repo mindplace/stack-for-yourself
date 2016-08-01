@@ -9,7 +9,6 @@ Model to emulate:
 Bloc.io: https://www.bloc.io/web-developer-career-track
 Thinkful: https://www.thinkful.com/
 Suggestions: https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use
-Resources for Rubyists: https://pragtob.wordpress.com/resources/#Agile
 mastery learning http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/
 general resources: http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending
 
@@ -18,6 +17,8 @@ What do real programmers do?:
 Narkoz scripts: https://github.com/NARKOZ/hacker-scripts
 
 Complete courses:
+Web technology for developers https://developer.mozilla.org/en-US/docs/Web
+Code.org courses https://code.org/learn
 Odin Project [http://www.theodinproject.com/ruby-programming]
 Viking School prep course: https://www.vikingcodeschool.com/prep
 IRN app, JS-based course to learn programming: http://lrnapp.com/
@@ -45,6 +46,7 @@ Uptime Robot: http://kaffeine.herokuapp.com/
 Work on this: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
 
 (Uncategorized)
+managing rack apps in production with puma-dev https://github.com/puma/puma-dev#puma-dev-a-development-server-for-os-x
 Understanding Docker ecosystm, book http://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary
 5 OO basics learned from Sandi Metz https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email
 Tips for front-end: https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b
@@ -67,6 +69,9 @@ writing good documentation http://www.writethedocs.org/guide/writing/beginners-g
 
 Agile:
 ThoughtBot’s Playbook: http://playbook.thoughtbot.com/
+Agile warrior https://agilewarrior.wordpress.com/
+Agile manifesto http://agilemanifesto.org/
+Practices of an Agile developer https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf
 
 Docker:
 Diff between images and containers http://stackoverflow.com/questions/23735149/docker-image-vs-container
@@ -76,6 +81,7 @@ Git and Github:
 Git basics [https://git-scm.com/doc]
 Git cheatsheet: http://overapi.com/git
 Github MarkDown tutorial: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Learning git branching http://learngitbranching.js.org/
 
 Being a new developer:
 Apprenticeship Patterns [http://chimera.labs.oreilly.com/books/1234000001813/index.html]
