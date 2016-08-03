@@ -7,12 +7,10 @@ tags: [frontend]
 
 ## Jekyll
 Jekyll is an amazing, lightweight front-end framework for organizing and generating files and partials.
-It's got [amazing documentation](https://jekyllrb.com/docs/home/) and was created by a Github founder. It's an awesome solution for rolling your own blog or small personal site, and can be hosted for free on Github's [gh-pages](https://pages.github.com/).
+It's got [great documentation](https://jekyllrb.com/docs/home/) and was created by a Github founder. It's an awesome solution for rolling your own blog or small personal site, and can be hosted for free on Github's [gh-pages](https://pages.github.com/).
 
 * [Jekyll tags from scratch](http://charliepark.org/tags-in-jekyll/)
-
 * [Prose.io](http://prose.io/): create md files via a web interface that immediately show up on the appropriate Jekyll site (or just to the appropriate repository).
-
 * [Tags and categories with Jekyll](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 
 <hr>
