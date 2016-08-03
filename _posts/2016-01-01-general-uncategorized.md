@@ -10,32 +10,10 @@ tags: [general]
 
 <hr>
 
-Model to emulate:
-Bloc.io: https://www.bloc.io/web-developer-career-track
-Thinkful: https://www.thinkful.com/
-Suggestions: https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use
-mastery learning http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/
-general resources: http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending
 
-intro to machine learning https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y
-What do real programmers do?:
-Narkoz scripts: https://github.com/NARKOZ/hacker-scripts
+## Machine learning
+* [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
 
-Complete courses:
-Web technology for developers https://developer.mozilla.org/en-US/docs/Web
-Code.org courses https://code.org/learn
-Odin Project [http://www.theodinproject.com/ruby-programming]
-Viking School prep course: https://www.vikingcodeschool.com/prep
-IRN app, JS-based course to learn programming: http://lrnapp.com/
-Code Avengers: various free courses to learn basics: https://www.codeavengers.com/profile#intro
-TreeHouse, various small courses: https://teamtreehouse.com/
-FreeCodeCamp, HTML based courses: https://www.freecodecamp.com/
-KhanAcademy courses: https://www.khanacademy.org/
-“So You Wanna Learn How To Code? Going from Zero to Programmer Hero in One Guide” http://everydayutilitarian.com/essays/learn-code/
-Bento: https://bento.io/
-Learn the Hard Way courses: http://programming-motherfucker.com/become.html
-Codeschool: http://discover-devtools.codeschool.com/
-Videos at Lynda: https://www.lynda.com/
 blog with interactive Ruby http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html
 
 Challenges:

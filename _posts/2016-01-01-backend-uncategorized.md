@@ -9,5 +9,4 @@ tags: [backend]
 *nothing here yet!*
 
 # Languages
-
-[Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
+* [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)

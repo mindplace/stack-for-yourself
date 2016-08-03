@@ -19,6 +19,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 [Bootstrap](http://getbootstrap.com/) is a super important front-end CSS & JS library developed and used by Twitter. Stylistically it brings you the look and feel of a professional product, and tons of people use it. Luckily, their [documentation](http://getbootstrap.com/components/) is really excellent.
 
 * [Bootstrap forms](https://bootstrapbay.com/blog/working-bootstrap-contact-form/)
+* [free Bootstrap themes](http://bootswatch.com/)
 
 <hr>
 
@@ -26,5 +27,4 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 [Material design](https://material.google.com/#introduction-goals) is a concept developed by Google, which then developed into [Materialize](http://materializecss.com/), a CSS & JS library, currently gaining hugely in popularity over Bootstrap. The docs are [almost as good as Bootstrap's](http://materializecss.com/).
 
 * [Google's Material design resources](https://design.google.com/resources/?gclid=CjwKEAjwrIa9BRD5_dvqqazMrFESJACdv27Gv73GA7-ZeNdzg3VtJ5iOujUMXSEvO0bTQMb7hnqr3xoCiq7w_wcB#resizer)
-
 * [Gorgeous material design UI kit](http://www.creative-tim.com/live/material-kit)
