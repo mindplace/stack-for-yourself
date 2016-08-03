@@ -5,6 +5,11 @@ shortnote: "Understanding and writing regexps with Ruby, including tutorials and
 tags: [ruby]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 [Rubular expression checker](http://www.rubular.com/), your go-to for crafting regular expressions
 
 [RegExp cheatsheet](http://overapi.com/regex)

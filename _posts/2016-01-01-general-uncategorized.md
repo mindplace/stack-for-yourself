@@ -5,6 +5,11 @@ shortnote: "Lots of general uncategorized links."
 tags: [general]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 Model to emulate:
 Bloc.io: https://www.bloc.io/web-developer-career-track
 Thinkful: https://www.thinkful.com/
@@ -119,6 +124,7 @@ Classic papers in programming languages and logic: http://www.cs.cmu.edu/~crary/
 RosettaCode: http://rosettacode.org/wiki/Rosetta_Code
 CompSci free online courses: http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science
 Awesome programming books: http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite
+[the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb)
 
 Big-O cheat-sheet http://bigocheatsheet.com/
 

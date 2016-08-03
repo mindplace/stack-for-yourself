@@ -6,6 +6,11 @@ shortnote: "A general overview of Ruby and some cool supportive links."
 tags: [ruby, rails, ruby-frameworks]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 Check out [Team Treehouse's list of awesome Ruby projects](http://blog.teamtreehouse.com/coolest-ruby-projects-ever  ). Ruby is written in C, and you can look at [its source code on Github](https://github.com/ruby/ruby/  ) because it's an open source language, which is how you're able to learn it for free. Also, there's a project to
 [write a Ruby compiler in Ruby]( http://hokstad.com/compiler) as part of a fun effort to write Ruby in Ruby (as opposed to C).
 

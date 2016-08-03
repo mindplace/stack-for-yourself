@@ -5,6 +5,7 @@ shortnote: "Cool SQL cheatsheet for SQL commands."
 tags: [databases]
 ---
 
+## Running from the console, and other things to know
 To run SQLite3 from console:
 sqlite3 [filename.sqlite]
 
@@ -13,17 +14,16 @@ Wildcards: [ * (any),
                      _ (inside string, meaning can be substituted for whatever),
                     % (inside string, meaning can be of any length or whatever after),
 
+## Commands and syntax (remember to add the ';')
+
 CREATE (makes new table)
 CREATE TABLE (table name) (arg type, arg type, … etc);
-# => CREATE TABLE students (id INTEGER, name TEXT, email TEXT);
 
 INSERT (adds row)
 INSERT INTO table (arg, arg, .. etc) VALUES (arg, arg, .. etc);
-# => INSERT INTO students (id, name, email) VALUES (1226, 'Miri Ng’, ’miriyin@gmail.com’);
 
 UPDATE (alters value in a row)
 UPDATE table SET cell = new_value WHERE other_cell = something;
-# => UPDATE student SET id = 0000 WHERE name = ‘ex-student'
 
 ALTER (adds column)
           ALTER TABLE table ADD COLUMN column_name TYPE;
@@ -35,23 +35,16 @@ DELETE FROM (deletes rows)
 
 SELECT (pulls from table)
           SELECT column FROM table;
-# => SELECT id FROM students;
 
 SELECT column, second_column FROM table;
-# => SELECT id, name FROM students;
 
 SELECT DISTINCT genre FROM movies;
-# => unique
-# => SELECT DISTINCT dormitory FROM students;
 
 SELECT * FROM table WHERE column > VALUE;
-# => SELECT * FROM students WHERE dormitory = ‘Highland’;
 
 SELECT * FROM table WHERE column LIKE ‘given_value’;
-# => SELECT * FROM table WHERE name LIKE ‘A_y’;
 
 SELECT * FROM table WHERE column LIKE ‘a%’;
-# => SELECT * FROM students WHERE name LIKE ‘a%’;
 
 SELECT * FROM movies WHERE name BETWEEN 'A' AND 'J';
 
@@ -90,25 +83,22 @@ SELECT name, category, MAX(downloads) FROM fake_apps GROUP BY category;
 SELECT MIN(downloads) FROM fake_apps;
 
 SELECT name, category, MIN(downloads) FROM fake_apps GROUP BY category;
-# return names of apps that have been downloaded the least number of times in each category
 
 SELECT AVG(downloads) FROM fake_apps;
-# finds average number of downloads for an app in the database
 
 SELECT price, AVG(downloads) FROM fake_apps GROUP BY price;
-# calculate the average num of downloads at each price
-f
+
 SELECT price, ROUND(AVG(downloads), 2) FROM fake_apps GROUP BY price;
-# rounds average downloads to a float with two decimal places; just ROUND returns a float with a .0
 
 Multiple tables
 
 SELECT * FROM albums JOIN artists ON albums.artist_id = artists.id;
-# results win two tables being merged into one on those values
 
-# Primary Key: column that serves as unique identifier for row in the table; values must be unique and not NULL
-# Foreign Key: column that contains the primary key to another table i the database, used to identify a particular row in referenced foreign table.
-# Joins: combine data from multiple table during queries.
-# INNER JOIN: combine rows from different tables if JOIN condition is true
-# LEFT OUTER JOIN return every row in the left table, and if join conditions are not met, NULL values are used to full in the columns from the RIGHT table.
-# AS is a keyword that allows you to rename a column or table using a given alias.
+## Notes
+
+Primary Key: column that serves as unique identifier for row in the table; values must be unique and not NULL
+Foreign Key: column that contains the primary key to another table i the database, used to identify a particular row in referenced foreign table.
+Joins: combine data from multiple table during queries.
+INNER JOIN: combine rows from different tables if JOIN condition is true
+LEFT OUTER JOIN return every row in the left table, and if join conditions are not met, NULL values are used to full in the columns from the RIGHT table.
+AS is a keyword that allows you to rename a column or table using a given alias.

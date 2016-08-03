@@ -6,6 +6,11 @@ shortnote: "Ruby frameworks to check out."
 tags: [ruby]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 Ruby apps not in Rails https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email
 [Change-positive Ruby app architecture] http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/
 [mistakes junior rubyists make] http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/

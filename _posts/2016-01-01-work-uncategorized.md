@@ -5,6 +5,11 @@ shortnote: "Uncategorized info for seeking work as a developer"
 tags: [working]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 My resume: https://resume.creddle.io/
 Triplebyte http://blog.triplebyte.com/bootcamps-vs-college
 

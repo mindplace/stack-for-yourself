@@ -6,6 +6,11 @@ shortnote: ""
 tags: [ruby, rails, ruby-frameworks]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 ### Testing - RSpec and more
 [RSpec CodeSchool course, part 1](http://rspec.codeschool.com/levels/1)  
 

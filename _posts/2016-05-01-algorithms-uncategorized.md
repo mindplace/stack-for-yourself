@@ -6,25 +6,47 @@ shortnote: "Uncategorized info and links."
 tags: [algorithms]
 ---
 
-# Challenges
+# TL;DR
+*nothing here yet!*
 
-Codewars [http://www.codewars.com/dashboard]
-CodeEval [https://www.codeeval.com/dashboard/]
-Programmr challenges [http://www.programmr.com/zone/ruby]
-Codequizzes [http://www.codequizzes.com/]
-CodeForces Problem Sets [http://codeforces.com/problemset]
-Exercism [http://exercism.io/onboarding/install-cli]
-Codility [https://codility.com/programmers/]
-Rubeque [http://www.rubeque.com/problems]
-CodeForces [http://codeforces.com/problemset]
-Codeabbey [http://www.codeabbey.com/]
-Project Euler problems [https://projecteuler.net/archives]
-           solutions [https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions]
-RubyQuiz: http://rubyquiz.com/
+<hr>
 
-Algosaur [http://algosaur.us/]
+# Places to find challenges
 
-binary search http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/
-good places for algorithms https://www.reddit.com/r/ruby/comments/4sen66/are_there_any_good_online_computer/
+[Codewars](http://www.codewars.com/dashboard)
 
-BigO cheat sheet http://bigocheatsheet.com/
+[CodeEval](https://www.codeeval.com/dashboard/)
+
+[Programmr challenges](http://www.programmr.com/zone/ruby)
+
+[Codequizzes](http://www.codequizzes.com/)
+
+[CodeForces problem sets](http://codeforces.com/problemset)
+
+[Exercism](http://exercism.io/onboarding/install-cli)
+
+[Codility](https://codility.com/programmers/)
+
+[Rubeque](http://www.rubeque.com/problems)
+
+[CodeForces](http://codeforces.com/problemset)
+
+[Codeabbey](http://www.codeabbey.com/)
+
+[Project Euler problems](https://projecteuler.net/archives), and here's a place to see the [solutions](https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions).
+
+[RubyQuiz](http://rubyquiz.com/)
+
+<hr>
+
+# Data structures and essentials/basics
+[binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
+
+[BigO notation cheat sheet](http://bigocheatsheet.com/)
+
+<hr>
+
+# Other stuff
+[Algosaur](http://algosaur.us/), a graphic guide to algorithms!
+
+*[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)*, a great book in Python on algorithms.

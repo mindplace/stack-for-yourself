@@ -6,6 +6,11 @@ shortnote: "Overview of Rails: tutorials and articles."
 tags: [ruby, rails, ruby-frameworks]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 Learning Rails is hard, in part because [there are quite a lot of different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin). That's okay--it's worth it.
 
 <hr>
@@ -82,6 +87,8 @@ Learning Rails is hard, in part because [there are quite a lot of different area
 [Using Devise gem to authenticate](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
 
 [Authenticating with Twitter via the Devise gem ](https://gorails.com/episodes/omniauth-twitter-sign-in)
+
+[Implementing password reset with Rails](http://culttt.com/2016/07/13/implementing-password-reset-using-ruby-rails-trailblazer/)
 
 ## Production-level apps
 [Better Rails performance with background jobs](https://blog.codeminer42.com/improving-rails-scalability-with-better-architecture-c102a2a0cdec#.6cakwxwws)

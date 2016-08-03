@@ -6,6 +6,11 @@ shortnote: "Lots of great Ruby articles on more in-depth topics."
 tags: [ruby]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 [CSV with Ruby](https://blog.udemy.com/ruby-csv/)  
 
 [Ruby heap corruption](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)  

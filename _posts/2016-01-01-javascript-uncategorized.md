@@ -5,7 +5,14 @@ title: "JavaScript uncategorized links"
 tags: [javascript, frontend]
 ---
 
+# TL;DR
+*nothing here yet!*
+
+<hr>
+
 JavaScript
+
+ES6 cheatsheet (and good intro) https://es6cheatsheet.com/
 Javascript & JQuery, Jon Duckett
 Awesome collection of stuff: https://frontendmasters.com/courses/
 intro to OOJS: http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670

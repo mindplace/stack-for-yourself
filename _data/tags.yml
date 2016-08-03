@@ -12,7 +12,7 @@ databases:
   name: Databases
   color: '#949667'
   description: >
-    Databases are cool.
+    Understanding and working with databases is an essential element of creating CRUD apps for the web.
 
 frontend:
   name: Frontend

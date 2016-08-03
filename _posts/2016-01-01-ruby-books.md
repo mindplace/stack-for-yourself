@@ -6,6 +6,11 @@ shortnote: "Awesome Ruby books to check out."
 tags: [ruby]
 ---
 
+# TL;DR
+*[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, hands down one of the most in-depth looks at Ruby and programming concepts in general.
+
+<hr>
+
 There's definitely a lot of great Ruby books. Here's a few, and if that's not enough, [there's a ton more here](http://blog.ozim.eu/2016/04/29/books-every-ruby-slash-rails-dev-should-read).  
 
 ### Free Ruby books online
