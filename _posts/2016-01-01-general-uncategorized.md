@@ -10,19 +10,12 @@ tags: [general]
 
 <hr>
 
-
 ## Machine learning
 * [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
 
-blog with interactive Ruby http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html
-
-Challenges:
-General challenge list: https://github.com/karan/Projects
 
 Important articles:
-Your first 100 hours of code: https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code
-Why learning to code is so damn hard: https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
-Paul Ford, “What is Code?”: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
 General OOP: http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  
 
 Uptime Robot: http://kaffeine.herokuapp.com/

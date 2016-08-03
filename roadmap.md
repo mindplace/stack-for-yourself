@@ -12,11 +12,11 @@ This site is an aggregation of resources from around the web to help you in your
 
 You'll be better off not turning to this site when you have questions that need answering: Google, StackOverflow, Reddit, Github issues, etc are much more likely to be good there. Instead, come here when you're ready to explore a new topic.
 
-So if you want to learn about CSS and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is probably a better bet.
+So if you want to learn about [CSS]({{ site.baseurl }}/stack-for-yourself/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is probably a better bet.
 
 <hr>
 
-Developers, depending on what area of code they're working on, need to know a variety of things in order to be effective. ([Some don't always use this knowledge for company purposes, of course...](https://github.com/NARKOZ/hacker-scripts)) And they always have to be learning, as new things are created and start getting widely implemented all the time. 
+Developers, depending on what area of code they're working on, need to know a variety of things in order to be effective. ([Some don't always use this knowledge for company purposes, of course...](https://github.com/NARKOZ/hacker-scripts)) And they always have to be learning, as new things are created and start getting widely implemented all the time.
 
 <hr>
 

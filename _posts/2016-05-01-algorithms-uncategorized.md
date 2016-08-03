@@ -13,40 +13,28 @@ tags: [algorithms]
 
 # Places to find challenges
 
-[Codewars](http://www.codewars.com/dashboard)
-
-[CodeEval](https://www.codeeval.com/dashboard/)
-
-[Programmr challenges](http://www.programmr.com/zone/ruby)
-
-[Codequizzes](http://www.codequizzes.com/)
-
-[CodeForces problem sets](http://codeforces.com/problemset)
-
-[Exercism](http://exercism.io/onboarding/install-cli)
-
-[Codility](https://codility.com/programmers/)
-
-[Rubeque](http://www.rubeque.com/problems)
-
-[CodeForces](http://codeforces.com/problemset)
-
-[Codeabbey](http://www.codeabbey.com/)
-
-[Project Euler problems](https://projecteuler.net/archives), and here's a place to see the [solutions](https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions).
-
-[RubyQuiz](http://rubyquiz.com/)
+* [Codewars](http://www.codewars.com/dashboard)
+* [CodeEval](https://www.codeeval.com/dashboard/)
+* [Programmr challenges](http://www.programmr.com/zone/ruby)
+* [Codequizzes](http://www.codequizzes.com/)
+* [CodeForces problem sets](http://codeforces.com/problemset)
+* [Exercism](http://exercism.io/onboarding/install-cli)
+* [Codility](https://codility.com/programmers/)
+* [Rubeque](http://www.rubeque.com/problems)
+* [CodeForces](http://codeforces.com/problemset)
+* [Codeabbey](http://www.codeabbey.com/)
+* [Project Euler problems](https://projecteuler.net/archives), and here's a place to see the [solutions](https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions).
+* [RubyQuiz](http://rubyquiz.com/)
+* [Karan's general challenge list](https://github.com/karan/Projects)
 
 <hr>
 
 # Data structures and essentials/basics
-[binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
-
-[BigO notation cheat sheet](http://bigocheatsheet.com/)
+* [binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
+* [BigO notation cheat sheet](http://bigocheatsheet.com/)
 
 <hr>
 
 # Other stuff
-[Algosaur](http://algosaur.us/), a graphic guide to algorithms!
-
-*[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)*, a great book in Python on algorithms.
+* [Algosaur](http://algosaur.us/), a graphic guide to algorithms!
+* *[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)*, a great book in Python on algorithms.
