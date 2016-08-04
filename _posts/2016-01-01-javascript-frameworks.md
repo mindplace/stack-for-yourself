@@ -10,7 +10,7 @@ tags: [general]
 
 <hr>
 
-There's quite a lot of JavaScript frameworks to choose from! [Here's an article](https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/) to help you decide which one you're going to learn. Here's my 2 cents: Angular.js, developed by Google, and React, developed by Facebook, are coming out on the very top. Angular looked like it was taking the lead for a while, but now React is making a much stronger leap forward, and it looks like it's going to emerge as the clear winner. I recommend React!
+There's quite a lot of JavaScript frameworks to choose from! [Here's an article](https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/) to help you decide which one you're going to learn. Here's my 2 cents: [Angular.js, developed by Google, and React, developed by Facebook, are coming out on the very top.](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.275mvwu8w) Angular looked like it was taking the lead for a while, but now React is making a much stronger leap forward, and it looks like it's going to emerge as the clear winner. I recommend React!
 
 <hr>
 

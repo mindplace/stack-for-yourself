@@ -8,8 +8,6 @@ tags: [general]
 # If nothing else, bookmark these...
 [Watch convention talks without paying for the cons themselves!](http://confreaks.tv/)
 
-<hr>
-
 This is a collection of good general compsci resources. Some of these, like [this great and quite deep look at the coming AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
 
 But it's not always so serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).

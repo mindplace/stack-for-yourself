@@ -4,6 +4,10 @@ title: "Non-JavaScript frontend frameworks"
 shortnote: "Jekyll, Bootstrap, Materialize."
 tags: [frontend]
 ---
+# If nothing else, bookmark these...
+Learn and use [gh-pages](https://pages.github.com/) to host your pages and sites. 
+
+<hr>
 
 ## Jekyll
 Jekyll is an amazing, lightweight front-end framework for organizing and generating files and partials.

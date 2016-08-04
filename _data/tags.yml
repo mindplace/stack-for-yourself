@@ -65,8 +65,6 @@ working:
 
 blog:
   name: Blog
-  description: >
-    Blogging about becoming a web developer and cool resources.
 
 rails:
   name: Ruby on Rails

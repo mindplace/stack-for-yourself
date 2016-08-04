@@ -6,7 +6,7 @@ tags: [frontend]
 ---
 
 # If nothing else, bookmark these...
-Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/). And if you do NOTHING ELSE, bookmark [Unsplash](https://unsplash.com/)!
+Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/). And absolutely bookmark [Unsplash](https://unsplash.com/)!
 
 <hr>
 

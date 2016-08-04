@@ -8,8 +8,6 @@ tags: [ruby, rails, backend]
 # If nothing else, bookmark these...
 *nothing here yet!*
 
-<hr>
-
 There's more to Ruby web frameworks than [Rails]({{ site.baseurl }}/stack-for-yourself/2016/01/01/ruby-rails/)! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email) is a lineup.
 
 <hr>
@@ -18,7 +16,7 @@ There's more to Ruby web frameworks than [Rails]({{ site.baseurl }}/stack-for-yo
 * [Change-positive Ruby app architecture](http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/): building better Ruby frameworks after Rails
 
 ## Sinatra
-[Sinatra documentation](http://www.sinatrarb.com/intro.html)
+* [Sinatra documentation](http://www.sinatrarb.com/intro.html)
 
 ## Hanami
 * [Documentation](http://hanamirb.org/)

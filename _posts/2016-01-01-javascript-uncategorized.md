@@ -8,8 +8,6 @@ tags: [javascript, frontend]
 # If nothing else, bookmark these...
 *nothing here yet!*
 
-<hr>
-
 JavaScript has been around a pretty good long time, and has been getting much better over time. Because it's the only dynamic programming language supported by most browsers, it's an essential language for web development. It was named JavaScript to take advantage of Java's popularity at the time, although it is in no way at all related to Java. Later it was renamed EcmaScript, but colloquially it's still called JavaScript. [These talks covering a ton of JavaScript topics](https://talks.devbootcamp.com/?s=JavaScript) are a good place to start.
 
 ES6 has just come out, bringing with it a lot of changes to syntax and execution, most of them very timely. Check out this [ES6 cheatsheet](https://es6cheatsheet.com/) which acts as a good intro to changes from ES5.
@@ -17,7 +15,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 <hr>
 
 ## Tutorials and guides
-* *[Javascript & JQuery]()*, by Jon Ducket
+* *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 
@@ -40,23 +38,23 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 
 <hr>
 
-## Great libraries to work with
+## Great libraries to know
 
 ### jQuery
-[Introduction to jQuery](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
-[Official documentation](http://api.jquery.com/), and a very good one too
-[Events documentation](http://api.jquery.com/category/events/)
-[Creating tabs with jQuery](http://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
+* [Introduction to jQuery](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
+* [Official documentation](http://api.jquery.com/), and a very good one too
+* [Events documentation](http://api.jquery.com/category/events/)
+* [Creating tabs with jQuery](http://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
 
 ### Underscore.JavaScript
-Underscore.JavaScript - Main page: http://underscoreJavaScript.org/
+* [Main page](http://underscoreJavaScript.org/)
 
 ### data visualization libraries
 * [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
 * [Google Visualizations](https://developers.google.com/chart/interactive/docs/reference#development-tip)
 
 ### Moment.js
-[A great library for date and time](http://momentJavaScript.com/): comes with a ton of useful date and time functions
+* [A great library for date and time](http://momentJavaScript.com/): comes with a ton of useful date and time functions
 
 <hr>
 
