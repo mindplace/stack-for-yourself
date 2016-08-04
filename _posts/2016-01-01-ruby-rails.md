@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby on Rails resources"
 shortnote: "Overview of the Rails framework, tutorials, and articles."
-tags: [ruby, rails, ruby-frameworks, all]
+tags: [ruby, rails, ruby-frameworks, backend, all]
 ---
 
 # If nothing else, bookmark these...
