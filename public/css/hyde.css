@@ -397,3 +397,8 @@ a:focus::before {
 .katex-loaded .MathJax_Preview {
   display: none;
 }
+
+.tag-description {
+  margin-top: 5px;
+  font-size: small;
+}
