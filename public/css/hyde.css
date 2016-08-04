@@ -399,6 +399,10 @@ a:focus::before {
 }
 
 .tag-description {
-  margin-top: 5px;
-  font-size: small;
+  margin: 0;
+  font-size: 14px;
+}
+
+.hr-small-margin {
+  margin: 0.75rem 0;
 }
