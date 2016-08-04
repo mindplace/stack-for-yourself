@@ -36,6 +36,16 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 * [Hadoop MapReduce tutorial](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
 * [MapReduce with Ruby and Apache](http://blog.cloudera.com/blog/2011/01/map-reduce-with-ruby-using-apache-hadoop/)
 
+## Open data to use
+* [open NASA data API](https://data.nasa.gov/)
+* [NYC open data API](https://nycopendata.socrata.com/data)
+* [Open US government data API](http://www.data.gov/)
+* [UK government data API](https://data.gov.uk/)
+* [Google trends site](http://www.google.com/trends/explore#cmpt=q&tz=Etc%2FGMT%2B4): not an API unlike these others.
+* [NYTimes APIs](http://developer.nytimes.com/docs)
+* [NYTimes books API](http://developer.nytimes.com/docs/books_api/)
+* [Google books API](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+
 <hr>
 
 ## Object Oriented Programming

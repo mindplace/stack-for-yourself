@@ -104,6 +104,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 <hr>
 
 ## Great articles and mini tutorials
+* [Building an rss reader](http://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/)
 * [Rebuilding Rails from scratch](https://www.reddit.com/r/ruby/comments/2b1su1/rebuilding_rails_or_how_do_i_build_my_own_ruby/)
 * [Rails security guide](http://guides.rubyonrails.org/security.html)
 * [Essentials of cache expiration with Rails](http://sorentwo.com/2016/07/11/essentials-of-cache-expiration-in-rails.html)
