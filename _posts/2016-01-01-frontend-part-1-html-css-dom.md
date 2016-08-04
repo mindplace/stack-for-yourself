@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "HTML, CSS, DOM"
-shortnote: "HTML, CSS, the DOM tutorials and articles."
+shortnote: "Tutorials and articles."
 tags: [frontend]
 ---
 
-# TL;DR
-*nothing here yet!*
+# If nothing else, bookmark these...
+Check out these * [tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your frontend code.
 
 <hr>
 

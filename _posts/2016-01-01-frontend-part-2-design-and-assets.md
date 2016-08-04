@@ -5,8 +5,8 @@ shortnote: "Designing sites, managing design choices, and more."
 tags: [frontend]
 ---
 
-# TL;DR
-Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/).
+# If nothing else, bookmark these...
+Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/). And if you do NOTHING ELSE, bookmark [Unsplash](https://unsplash.com/)!
 
 <hr>
 
@@ -20,7 +20,7 @@ Check out this resource for [free front-end stuff you can use in your projects](
 * [Google Fonts](https://www.google.com/fonts)
 * [Color Wheel with HEX codes etc](https://color.adobe.com/create/color-wheel/)
 * [“A Simple Web Developer’s Guide to Color”](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
-* [Free high quality photos](https://unsplash.com/)
+* [Unsplash](https://unsplash.com/): completely free high quality photos
 * [Make your own visuals](https://www.canva.com/)
 * [make icons for free](https://iconsflow.com/)
 

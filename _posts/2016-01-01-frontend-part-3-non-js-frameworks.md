@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Non-JavaScript frontend frameworks"
-shortnote: "Jekyll, Bootstrap, Material."
+shortnote: "Jekyll, Bootstrap, Materialize."
 tags: [frontend]
 ---
 

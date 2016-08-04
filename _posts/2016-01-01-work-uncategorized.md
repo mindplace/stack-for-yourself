@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Uncategorized"
-shortnote: "Uncategorized info for seeking work as a developer"
+title: "Working as a developer"
+shortnote: "Resources for seeking work as a developer."
 tags: [working]
 ---
 
-# TL;DR
+# If nothing else, bookmark these...
 *nothing here yet!*
 
 <hr>

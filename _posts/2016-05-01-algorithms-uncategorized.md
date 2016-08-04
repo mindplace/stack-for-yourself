@@ -6,13 +6,12 @@ shortnote: "Uncategorized info and links."
 tags: [algorithms]
 ---
 
-# TL;DR
-*nothing here yet!*
+# If nothing else, bookmark these...
+[Project Euler problems](https://projecteuler.net/archives) is a superb and simple resource to get great and challenging math-based algorithms. 
 
 <hr>
 
-# Places to find challenges
-
+## Places to find challenges
 * [Codewars](http://www.codewars.com/dashboard)
 * [CodeEval](https://www.codeeval.com/dashboard/)
 * [Programmr challenges](http://www.programmr.com/zone/ruby)
@@ -29,12 +28,14 @@ tags: [algorithms]
 
 <hr>
 
-# Data structures and essentials/basics
+## Data structures and essentials/basics
 * [binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
 * [BigO notation cheat sheet](http://bigocheatsheet.com/)
 
 <hr>
 
-# Other stuff
+## Other stuff
 * [Algosaur](http://algosaur.us/), a graphic guide to algorithms!
 * *[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)*, a great book in Python on algorithms.
+* [Sorting algorithms animations](http://www.sorting-algorithms.com/), and a fantastic place to learn about sorting algorithms generally.
+* [Coursera: Algorithms I and II](https://www.coursera.org/course/algs4partI), totally free courses.

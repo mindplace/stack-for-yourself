@@ -1,109 +1,58 @@
 ---
 layout: post
-title: "General Uncategorized"
-shortnote: "Lots of general uncategorized links."
+title: "General computer science resources"
+shortnote: "Lots of general and high-level resources, good place to start."
 tags: [general]
 ---
 
-# TL;DR
-*nothing here yet!*
+# If nothing else, bookmark these...
+[Watch convention talks without paying for the cons themselves!](http://confreaks.tv/)
 
 <hr>
 
-## Machine learning
+This is a collection of good general compsci resources. Some of these, like [this great and quite deep look at the coming AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
+
+But it's not always so serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
+
+(FYI that last one is actually quite useful.)
+
+<hr>
+
+## Internet basics
+* [HTTP Basics:](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
+* [Understanding error codes with Status Cats](https://http.cat/)
+
+<hr>
+
+## APIs
+* [API directory](http://www.programmableweb.com/apis/directory) of many awesome APIs you can use
+* [Rise of APIs](http://techcrunch.com/2016/05/21/the-rise-of-apis/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+
+<hr>
+
+## Data Science
+* [Kaggle.com](https://www.kaggle.com/competitions)
+* [Kaggle: Predict Titanic’s survival](https://www.kaggle.com/c/titanic)
+* [Statistical data mining](http://www.autonlab.org/tutorials/)
+* [MapReduce with Hadoop and Ruby](https://speakerdeck.com/swanandp/build-your-first-mapreduce-with-hadoop-and-ruby)
+* [Hadoop MapReduce tutorial](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
+* [MapReduce with Ruby and Apache](http://blog.cloudera.com/blog/2011/01/map-reduce-with-ruby-using-apache-hadoop/)
+
+<hr>
+
+## Object Oriented Programming
+* [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
+* [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
+* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email)
+
+<hr>
+
+## More general Computer Science resources
+* *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: and that link is to a PDF copy of the book, totally free online!
+* [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
+* [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
+* [More good programming books](http://sixrevisions.com/lists/free-books-code/)
+* [UNIX philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
+* [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science.
+* [Writing good documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
-
-
-Important articles:
-
-General OOP: http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  
-
-Uptime Robot: http://kaffeine.herokuapp.com/
-Work on this: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
-
-(Uncategorized)
-managing rack apps in production with puma-dev https://github.com/puma/puma-dev#puma-dev-a-development-server-for-os-x
-Understanding Docker ecosystm, book http://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary
-5 OO basics learned from Sandi Metz https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email
-Tips for front-end: https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b
-API directory http://www.programmableweb.com/apis/directory
-Using Vagrant VMs for Rails development https://gorails.com/guides/using-vagrant-for-rails-development
-HTTP Basics: http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html
-WAT Hilarious talk: https://www.destroyallsoftware.com/talks/wat
-Essential O’Really?! books: http://imgur.com/gallery/vqUQ5
-Classic Programmer Paintings: http://classicprogrammerpaintings.com/archive#_=_
-ngnix HTTP Load balancer http://nginx.org/en/docs/http/load_balancing.html
-HTTP Status Cats API: https://http.cat/
-UNIX philosophy http://www.catb.org/esr/writings/taoup/html/ch01s06.html
-Heisenberg dev http://mikehadlow.blogspot.com/2014/06/heisenberg-developers.html
-Makers schedule http://www.paulgraham.com/makersschedule.html
-Good programming books: http://sixrevisions.com/lists/free-books-code/
-Rise of APIs http://techcrunch.com/2016/05/21/the-rise-of-apis/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
-
-make repo show pages on github https://help.github.com/articles/creating-project-pages-manually/
-writing good documentation http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
-
-Agile:
-ThoughtBot’s Playbook: http://playbook.thoughtbot.com/
-Agile warrior https://agilewarrior.wordpress.com/
-Agile manifesto http://agilemanifesto.org/
-Practices of an Agile developer https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf
-
-Docker:
-Diff between images and containers http://stackoverflow.com/questions/23735149/docker-image-vs-container
-Getting started and check status commands: https://docs.docker.com/machine/get-started/
-
-Git and Github:
-Git basics [https://git-scm.com/doc]
-Git cheatsheet: http://overapi.com/git
-Github MarkDown tutorial: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-Learning git branching http://learngitbranching.js.org/
-
-Being a new developer:
-Apprenticeship Patterns [http://chimera.labs.oreilly.com/books/1234000001813/index.html]
-Level up as a dev: https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i
-New Programmer’s Survival Manual
-
-Typing:
-typing-io - Ruby on Rails course [https://typing.io/lesson]
-
-Organizing projects:
-Trello: https://trello.com/
-
-Command Line:
-Bash reference manual: http://www.gnu.org/software/bash/manual/bashref.html
-Bash cheatsheet: http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
-OverTheWire Command Line game: http://overthewire.org/wargames/bandit/
-Command Line Crash Course [http://cli.learncodethehardway.org/book/]
-Writing a shell in Ruby http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/?utm_source=rubyweekly&utm_medium=email
-
-Data Science:
-Kaggle.com: https://www.kaggle.com/competitions
-Kaggle: Predict Titanic’s survival: https://www.kaggle.com/c/titanic
-Statistical data mining: http://www.autonlab.org/tutorials/
-MapReduce with Hadoop and Ruby: https://speakerdeck.com/swanandp/build-your-first-mapreduce-with-hadoop-and-ruby
-Hadoop MapReduce tutorial: https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html
-MapReduce with Ruby and Apache: http://blog.cloudera.com/blog/2011/01/map-reduce-with-ruby-using-apache-hadoop/
-
-Object Oriented Programming:
-Law of Demeter: http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/
-
-General CompSci:
-Sorting algorithms animations: http://www.sorting-algorithms.com/
-Coursera: Algorithms I and II: https://www.coursera.org/course/algs4partI
-Classic papers in programming languages and logic: http://www.cs.cmu.edu/~crary/819-f09/
-RosettaCode: http://rosettacode.org/wiki/Rosetta_Code
-CompSci free online courses: http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science
-Awesome programming books: http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite
-[the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb)
-
-Big-O cheat-sheet http://bigocheatsheet.com/
-
-Chromebook webdev:
-Tutorial for getting started: https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d#.ayk5cv7w1
-
-Text Editors:
-Atom keyboard cheatsheet: http://blog.bugsnag.com/atom-editor-cheat-sheet
-
-Refactoring: Improving the Design of Existing Code
-http://confreaks.tv/
