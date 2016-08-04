@@ -24,6 +24,8 @@ Developers, depending on what area of code they're working on, need to know a va
 
 ## Your essential competencies--and your fullstack roadmap!
 
+<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/08/1409261668002.png" width="100%">
+
 * Be able to type very well, quickly, and cleanly. Try [typing.io](https://typing.io/) to level up.
 * Get very comfortable with the command line. Learn the heck out of git.
 * Learn a language that plays nice with the web, like Ruby, Python, Go, C++, Node.js, PHP, or Java. (Don't let yourself get lost in the crazy and often ridiculously arrogant comparison-mongering mobs that will scream at you that Ruby is dying or C++ is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes millions if not billions of dollars for the companies that use them. Every one of these are great for web development for their own reasons.)
