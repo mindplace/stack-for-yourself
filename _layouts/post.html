@@ -45,7 +45,7 @@ layout: default
       {% if forloop.index < 4 or plusone == true %}
         <li>
           <h4>
-            <a href="{{ post.url | prepend:site.baseurl }}/stack-for-yourself/">
+            <a href="{{ site.baseurl }}/stack-for-yourself/{{ post.url }}">
               <span>{{ post.title }}</span>
             </a>
           </h4>
