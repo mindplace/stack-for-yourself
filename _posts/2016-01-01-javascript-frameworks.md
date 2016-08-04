@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript frameworks"
 shortnote: "Different JS framework resources"
-tags: [general, all]
+tags: [javascript, frontend, all]
 ---
 
 # If nothing else, bookmark these...

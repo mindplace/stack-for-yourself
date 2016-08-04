@@ -2,7 +2,7 @@
 layout: post
 title: "SQL cheatsheet"
 shortnote: "Cool SQL cheatsheet for SQL commands."
-tags: [databases, all]
+tags: [databases, backend, all]
 published: false
 ---
 

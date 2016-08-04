@@ -2,7 +2,7 @@
 layout: post
 title: "SQL database resources"
 shortnote: "SQL/PostgreSQL/MySQL/etc books, articles, and resources."
-tags: [databases, all]
+tags: [databases, backend, all]
 ---
 
 # If nothing else, bookmark these...

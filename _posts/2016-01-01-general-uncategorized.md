@@ -2,7 +2,7 @@
 layout: post
 title: "General computer science resources"
 shortnote: "Lots of general and high-level resources, good place to start."
-tags: [general, all]
+tags: [general, backend, frontend, all]
 ---
 
 # If nothing else, bookmark these...

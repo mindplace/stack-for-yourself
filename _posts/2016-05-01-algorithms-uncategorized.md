@@ -2,7 +2,7 @@
 layout: post
 title: "Algorithms resources"
 shortnote: "Info, challenges, and links."
-tags: [algorithms, all]
+tags: [algorithms, backend, all]
 ---
 
 # If nothing else, bookmark these...

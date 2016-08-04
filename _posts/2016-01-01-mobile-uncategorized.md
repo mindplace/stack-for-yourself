@@ -2,7 +2,7 @@
 layout: post
 title: "Building for mobile"
 shortnote: "Some cool links to help you get started building for mobile."
-tags: [mobile, all]
+tags: [mobile, frontend, all]
 ---
 
 # If nothing else, bookmark these...
