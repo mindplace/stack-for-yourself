@@ -1,8 +1,8 @@
 ---
 layout: post
 label: algorithms
-title: "Uncategorized algorithms"
-shortnote: "Uncategorized info and links."
+title: "Algorithms resources"
+shortnote: "Info and links."
 tags: [algorithms, all]
 ---
 
@@ -25,12 +25,6 @@ tags: [algorithms, all]
 * [Project Euler problems](https://projecteuler.net/archives), and here's a place to see the [solutions](https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions).
 * [RubyQuiz](http://rubyquiz.com/)
 * [Karan's general challenge list](https://github.com/karan/Projects)
-
-<hr>
-
-## Data structures and essentials/basics
-* [binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
-* [BigO notation cheat sheet](http://bigocheatsheet.com/)
 
 <hr>
 

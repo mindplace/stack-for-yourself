@@ -7,6 +7,8 @@ tags: [javascript, frontend, all]
 # If nothing else...
 Make sure you [get the right tools installed on your computer](http://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
 
+<hr>
+
 ## git and Github
 * [Git basic](https://git-scm.com/doc)
 * [Git cheatsheet](http://overapi.com/git)
@@ -14,11 +16,15 @@ Make sure you [get the right tools installed on your computer](http://installfes
 * [Learning git branching](http://learngitbranching.js.org/)
 * [Make repo show pages on Github using gh-pages](https://help.github.com/articles/creating-project-pages-manually/), and [here's Github's intro to it](https://pages.github.com/).
 
+<hr>
+
 ## Agile: managing development
 * [ThoughtBot’s Playbook:](http://playbook.thoughtbot.com/)
 * [Agile warrior](https://agilewarrior.wordpress.com/)
 * [Agile manifesto](http://agilemanifesto.org/)
 * [Practices of an Agile developer](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)
+
+<hr>
 
 ## Virtual machines, development environments, and Docker
 * [Docker: difference between images and containers](http://stackoverflow.com/questions/23735149/docker-image-vs-container)
@@ -26,12 +32,15 @@ Make sure you [get the right tools installed on your computer](http://installfes
 * [Understanding the Docker ecosystem](http://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary), a free book
 * [Using Vagrant VMs for Rails development](https://gorails.com/guides/using-vagrant-for-rails-development)
 
+<hr>
 
 ## Project organization
 * [Trello](https://trello.com/), organize via 'boards'.
 * [Evernote](https://www.evernote.com/referral/Registration.action?sig=beaceb2cbd8b81059e0c159e700172056225c39ab31ab7fa54426f96b9cd7bc7&uid=63359964), for organizing all your projects and papers. Integrates with everything! Use this link and get me rewards ^.^
 * [Asana](https://app.asana.com/), helping teams keep on track on projects.
 * [Makers schedule](http://www.paulgraham.com/makersschedule.html), an amazing essay by Pail Graham.
+
+<hr>
 
 ## Support for computers and programs you'll be using
 * [Developing on a Chromebook: Tutorial for getting started](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d#.ayk5cv7w1)

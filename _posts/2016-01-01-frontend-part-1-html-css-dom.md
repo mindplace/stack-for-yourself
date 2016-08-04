@@ -45,9 +45,3 @@ Check out these * [tips for front-end](https://medium.freecodecamp.com/101-ways-
 * [w3schools DOM docs](http://www.w3schools.com/jsref/dom_obj_document.asp)
 * [tutsplus DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
 * [HTML view any page’s tree layout](https://htmltree.peterbe.com/)
-
-<hr>
-
-## Responsiveness
-* [Codeply](http://www.codeply.com/responsive-design-cheatsheet.html): Responsive Design Cheatsheet
-* [Google chrome responsive design](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/responsive?hl=en) tutorial

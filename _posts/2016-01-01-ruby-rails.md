@@ -17,7 +17,8 @@ Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on H
 
 <hr>
 
-# Rails tutorials and books
+# Tutorials and books
+
 ### Free and essential
 * *[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time. Also, you can [check out his take on Rails for beginner programmers](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner).
 * [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial.
