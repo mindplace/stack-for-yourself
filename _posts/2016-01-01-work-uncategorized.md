@@ -2,7 +2,7 @@
 layout: post
 title: "Working as a developer"
 shortnote: "Resources for seeking work as a developer."
-tags: [working]
+tags: [working, all]
 ---
 
 # If nothing else, bookmark these...

@@ -2,7 +2,7 @@
 layout: post
 title: "SQL cheatsheet"
 shortnote: "Cool SQL cheatsheet for SQL commands."
-tags: [databases]
+tags: [databases, all]
 ---
 
 ## Running from the console, and other things to know

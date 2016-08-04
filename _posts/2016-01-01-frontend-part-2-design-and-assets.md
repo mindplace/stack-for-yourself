@@ -2,7 +2,7 @@
 layout: post
 title: "Frontend design for developers and assets"
 shortnote: "Designing sites, managing design choices, and more."
-tags: [frontend]
+tags: [frontend, all]
 ---
 
 # If nothing else, bookmark these...

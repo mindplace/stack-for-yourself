@@ -2,7 +2,7 @@
 layout: post
 title: "Non-Rails Ruby Frameworks"
 shortnote: "Sinatra, Hanami, and cool articles."
-tags: [ruby, rails, backend]
+tags: [ruby, rails, backend, all]
 ---
 
 # If nothing else, bookmark these...

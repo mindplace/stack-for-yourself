@@ -3,7 +3,7 @@ layout: post
 title: "Ruby overview: start here!"
 label: ruby
 shortnote: "A general overview of Ruby and some cool supportive links."
-tags: [ruby, rails, ruby-frameworks]
+tags: [ruby, rails, ruby-frameworks, all]
 ---
 
 # If nothing else, bookmark these...

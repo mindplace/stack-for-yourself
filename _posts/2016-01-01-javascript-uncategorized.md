@@ -2,7 +2,7 @@
 layout: post
 shortnote: "Tutorials, articles, and resources."
 title: "JavaScript resources"
-tags: [javascript, frontend]
+tags: [javascript, frontend, all]
 ---
 
 # If nothing else, bookmark these...

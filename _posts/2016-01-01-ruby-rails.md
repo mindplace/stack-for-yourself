@@ -3,7 +3,7 @@ layout: post
 title: "Rails resources"
 label: rails
 shortnote: "Overview of Rails: tutorials and articles."
-tags: [ruby, rails, ruby-frameworks]
+tags: [ruby, rails, ruby-frameworks, all]
 ---
 
 # If nothing else, bookmark these...

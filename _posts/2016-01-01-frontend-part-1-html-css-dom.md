@@ -2,7 +2,7 @@
 layout: post
 title: "HTML, CSS, DOM"
 shortnote: "Tutorials and articles."
-tags: [frontend]
+tags: [frontend, all]
 ---
 
 # If nothing else, bookmark these...

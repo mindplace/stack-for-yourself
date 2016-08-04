@@ -2,6 +2,9 @@
 # Provide at least a `name` value and optionally `image`, `color` and `description`.
 # Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
 
+all:
+  name: ALL the things
+
 algorithms:
   name: Algorithms
   color: '#949667'

@@ -3,11 +3,11 @@ layout: post
 label: algorithms
 title: "Uncategorized algorithms"
 shortnote: "Uncategorized info and links."
-tags: [algorithms]
+tags: [algorithms, all]
 ---
 
 # If nothing else, bookmark these...
-[Project Euler problems](https://projecteuler.net/archives) is a superb and simple resource to get great and challenging math-based algorithms. 
+[Project Euler problems](https://projecteuler.net/archives) is a superb and simple resource to get great and challenging math-based algorithms.
 
 <hr>
 

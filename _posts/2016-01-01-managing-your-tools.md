@@ -2,7 +2,7 @@
 layout: post
 shortnote: "Project management, setting up your tools, Github, etc."
 title: "Managing yourself and your tools"
-tags: [javascript, frontend]
+tags: [javascript, frontend, all]
 ---
 # If nothing else...
 Make sure you [get the right tools installed on your computer](http://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).

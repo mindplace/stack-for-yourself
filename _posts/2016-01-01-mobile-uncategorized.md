@@ -3,7 +3,7 @@ layout: post
 title: "Uncategorized mobile"
 collection: mobile
 shortnote: "Some cool links to help you get started building for mobile."
-tags: [mobile]
+tags: [mobile, all]
 ---
 
 # If nothing else, bookmark these...

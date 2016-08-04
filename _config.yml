@@ -8,7 +8,7 @@ url:              http://estherleytush.com
 baseurl:          ''
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [resources, blog]
+sidebar_tags:     [resources, all, blog]
 all_tags:         [general, shell, algorithms, backend, databases, ruby, rails, ruby-frameworks, frontend, javascript, mobile, working]
 
 # Fallback image and color if not overwritten for tag or post
