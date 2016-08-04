@@ -400,6 +400,6 @@ a:focus::before {
 
 .tag-description {
   margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 12px;
+  margin-bottom: 25px;
+  font-size: 13px;
 }
