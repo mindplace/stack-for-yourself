@@ -19,22 +19,24 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 
-## Events, callbacks, and Promises
-* [Awesome collection of stuff](https://frontendmasters.com/courses/)
+## Articles, cheatsheets, documentation
+* [Awesome collection of courses](https://frontendmasters.com/courses/)
 * [Intro to writing object-oriented JavaScript](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 * [OverAPI JavaScript Cheatsheet](http://overapi.com/javascript)
 * [JSFiddle](https://JavaScriptfiddle.net/), an awesome site for trying out JavaScript code in the browser
 * [MDN JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript), probably the only good documentation for JavaScript currently out there.
-* [Understanding JavaScript events](http://www.w3schools.com/JavaScript/JavaScript_events.asp)
-* [JavaScript Events and the call stack](http://bit.ly/1Btu0Iy)
 * [Semicolons in JavaScript](https://www.codecademy.com/blog/78)
 * [JavaScript in Chrome](https://developer.chrome.com/devtools/docs/console)
 * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialJavaScriptdesignpatterns/book/)
 * [Opal: Ruby to JavaScript compiler](http://opalrb.org/)
 * [JavaScript Prototype](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
-* [Callbacks in JavaScript](http://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [JSON Web Token](https://jwt.io/introduction/)
 * [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text-editor for the browser, developed by Facebook
+
+## Events, callbacks, and Promises
+* [Understanding JavaScript events](http://www.w3schools.com/JavaScript/JavaScript_events.asp)
+* [JavaScript Events and the call stack](http://bit.ly/1Btu0Iy)
+* [Callbacks in JavaScript](http://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 <hr>
 
