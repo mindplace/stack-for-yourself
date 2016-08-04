@@ -1,8 +1,7 @@
 ---
 layout: post
-label: algorithms
 title: "Algorithms resources"
-shortnote: "Info and links."
+shortnote: "Info, challenges, and links."
 tags: [algorithms, all]
 ---
 

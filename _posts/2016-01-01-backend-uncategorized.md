@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "General backend and various compiled languages links"
+title: "General backend and various languages links"
 shortnote: "Language links, general backend things, and places to start getting a sense of backend computing."
 tags: [backend, all]
 ---

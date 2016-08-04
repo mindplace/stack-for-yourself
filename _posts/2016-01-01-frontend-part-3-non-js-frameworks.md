@@ -17,6 +17,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Prose.io](http://prose.io/): create md files via a web interface that immediately show up on the appropriate Jekyll site (or just to the appropriate repository).
 * [Tags and categories with Jekyll](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 * [Put interactive Ruby snippets on your blog](http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html)
+* [Using static site generators at scale](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/): specifically, Jekyll. Great read.
 
 <hr>
 

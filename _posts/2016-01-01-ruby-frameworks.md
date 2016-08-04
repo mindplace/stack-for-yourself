@@ -10,13 +10,17 @@ tags: [ruby, rails, backend, all]
 
 There's more to Ruby web frameworks than [Rails]({{ site.baseurl }}/stack-for-yourself/2016/01/01/ruby-rails/)! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email) is a lineup.
 
+Get clarity on your RESTful routes with [Restular](http://www.restular.com/), an awesome tool.
+
 <hr>
 
+## About non-Rails frameworks...
 * [General list](http://blog.cloud66.com/cloud-66-for-rails-new-rack-frameworks-part-2/) of frameworks
 * [Change-positive Ruby app architecture](http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/): building better Ruby frameworks after Rails
 
 ## Sinatra
 * [Sinatra documentation](http://www.sinatrarb.com/intro.html)
+* [Restular](http://www.restular.com/), an awesome tool for creating RESTful routes, with great syntax suggestions too
 
 ## Hanami
 * [Documentation](http://hanamirb.org/)

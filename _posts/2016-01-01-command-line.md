@@ -1,7 +1,7 @@
 ---
 layout: post
-shortnote: "Bash/shell resources."
-title: "Master the command line!"
+title: "Bash/shell resources"
+shortnote: "Master the command line!"
 tags: [shell, backend, all]
 ---
 # If nothing else, bookmark these...

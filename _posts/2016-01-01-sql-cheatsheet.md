@@ -3,6 +3,7 @@ layout: post
 title: "SQL cheatsheet"
 shortnote: "Cool SQL cheatsheet for SQL commands."
 tags: [databases, all]
+published: false
 ---
 
 ## Running from the console, and other things to know

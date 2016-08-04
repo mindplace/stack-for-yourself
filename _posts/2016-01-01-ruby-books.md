@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ruby books and tutorials"
-label: ruby
 shortnote: "Awesome Ruby books and tutorials to check out."
 tags: [ruby, rails, backend, all]
 ---

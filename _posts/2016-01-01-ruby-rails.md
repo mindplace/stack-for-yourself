@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Rails resources"
-label: rails
-shortnote: "Overview of Rails: tutorials and articles."
+title: "Ruby on Rails resources"
+shortnote: "Overview of the Rails framework, tutorials, and articles."
 tags: [ruby, rails, ruby-frameworks, all]
 ---
 
@@ -10,6 +9,8 @@ tags: [ruby, rails, ruby-frameworks, all]
 [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial, and one of the best, up there with *[Learn Ruby on Rails](https://www.railstutorial.org/book)*, the definitive choice for learning Rails.
 
 Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!
+
+Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({{ site.basurl }}/stack-for-yourself/2016/01/01/ruby-frameworks)).
 
 <hr>
 

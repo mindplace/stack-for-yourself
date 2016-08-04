@@ -1,7 +1,7 @@
 ---
 layout: post
-shortnote: "Project management, setting up your tools, Github, etc."
 title: "Managing yourself and your tools"
+shortnote: "Project management, setting up your tools, Github, etc."
 tags: [javascript, frontend, all]
 ---
 # If nothing else...
