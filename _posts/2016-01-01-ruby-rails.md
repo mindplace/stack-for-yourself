@@ -55,6 +55,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Associations](http://guides.rubyonrails.org/association_basics.html)
 * [Validations and callbacks](http://guides.rubyonrails.org/v3.2.13/active_record_validations_callbacks.html)
 * [tutplus Active Record overview](http://code.tutsplus.com/tutorials/active-record-the-rails-database-bridge--net-30489)
+* [Avoiding n+1 queries](http://estherleytush.com/2016/07/10/avoiding-n-plus-one-queries.html), possibly the most common reason for slow Rails apps.
 
 <hr>
 

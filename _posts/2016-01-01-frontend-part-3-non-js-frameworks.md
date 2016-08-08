@@ -18,6 +18,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Tags and categories with Jekyll](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 * [Put interactive Ruby snippets on your blog](http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html)
 * [Using static site generators at scale](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/): specifically, Jekyll. Great read.
+* [Putting Disqus comments onto a Jekyll site](http://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
 
 <hr>
 
