@@ -11,6 +11,7 @@ Make sure you [get the right tools installed on your computer](http://installfes
 
 ## git and Github
 * [Git basic](https://git-scm.com/doc)
+* [Make a gist](https://gist.github.com/): a free way to share code snippets, super useful tool. Can also be embedded in sites!
 * [Git cheatsheet](http://overapi.com/git)
 * [Github MarkDown tutorial](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Learning git branching](http://learngitbranching.js.org/)
@@ -36,9 +37,9 @@ Make sure you [get the right tools installed on your computer](http://installfes
 
 ## Project organization
 * [Trello](https://trello.com/), organize via 'boards'.
-* [Evernote](https://www.evernote.com/referral/Registration.action?sig=beaceb2cbd8b81059e0c159e700172056225c39ab31ab7fa54426f96b9cd7bc7&uid=63359964), for organizing all your projects and papers. Integrates with everything! Use this link and get me rewards ^.^
+* [Evernote](https://www.evernote.com/referral/Registration.action?sig=beaceb2cbd8b81059e0c159e700172056225c39ab31ab7fa54426f96b9cd7bc7&uid=63359964), for organizing all your projects and papers! Use this link and get me rewards ^.^
 * [Asana](https://app.asana.com/), helping teams keep on track on projects.
-* [Makers schedule](http://www.paulgraham.com/makersschedule.html), an amazing essay by Pail Graham.
+* [Makers schedule](http://www.paulgraham.com/makersschedule.html), an amazing essay by Paul Graham of [Y-Combinator](https://www.ycombinator.com/).
 
 <hr>
 

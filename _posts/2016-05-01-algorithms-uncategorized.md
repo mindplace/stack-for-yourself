@@ -30,5 +30,4 @@ tags: [algorithms, backend, all]
 ## Other stuff
 * [Algosaur](http://algosaur.us/), a graphic guide to algorithms!
 * *[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)*, a great book in Python on algorithms.
-* [Sorting algorithms animations](http://www.sorting-algorithms.com/), and a fantastic place to learn about sorting algorithms generally.
 * [Coursera: Algorithms I and II](https://www.coursera.org/course/algs4partI), totally free courses.
