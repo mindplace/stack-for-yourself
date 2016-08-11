@@ -32,6 +32,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [JavaScript Prototype](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 * [JSON Web Token](https://jwt.io/introduction/)
 * [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text-editor for the browser, developed by Facebook
+* [Functions as first class citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/): understanding higher order functions, and how you can pass functions around
 
 ## Events, callbacks, and Promises
 * [Understanding JavaScript events](http://www.w3schools.com/JavaScript/JavaScript_events.asp)
