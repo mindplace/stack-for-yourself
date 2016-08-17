@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-url:              stackforyourself.com
+url:              http://stackforyourself.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
