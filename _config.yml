@@ -49,3 +49,49 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Build settings
 markdown: kramdown
+
+# gems:
+gems:
+  - jekyll-assets
+
+assets:
+  compress:
+    css: false | true | default - development: false, production: true
+    js: false | true | default - development: false, production: true
+
+  #
+
+  autowrite: true
+  cache: false | directory | default: .asset-cache
+  cache_type: memory | filesystem | default: filesystem
+  cdn: https://cdn.example.com
+  skip_baseurl_with_cdn: false
+  skip_prefix_with_cdn: false
+  prefix: "/assets"
+  digest: true
+
+  #
+
+  assets:
+    - "*.png"
+    - "*.jpg"
+    - "bundle.css"
+
+  #
+
+  sources:
+    - _sass
+    - css
+    - public/css
+    - public/fonts
+    - public/img
+    - public/js
+
+
+  #
+
+  features:
+    liquid: true | false | default: false
+    integrity: true | false | default: false
+    automatic_img_size: true | false | n(fixnum): 2,4,6,8 | default: true
+    automatic_img_alt : true | false | default: true
