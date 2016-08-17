@@ -5,7 +5,7 @@ permalink:        pretty
 url:              http://stackforyourself.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          stackforyourself.com
+baseurl:          ''
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [resources, all, blog]
