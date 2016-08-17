@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby overview: start here!"
 shortnote: "A general overview of Ruby, cheatsheets, articles, testing, RegExps, and more."
-tags: [ruby, rails, ruby-frameworks, backend, general, all]
+tags: [ruby, rails, ruby-frameworks, backend, all]
 ---
 
 # If nothing else, bookmark these...
@@ -15,7 +15,7 @@ Check out [Team Treehouse's list of awesome Ruby projects](http://blog.teamtreeh
 
 Definitely [take a look at the Ruby core object model](https://www.gliffy.com/go/publish/5152080) to get a sense for how it organizes itself.
 
-Probably the best reason to learn Ruby is to be able to build awesome things on the web and have a lot of fun while doing it. So check out [Rails](/stack-for-yourself/tag/rails/) and other [Ruby frameworks](/stack-for-yourself/tag/ruby-frameworks/) for building with
+Probably the best reason to learn Ruby is to be able to build awesome things on the web and have a lot of fun while doing it. So check out [Rails](/tag/rails/) and other [Ruby frameworks](/tag/ruby-frameworks/) for building with
 Ruby on the web.
 
 Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups. Less well known

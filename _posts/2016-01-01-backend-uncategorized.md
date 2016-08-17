@@ -12,3 +12,11 @@ tags: [backend, all]
 * [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
 * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems!
 * [Go](https://golang.org/doc/), a very very cool language developed by Google and currently taking off.
+
+## The C family
+
+
+<hr>
+
+## Crystal
+"Fast like C, slick like Ruby": Ruby-like syntax but incredibly faster.

@@ -12,7 +12,7 @@ permalink: /roadmap/
 
 You'll be better off not turning to this site when you have questions that need answering: Google, StackOverflow, Reddit, Github issues, etc are much more likely to be better. Instead, come here when you're ready to explore a new topic.
 
-So if you want to learn about [CSS]({{ site.baseurl }}/stack-for-yourself/2016/01/01/frontend-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
+So if you want to learn about [CSS]({{ site.baseurl }}/2016/01/01/frontend-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
 
 <hr>
 

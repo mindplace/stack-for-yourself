@@ -24,7 +24,7 @@ layout: default
     {% endif %}
     <li>
       <h3>
-        <a href="/stack-for-yourself{{ post.url | prepend:site.baseurl }}">
+        <a href="{{ post.url | prepend:site.baseurl }}">
           <span>{{ post.title }}</span></a></h3>
           <p class="tag-description">{{ post.shortnote }}</p>
     </li>

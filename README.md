@@ -1,4 +1,4 @@
-# [Stack For Yourself](http://estherleytush.com/stack-for-yourself/)
+# [Stack For Yourself](http://stackforyourself.com)
 A site to share resources for web development, especially for those new to it.
 
 <hr>

@@ -6,45 +6,17 @@ tags: [general, backend, frontend, all]
 ---
 
 # If nothing else, bookmark these...
-[Watch convention talks without paying for the cons themselves!](http://confreaks.tv/)
+Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for the cons themselves.
 
-This is a collection of good general compsci resources. Some of these, like [this great and quite deep look at the coming AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
+This is a collection of good general compsci resources. Some of these, like [this great look at the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
 
 But it's not always so serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
-
-(FYI that last one is actually quite useful.)
 
 <hr>
 
 ## Internet basics
-* [HTTP Basics:](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-* [Understanding error codes with Status Cats](https://http.cat/)
-
-<hr>
-
-## APIs
-* [API directory](http://www.programmableweb.com/apis/directory) of many awesome APIs you can use
-* [Rise of APIs](http://techcrunch.com/2016/05/21/the-rise-of-apis/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
-
-<hr>
-
-## Data Science
-* [Kaggle.com](https://www.kaggle.com/competitions)
-* [Kaggle: Predict Titanic’s survival](https://www.kaggle.com/c/titanic)
-* [Statistical data mining](http://www.autonlab.org/tutorials/)
-* [MapReduce with Hadoop and Ruby](https://speakerdeck.com/swanandp/build-your-first-mapreduce-with-hadoop-and-ruby)
-* [Hadoop MapReduce tutorial](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
-* [MapReduce with Ruby and Apache](http://blog.cloudera.com/blog/2011/01/map-reduce-with-ruby-using-apache-hadoop/)
-
-## Open data to use
-* [open NASA data API](https://data.nasa.gov/)
-* [NYC open data API](https://nycopendata.socrata.com/data)
-* [Open US government data API](http://www.data.gov/)
-* [UK government data API](https://data.gov.uk/)
-* [Google trends site](http://www.google.com/trends/explore#cmpt=q&tz=Etc%2FGMT%2B4): not an API unlike these others.
-* [NYTimes APIs](http://developer.nytimes.com/docs)
-* [NYTimes books API](http://developer.nytimes.com/docs/books_api/)
-* [Google books API](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+* [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html), a thorough primer on HTTP.
+* [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
 
 <hr>
 
@@ -56,7 +28,7 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 <hr>
 
 ## More general Computer Science resources
-* *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: and that link is to a PDF copy of the book, totally free online!
+* *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: links to a free PDF copy.
 * [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
 * [More good programming books](http://sixrevisions.com/lists/free-books-code/)

@@ -21,7 +21,7 @@
 <aside id="_sidebar" class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1><a href="{{ site.baseurl }}/stack-for-yourself">{{ site.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
       {{ site.description | markdownify }}
     </div>
 
@@ -30,7 +30,7 @@
         {% for tag_key in site.sidebar_tags %}
           {% assign tag = site.data.tags[tag_key] %}
           <li>
-            <a class="sidebar-nav-item {% if page.tag == tag_key %}active{% endif %}" href="{{ site.baseurl }}/stack-for-yourself/tag/{{ tag_key }}/">{{ tag.name }}</a>
+            <a class="sidebar-nav-item {% if page.tag == tag_key %}active{% endif %}" href="{{ site.baseurl }}/tag/{{ tag_key }}/">{{ tag.name }}</a>
           </li>
         {% endfor %}
 
@@ -44,7 +44,7 @@
           {% if node.title != null %}
             {% if node.layout == "page" %}
             <li>
-              <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}" href="/stack-for-yourself{{ node.permalink }}">{{ node.title }}</a>
+              <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}" href="{{ node.permalink }}">{{ node.title }}</a>
             </li>
             {% endif %}
           {% endif %}

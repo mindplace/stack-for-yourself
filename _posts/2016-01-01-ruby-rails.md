@@ -10,7 +10,7 @@ tags: [ruby, rails, ruby-frameworks, backend, all]
 
 Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!
 
-Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({{ site.basurl }}/stack-for-yourself/2016/01/01/ruby-frameworks)).
+Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({{ site.basurl }}/2016/01/01/ruby-frameworks)).
 
 <hr>
 
@@ -125,3 +125,4 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
 * [LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers.
 * [Rails mailers](http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/)
+* [Getting and responding to SMS in Rails with Twilio](https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.html)
