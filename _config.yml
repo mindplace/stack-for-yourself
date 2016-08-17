@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-url:              http://stackforyourself.com
+url:              stackforyourself.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
@@ -28,7 +28,7 @@ author:
     and I get excited about web development, only in part due to the fact that I'm a nerd.
 
     I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
-    [hear from you](http://estherleytush.com/contact/) about your fullstack journey.
+    [hear from you](http://estherleytush.com/contact/) about your full-stack journey.
 
 kramdown:
   math_engine: mathjax
