@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your Fullstack Roadmap
+title: Your Full Stack Roadmap
 permalink: /roadmap/
 ---
 
@@ -22,7 +22,7 @@ Developers, depending on what area of code they're working on, need to know a va
 
 <hr>
 
-## Your essential competencies--and your fullstack roadmap!
+## Your essential competencies--and your full-stack roadmap!
 
 <img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/08/1409261668002.png" width="100%">
 
@@ -67,7 +67,7 @@ Developers, depending on what area of code they're working on, need to know a va
 ## Learning with some help
 I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/), which is when you learn or are taught a concept until you master it, before moving on to the next one. Ideally, you do it with the help of a mentor or community. Here's some places to do that:
 
-* [Odin Project](http://www.theodinproject.com/ruby-programming): completely free, Ruby-based fullstack development program, with an amazing online community.
+* [Odin Project](http://www.theodinproject.com/ruby-programming): completely free, Ruby-based full-stack development program, with an amazing online community.
 * [FreeCodeCamp](https://www.freecodecamp.com/): superb, completely free program, teaching from the frontend backwards, with an excellent and huge community which in many cities has local presence. Actively maintained and being expanded to include new courses such as one teaching D3.js.
 * [Bloc.io](https://www.bloc.io/web-developer-career-track): a paid bootcamp whose model is to connect you with a developer who acts as a mentor.
 * [Thinkful](https://www.thinkful.com/): similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.
