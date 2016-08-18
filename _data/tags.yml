@@ -3,7 +3,7 @@
 # Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
 
 all:
-  name: ALL the things
+  name: All Resources
 
 algorithms:
   name: Algorithms
@@ -54,5 +54,5 @@ ruby-frameworks:
   description: >
     There IS a Ruby frameworks ecosystem beyond Rails!
 
-resources:
-  name: Resources
+categories:
+  name: All categories
