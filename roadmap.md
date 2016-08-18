@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Your Full Stack Roadmap
+link-title: Roadmap
+page-title: Your Full Stack Roadmap
 permalink: /roadmap/
 ---
 

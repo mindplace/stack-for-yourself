@@ -19,6 +19,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Put interactive Ruby snippets on your blog](http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html)
 * [Using static site generators at scale](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/): specifically, Jekyll. Great read.
 * [Putting Disqus comments onto a Jekyll site](http://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
+* [Implement Jekyll search using lunr.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/): adding search functionality to a Jekyll site
 
 <hr>
 

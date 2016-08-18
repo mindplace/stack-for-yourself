@@ -8,7 +8,7 @@ url:              http://stackforyourself.com
 baseurl:          ''
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [all, categories, blog]
+sidebar_tags:     [all, blog]
 all_tags:         [general, shell, algorithms, backend, databases, ruby, rails, ruby-frameworks, frontend, javascript, mobile, working]
 
 # Fallback image and color if not overwritten for tag or post
@@ -24,8 +24,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Esther, or [@mindpl_ace](https://www.twitter.com/mindpl_ace). I love coding
-    and I get excited about web development, only in part due to the fact that I'm a nerd.
+    Hi, I'm Esther, [@mindpl_ace on Twitter](https://www.twitter.com/mindpl_ace) and [@mindplace on Github](https://github.com/mindplace/). I love coding, get excited about web development, and
+    love sharing what I know with others.
 
     I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
     [hear from you](http://estherleytush.com/contact/) about your full-stack journey.

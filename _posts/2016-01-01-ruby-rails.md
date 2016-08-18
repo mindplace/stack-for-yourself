@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby on Rails resources"
+title: "Ruby on Rails"
 shortnote: "Overview of the Rails framework, tutorials, and articles."
 tags: [ruby, rails, ruby-frameworks, backend, all]
 ---

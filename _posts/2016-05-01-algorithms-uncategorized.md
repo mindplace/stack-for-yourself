@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Algorithms resources"
+title: "Algorithms"
 shortnote: "Info, challenges, and links."
 tags: [algorithms, backend, all]
 ---

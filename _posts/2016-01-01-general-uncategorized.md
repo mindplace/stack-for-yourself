@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "General computer science resources"
+title: "General computer science"
 shortnote: "Lots of general and high-level resources, good place to start."
 tags: [general, backend, frontend, all]
 ---

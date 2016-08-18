@@ -1,10 +1,23 @@
 ---
 layout: page
-title: About
+link-title: About
+page-title: About site and author
 permalink: /about/
 ---
 
+<div class="about-content">
+  <h2>What StackForYourself is meant to be</h2>
+  <p>This site is a place to find resources to support developers both new and inexperienced. Check out the <a href="{{ site.baseurl }}/roadmap/">roadmap</a> for an overview of how this site is intended to be used.</p>
+
+  <p>My vision for this site was simple: to have a place on the internet where I can share all the links and resources I've collected since starting down the road to practicing web development. It definitely beats out having a bunch of <a href="evernote.com">Evernote</a> files sitting in a private location where no one else can see.</p>
+
+  <p>And as much as we've all been exposed to visions of isolated geeks sitting in the dark bashing away at undecipherable programs on old-school terminals, code is a collaborative experience, and we all have to contribute. This is one of my contributions.</p>
+</div>
+
+<hr>
+
 <div class="author">
+  <h2>Who I am</h2>
   <img class="me" src="{{ site.author.photo }}" alt="{{ site.author.name }}"/>
   {{ site.author.about | markdownify }}
 </div>

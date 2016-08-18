@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby overview: start here!"
+title: "Ruby overview"
 shortnote: "A general overview of Ruby, cheatsheets, articles, testing, RegExps, and more."
 tags: [ruby, rails, ruby-frameworks, backend, all]
 ---

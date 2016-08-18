@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL database resources"
+title: "SQL databases"
 shortnote: "SQL/PostgreSQL/MySQL/etc books, articles, and resources."
 tags: [databases, backend, all]
 ---

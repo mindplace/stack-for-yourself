@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript resources and libraries"
+title: "JavaScript links and libraries"
 shortnote: "Tutorials, articles, and resources--no frameworks."
 tags: [javascript, frontend, all]
 ---
