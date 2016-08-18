@@ -33,6 +33,7 @@ There's quite a lot of JavaScript frameworks to choose from! [Here's an article]
 ## Node.js
 Not actually a framework, it's basically JavaScript on the backend. Node.js plus [Express.js](https://expressjs.com/) is the beginning of a beautiful backend app!
 
+* [Node status](http://status.npmjs.org/): great site if you're precompiling and something goes wrong with downloading Node.
 * [NodeSchool](http://nodeschool.io/)
 * [OverAPI Node.js Cheatsheet](http://overapi.com/nodejs)
 * [*Node.js Beginner*](http://www.nodebeginner.org/) book
