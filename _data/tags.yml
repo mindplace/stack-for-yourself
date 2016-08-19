@@ -5,43 +5,35 @@
 all:
   name: All Resources
 
+categories:
+  name: All categories
+
+# 10
+general:
+  name: General
+
+backend:
+  name: Backend
+
+shell:
+  name: Bash/Shell
+
+# 9
 algorithms:
   name: Algorithms
 
+# 8
 databases:
   name: Databases
   description: >
     Understanding and working with databases is an essential element of creating CRUD apps for the web.
 
-frontend:
-  name: Frontend
-
-backend:
-  name: Backend
-
-general:
-  name: General
-
-javascript:
-  name: JavaScript
-
-mobile:
-  name: Mobile
-
+# 7
 ruby:
   name: Ruby
   color: '#949667'
   description: >
     Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. According to its creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp. Today it is a highly popular web language thanks to its major framework, Rails.
-
-shell:
-  name: Bash/Shell
-
-working:
-  name: Working as a dev
-
-blog:
-  name: Blog
 
 rails:
   name: Ruby on Rails
@@ -54,5 +46,19 @@ ruby-frameworks:
   description: >
     There IS a Ruby frameworks ecosystem beyond Rails!
 
-categories:
-  name: All categories
+# 6
+frontend:
+  name: Frontend
+
+javascript:
+  name: JavaScript
+
+mobile:
+  name: Mobile
+
+# 5
+working:
+  name: Working as a dev
+
+blog:
+  name: Blog
