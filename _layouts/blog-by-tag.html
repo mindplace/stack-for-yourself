@@ -24,13 +24,13 @@ layout: default
     {% endif %}
     <li class="post-section">
       <h3 class="post-title-link">
-        <a href="{{ post.url | prepend:site.baseurl }}">
+        <a target="_blank" href="{{ post.url | prepend:site.baseurl }}">
           <span>{{ post.title }}</span></a></h3>
           {% capture tags_content %}{% endcapture %}
           {% for post_tag in post.tags %}
             {% assign tag = site.data.tags[post_tag] %}
             {% if tag %}
-              {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tag/{{ post_tag }}/">{{ tag.name }}</a>{% if forloop.last == false %}<span>, </span>{% endif %}{% endcapture %}
+              {% capture tags_content_temp %}{{ tags_content }}<a target="_blank" href="{{ site.baseurl }}/tag/{{ post_tag }}/">{{ tag.name }}</a>{% if forloop.last == false %}<span>, </span>{% endif %}{% endcapture %}
               {% assign tags_content = tags_content_temp %}
             {% endif %}
           {% endfor %}
