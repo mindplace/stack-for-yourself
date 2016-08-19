@@ -23,9 +23,9 @@ layout: default
       {% assign date = currentdate %}
     {% endif %}
     <li class="post-section">
-      <h3 class="post-title-link">
-        <a target="_blank" href="{{ post.url | prepend:site.baseurl }}">
-          <span>{{ post.title }}</span></a></h3>
+      <h3>
+        <a href="{{ post.url | prepend:site.baseurl }}">
+          <span class="post-title-link">{{ post.title }}</span></a></h3>
           {% capture tags_content %}{% endcapture %}
           {% for post_tag in post.tags %}
             {% assign tag = site.data.tags[post_tag] %}

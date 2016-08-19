@@ -407,6 +407,6 @@ a:focus::before {
 .post-section {
   margin-bottom: 20px;
 }
-.post-title-link {
-  color: #fff;
+.post-title-link a:hover {
+  color: #949667;
 }

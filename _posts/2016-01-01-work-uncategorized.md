@@ -41,23 +41,18 @@ tags: [working, all]
 * [PhishMe](http://phishme.com/company/careers/)
 * [Triplebyte](https://triplebyte.com/)
 * [Muse jobs](https://www.themuse.com/jobs)
-* [Apprentice.io](http://www.apprentice.io/)
+* [DevPost](http://devpost.com/)
+* [Apprentice.io](http://www.apprentice.io/): ThoughtBot's program, it tends to be popular so don't get your hopes up.
 
 <hr>
 
 ## Networking
-* [NYCDevs Slack channel](https://nycdevs.slack.com/messages/general/)
-* [Find other Rubyists](https://www.reddit.com/r/ruby/comments/4jktya/where_do_rubyists_hang_out_online_these_days/)
-* [Seeking software dev work](http://lesswrong.com/lw/hd1/maximizing_your_donations_via_a_job/)
-* ["Don’t call yourself a programmer"](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-* ["How to fail as a programmer"](http://blog.excelwithcode.com/software-product-failure.html)
-* ["Four steps to Google without a degree"](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.sbzhzgc7y)
-* ["Always be coding"](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.c03lox9py)
-* [DevPost](http://devpost.com/)
-* [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
+Connect with the [technical community]({{ site.baseurl }}/2016/01/01/coding-community) if you haven't yet, especially locally.
 
 <hr>
 
-## Get to conferences
-* [Ruby conferences](http://rubyconferences.org/)
-* ["Get Your Conference Proposal Accepted"](http://schneems.com/blogs/2016-04-07-conference-proposal/?utm_source=rubyweekly&utm_medium=email)
+## And other support
+* [Seeking software dev work](http://lesswrong.com/lw/hd1/maximizing_your_donations_via_a_job/)
+* ["Don’t call yourself a programmer"](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+* ["Four steps to Google without a degree"](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.sbzhzgc7y)
+* ["Always be coding"](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.c03lox9py): how to land an engineering job.
