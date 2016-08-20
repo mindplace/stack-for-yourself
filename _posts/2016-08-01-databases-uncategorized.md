@@ -5,7 +5,7 @@ shortnote: "SQL/PostgreSQL/MySQL/etc books, articles, and resources."
 tags: [databases, backend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 [Database tables designing tool](https://schemadesigner.devbootcamp.com/)
 
 [Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.

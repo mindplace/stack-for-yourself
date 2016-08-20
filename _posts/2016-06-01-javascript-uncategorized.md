@@ -5,7 +5,7 @@ shortnote: "Tutorials, articles, and resources--no frameworks."
 tags: [javascript, frontend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 *nothing here yet!*
 
 JavaScript has been around a pretty good long time, and has been getting much better over time. Because it's the only dynamic programming language supported by most browsers, it's an essential language for web development. It was named JavaScript to take advantage of Java's popularity at the time, although it is in no way at all related to Java. Later it was renamed EcmaScript, but colloquially it's still called JavaScript. [These talks covering a ton of JavaScript topics](https://talks.devbootcamp.com/?s=JavaScript) are a good place to start.
@@ -62,6 +62,11 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 <hr>
 
 ## Writing tests for JavaScript
-* [Tutorial on getting setup with Jasmine gem http://jasmine.github.io/2.4/introduction.html
-* [Jasmine syntax and methods: http://jasmine.github.io/2.4/introduction.html
+* [Tutorial on getting setup with Jasmine gem](http://jasmine.github.io/2.4/introduction.html)
+* [Jasmine syntax and methods](http://jasmine.github.io/2.4/introduction.html)
 * [TDD With JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
+
+<hr>
+
+## Free stuff
+Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.

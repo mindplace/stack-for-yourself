@@ -4,7 +4,7 @@ title: "Bash/shell resources"
 shortnote: "Master the command line!"
 tags: [shell, backend, all]
 ---
-# If nothing else, bookmark these...
+## Start here
 [Command Line Crash Course]([http://cli.learncodethehardway.org/book/), a really excellent and concise tutorial getting you up and running with navigating the shell and writing bash commands.
 
 <hr>

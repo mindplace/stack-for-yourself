@@ -5,7 +5,7 @@ shortnote: "Designing sites, managing design choices, and more."
 tags: [frontend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/). And absolutely bookmark [Unsplash](https://unsplash.com/)!
 
 <hr>

@@ -5,7 +5,7 @@ shortnote: "Lots of general and high-level resources, good place to start."
 tags: [general, backend, frontend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for the cons themselves.
 
 This is a collection of good general compsci resources. Some of these, like [this great look at the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.

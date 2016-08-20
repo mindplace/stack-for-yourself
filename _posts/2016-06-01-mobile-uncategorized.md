@@ -5,7 +5,7 @@ shortnote: "Some cool links to help you get started building for mobile."
 tags: [mobile, frontend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 *nothing here yet!*
 
 <hr>

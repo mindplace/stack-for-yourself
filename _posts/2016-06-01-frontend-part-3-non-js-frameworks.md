@@ -4,7 +4,7 @@ title: "Non-JavaScript frontend frameworks"
 shortnote: "Jekyll, Bootstrap, Materialize."
 tags: [frontend, all]
 ---
-# If nothing else, bookmark these...
+## Start here
 Learn and use [gh-pages](https://pages.github.com/) to host your pages and sites.
 
 <hr>

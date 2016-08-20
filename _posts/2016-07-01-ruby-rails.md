@@ -5,7 +5,7 @@ shortnote: "Overview of the Rails framework, tutorials, and articles."
 tags: [ruby, rails, ruby-frameworks, backend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial, and one of the best, up there with *[Learn Ruby on Rails](https://www.railstutorial.org/book)*, the definitive choice for learning Rails.
 
 Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!

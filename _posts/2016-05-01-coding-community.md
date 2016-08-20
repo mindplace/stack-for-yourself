@@ -4,14 +4,25 @@ title: "Coding communities"
 shortnote: "Connect with others to help, contribute, participate, and ask questions."
 tags: [general, working, all]
 ---
+## Start here
+Local events and meetups are great ways to get involved with other developers, learn, contribute, and make connections. Don't wait until you are ready to look for work: let it be a part of what it means for you to become a web developer in the first place.
 
-## Local communities
-Find your local techies via [Meetup](meetup.com) groups and [Eventbrite events](eventbrite.com).
+<hr>
+
+### Local communities
+Find your local techies via [Meetup](meetup.com) groups and [Eventbrite events](eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.
+
+<hr>
 
 ### Hackathons
-* [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
+Hackathons are great for collaborating with other developers in an intense way to build brand new projects from the ground up.
 
-## Remote communities
+* [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
+* [AngelHack](http://angelhack.com/), a company that hosts hackathons in different cities.
+
+<hr>
+
+### Remote communities
 Check out [Stack Overflow](stackoverflow.com), [Reddit](reddit.com) technology subreddits like [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), and chat rooms like [Gitter](https://gitter.im/).
 
 * [NYCDevs Slack channel](https://nycdevs.slack.com/messages/general/)
@@ -19,6 +30,6 @@ Check out [Stack Overflow](stackoverflow.com), [Reddit](reddit.com) technology s
 
 <hr>
 
-## Conferences
+### Conferences
 * [Ruby conferences](http://rubyconferences.org/)
 * ["Get Your Conference Proposal Accepted"](http://schneems.com/blogs/2016-04-07-conference-proposal/?utm_source=rubyweekly&utm_medium=email)

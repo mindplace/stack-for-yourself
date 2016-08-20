@@ -5,7 +5,7 @@ shortnote: "A general overview of Ruby, cheatsheets, articles, testing, RegExps,
 tags: [ruby, rails, ruby-frameworks, backend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 *nothing here yet!*
 
 <hr>

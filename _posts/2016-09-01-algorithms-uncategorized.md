@@ -5,7 +5,7 @@ shortnote: "Info, challenges, and links."
 tags: [algorithms, backend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 [Project Euler problems](https://projecteuler.net/archives) is a superb and simple resource to get great and challenging math-based algorithms.
 
 <hr>

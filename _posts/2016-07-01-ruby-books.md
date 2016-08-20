@@ -5,7 +5,7 @@ shortnote: "Awesome Ruby books and tutorials to check out."
 tags: [ruby, rails, backend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 *[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, hands down one of the most in-depth looks at Ruby and programming concepts in general.
 
 In terms of interactive tutorials, [Ruby Koans](http://rubykoans.com/) is so very good. Definitely do it!

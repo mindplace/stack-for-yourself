@@ -5,7 +5,7 @@ shortnote: "Different JS framework resources"
 tags: [javascript, frontend, all]
 ---
 
-# If nothing else, bookmark these...
+## Start here
 *nothing here yet!*
 
 <hr>

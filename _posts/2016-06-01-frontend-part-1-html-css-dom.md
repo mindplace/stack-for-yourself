@@ -5,8 +5,8 @@ shortnote: "Tutorials and articles."
 tags: [frontend, all]
 ---
 
-# If nothing else, bookmark these...
-Check out these * [tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your frontend code.
+## Start here
+Check out these [tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your frontend code.
 
 <hr>
 
@@ -33,7 +33,7 @@ Check out these * [tips for front-end](https://medium.freecodecamp.com/101-ways-
 * [CSS Specificity](http://specificity.keegan.st/)
 * [Box-Sizing: Border Box](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 * [Codepen: visually see what CSS elements do](http://codepen.io/carolineartz/full/ogVXZj/)
-* [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/)
+* [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/): Flex box is an awesome overtaker in the painful area of element positioning. No more `float: left`! Flexbox really is magical.
 * [cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
 * [Sitepoint CSS reference](http://reference.sitepoint.com/css)
 

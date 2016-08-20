@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Working as a developer"
-shortnote: "Resources for seeking work as a developer."
+title: "Seeking work as a developer"
+shortnote: "Posts, suggestions, and technical interviews."
 tags: [working, all]
 ---
 
-# If nothing else, bookmark these...
+## If nothing else...
 [Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and info. And check out [InfoQ](http://www.infoq.com/) for lots of general resources.
 
 <hr>
@@ -22,7 +22,7 @@ tags: [working, all]
 <hr>
 
 ## Preparing for technical interviews
-* *[Cracking the Coding Interview]()*
+* *[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1471617539&sr=8-1&keywords=cracking+the+coding+interview)*, probably the bible for technical interviews.
 * [Coderrust](http://www.coderust.com/)
 * [interview.io](http://interviewing.io/)
 * [Interview cake](https://www.interviewcake.com/question/ruby/stock-price)
