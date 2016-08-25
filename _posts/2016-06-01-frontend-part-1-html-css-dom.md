@@ -8,6 +8,8 @@ tags: [frontend, all]
 ## Start here
 Check out these [tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your frontend code.
 
+Particularly good once you've been messing around with HTML&CSS for a while: [the lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning).
+
 <hr>
 
 ## HTML

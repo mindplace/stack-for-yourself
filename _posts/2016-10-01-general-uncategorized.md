@@ -17,6 +17,7 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 ## Internet basics
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html), a thorough primer on HTTP.
 * [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
+* [Build a server script to understand how servers work!](http://www.blackbytes.info/2016/08/build-your-own-web-server/) And it's super straightforward with Ruby.
 
 <hr>
 

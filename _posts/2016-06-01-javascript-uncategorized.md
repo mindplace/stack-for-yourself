@@ -18,6 +18,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
+* [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 
 ## Articles, cheatsheets, documentation
 * [Awesome collection of courses](https://frontendmasters.com/courses/)

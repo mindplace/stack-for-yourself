@@ -29,6 +29,8 @@ There's quite a lot of JavaScript frameworks to choose from! [Here's an article]
 * [Angular.js tutoria](https://www.airpair.com/angularjs/building-angularjs-app-tutorial)
 * [Really nice Angular tutorial](http://www.learn-angular.org/#!/lessons/the-essentials)
 * [Using ui-route](https://scotch.io/tutorials/3-simple-tips-for-using-ui-router)
+* [Guide to getting started with Test-driven development on Angular](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-angular-test-driven-development#2qJdkXlRw9jxMDxW.99)
+* [Getting started with Angular2 by building a Giphy search application](http://tutorials.pluralsight.com/front-end-javascript/getting-started-with-angular-2-by-building-a-giphy-search-application#81g9AC3igbvYGEkZ.99)
 
 ## Node.js
 Not actually a framework, it's basically JavaScript on the backend. Node.js plus [Express.js](https://expressjs.com/) is the beginning of a beautiful backend app!
