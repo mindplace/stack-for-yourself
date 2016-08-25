@@ -7,19 +7,23 @@ permalink: /roadmap/
 
 # Hello world!
 
-**Who you are:** You want to learn how to program. Hopefully you want to specifically learn to build web applications. Or you're already a developer and want to keep working on your skills. Awesome!
+You want to learn how to program. Hopefully you want to learn to build web applications. Or you're already a developer and want to keep working on your skills. Awesome!
 
-**What this site is:** This site is an aggregation of resources from around the web to help you in your quest. ***To get the most out of this site: browse first, then come back when you're ready to jump into one of the topics more deeply.***
+This site is an aggregation of resources from around the web to help you in your quest. Browse it, then come back when you're ready to jump into one of the topics more deeply.
 
-You'll be better off not turning to this site when you have questions that need answering: Google, StackOverflow, Reddit, Github issues, etc are much more likely to be better. Instead, come here when you're ready to explore a new topic.
-
-So if you want to learn about [CSS]({{ site.baseurl }}/2016/01/01/frontend-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
+You won't really find answers to your immediate questions here. Instead, you'll find resources to get deeper into all sorts of different topics. For example, if you want to learn about [CSS]({{ site.baseurl }}/2016/01/01/frontend-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
 
 <hr>
 
-## You need to know a variety of things, all of which are continually changing.
+## Learning to code can be [really hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard).
 
-Developers, depending on what area of code they're working on, need to know a variety of things in order to be effective. ([Some don't always use this knowledge for company purposes, of course...](https://github.com/NARKOZ/hacker-scripts)) And they always have to be learning, as new things are created and start getting widely implemented all the time.
+It's not just you who might feel that way. Don't give up.
+
+Your [first 100 hours](https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code) will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and `puts` statements, and suddenly you'll find yourself trying to solve some sort of simple [algorithm]({{ site.baseurl }}/2016/09/01) like [finding the nth Fibonacci number](http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/) and everything will break and you'll cry out of fear and frustration and because you'll remember that part of you believes you're not cut out for this.
+
+<img src="http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png" width="100%">
+
+But keep at it and it will continue to make more and more sense. [Organize yourself and your projects]({{ site.baseurl }}/2016/01/01/managing-your-tools), stay on top of where you are in your plan, [reach out to others for help, direction, support, and community]({{ site.baseurl }}/2016/01/01/coding-community), and don't lose heart.
 
 <hr>
 
@@ -75,7 +79,9 @@ I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/ho
 
 <hr>
 
-## Survive being a new developer!
+## You need to know a variety of things to be a developer...
+...and all of these things are continually changing. But you'll survive. And then, you'll thrive.
+
 * *[Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)*: this awesome book is  free online!
 * [Level up as a dev](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i), great article.
 * *[New Programmer’s Survival Manual](https://www.amazon.com/New-Programmers-Survival-Manual-Workplace/dp/1934356816)*

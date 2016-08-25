@@ -28,7 +28,7 @@ Open source contributions tend to take the form of contributing your work to pro
 ### Find projects to contribute to
 * [Github projects, bugs, and feature requests tagged with beginner-friendly labels](https://github.com/lucev/beginner-friendly) so you can start contributing right away as a beginner.
 * [CodeTriage](http://www.codetriage.com/)
-* [CodeForAmerica](https://www.codeforamerica.org/)
+* [CodeForAmerica](https://www.codeforamerica.org/), check out their volunteer/code wanted section [here](https://www.codeforamerica.org/geeks/civicissues). 
 * [CodeMontage](https://www.codemontage.com/)
 
 <hr>
