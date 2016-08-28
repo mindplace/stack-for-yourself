@@ -8,6 +8,10 @@ tags: [working, all]
 ## If nothing else...
 [Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and info. And check out [InfoQ](http://www.infoq.com/) for lots of general resources.
 
+[This](https://www.linkedin.com/pulse/best-resources-nyc-startup-jobs-will-blaze?trk=prof-post) is a great place to look for start-up jobs. Why start-ups? Because they're more willing to take risks, which means hiring untried developers...and because there's so much work to be done that you'll have no choice but to grab hold with both arms.
+
+[This](https://clutchtalent.github.io/beginning-job-search/) is an amazing thoughtful guide to getting your first job after bootcamp or a self-taught program.
+
 <hr>
 
 ## Putting yourself together
@@ -18,6 +22,7 @@ tags: [working, all]
 ## Post bootcamp
 * [Triplebyte's bootcamp vs college review](http://blog.triplebyte.com/bootcamps-vs-college)
 * [Graduated Code School, Now What?](https://www.kcoleman.me/blog/2015/12/06/i-graduated-from-a-code-school-now-what/)
+
 
 <hr>
 

@@ -16,6 +16,7 @@ There's quite a lot of JavaScript frameworks to choose from! [Here's an article]
 
 ## React
 * [React documentation](https://facebook.github.io/react/docs/getting-started.html)
+* [`create-react-app`](https://blog.heroku.com/deploying-react-with-zero-configuration): starting a React app with zero configuration, from Facebook. 
 
 ## Angular.js
 * [Official documentation](https://docs.angularjs.org/api)
