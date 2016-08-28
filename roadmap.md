@@ -33,8 +33,9 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 
 * Be able to type very well, quickly, and cleanly. Try [typing.io](https://typing.io/) to level up.
 * Get very comfortable with the command line. Learn the heck out of git.
-* Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy and often arrogant comparison-mongering crowds that tell you that Ruby is dying or C# is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes millions if not billions of dollars for the companies that use them. Every one of these are great for web development for their own reasons.)
+* Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or C# is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
 * Learn the language you've chosen by solving small problems and graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
+* Take a couple of free courses on fundamental computer science basics: check out Open MIT, iTunes University, or Coursera.
 * Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the backend language you've chosen.
 * Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
 * Learn a web framework for the backend language you chose.
@@ -42,14 +43,14 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 * Be able to create simple pages with HTML and CSS.
 * Learn JavaScript. No whining. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
 * Learn about the DOM and the way JavaScript interacts with HTML & CSS. While you're at it, learn jQuery.
-* Choose a frontend JavaScript framework and learn it. Just choose one to start.
-* Learn to deploy your code to servers, using services like Heroku, and share your code on Github.  
-* Build projects to showcase every single aspect of your learning. Essential projects include building an API of some sort.
+* Choose a frontend JavaScript framework and learn it. Every current framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
+* Learn to deploy your code to servers, using services like Heroku or Amazon Web Services, to have your projects visible live.  
+* Build projects to showcase every single aspect of your learning. Share all your best code on Github so others can see your portfolio and possibly even use the code you've written.
 * Honestly, build as much as possible. Have ideas and work to make them happen.
 
 <hr>
 
-# Here's some other roadmaps:
+# Other roadmaps
 
 ## Learning on your own
 [Go from Zero to Programmer Hero in One Guide!](http://everydayutilitarian.com/essays/learn-code/) But really there's a lot of [cool discussions](https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use) about how to get into web development when you're a raw beginner to programming generally that are worth checking out.
@@ -85,3 +86,10 @@ I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/ho
 * *[Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)*: this awesome book is  free online!
 * [Level up as a dev](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i), great article.
 * *[New Programmer’s Survival Manual](https://www.amazon.com/New-Programmers-Survival-Manual-Workplace/dp/1934356816)*
+
+<hr>
+
+## If you ever need help...
+
+* [Consult the various communities]({{ site.baseurl }}/2016/05/01/coding-community)
+* [Reach out to me!](http://estherleytush.com/contact)
