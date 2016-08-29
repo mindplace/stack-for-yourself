@@ -1,22 +1,20 @@
 ---
 layout: post
-title: "Ruby books and tutorials"
+title: "Ruby tutorials and books"
 shortnote: "Awesome Ruby books and tutorials to check out."
-tags: [ruby, rails, backend, all]
+tags: [ruby, rails, back-end, all]
 ---
 
 ## Start here
-*[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, hands down one of the most in-depth looks at Ruby and programming concepts in general.
+There's a lot of great Ruby books. Below are a few of the greats, and if that's not enough, [there's more here](http://blog.ozim.eu/2016/04/29/books-every-ruby-slash-rails-dev-should-read).  
+
+*[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, one of the most in-depth looks at Ruby and programming concepts in general.
 
 In terms of interactive tutorials, [Ruby Koans](http://rubykoans.com/) is so very good. Definitely do it!
 
 <hr>
 
-There's definitely a lot of great Ruby books. Here's a few, and if that's not enough, [there's a ton more here](http://blog.ozim.eu/2016/04/29/books-every-ruby-slash-rails-dev-should-read).  
-
-<hr>
-
-## Free, awesome, interactive tutorials
+## Free interactive tutorials
 * [Kickstart](https://github.com/JoshCheek/ruby-kickstart): a fantastic full course on Ruby entirely taught through you building to make the included tests pass. Get started simply by forking and pulling down a copy on Github.  
 * [TestFirst Ruby](https://github.com/appacademy/test-first-ruby): used to be an actual taught course, but the materials are entirely complete on their own. Test-driven: you'll pick up RSpec because the best way to understand what you'll need to write will be in the specc'ed tests.
 * [Ruby Koans](http://rubykoans.com/): Complete self-driven course, entirely different from other courses. Steeper learning curve, excellent results. You'll learn by doing. RSpec tests and some commented support included, plus it lays out what your progression should be.

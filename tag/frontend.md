@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: frontend
-permalink: /tag/frontend/
+tag: front-end
+permalink: /tag/front-end/
 ---

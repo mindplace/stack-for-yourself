@@ -15,14 +15,14 @@ tags: [working, all]
 <hr>
 
 ## Putting yourself together
-* [Creddle](https://resume.creddle.io/): give it your resume stuff, select a theme, and see an amazing looking resume pop out.
+* Put together your [portfolio]({{ site.baseurl }}/2016/05/01/portfolio).
+* [Creddle](https://resume.creddle.io/): give it your resume content, select a theme or two, and see an amazing-looking resume pop out.
 
 <hr>
 
 ## Post bootcamp
 * [Triplebyte's bootcamp vs college review](http://blog.triplebyte.com/bootcamps-vs-college)
 * [Graduated Code School, Now What?](https://www.kcoleman.me/blog/2015/12/06/i-graduated-from-a-code-school-now-what/)
-
 
 <hr>
 

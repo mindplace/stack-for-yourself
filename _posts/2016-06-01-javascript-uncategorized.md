@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript links and libraries"
 shortnote: "Tutorials, articles, and resources--no frameworks."
-tags: [javascript, frontend, all]
+tags: [javascript, front-end, all]
 ---
 
 ## Start here
@@ -21,7 +21,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 
 ## Articles, cheatsheets, documentation
-* [Awesome collection of courses](https://frontendmasters.com/courses/)
+* [Awesome collection of courses](https://front-endmasters.com/courses/)
 * [Intro to writing object-oriented JavaScript](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 * [OverAPI JavaScript Cheatsheet](http://overapi.com/javascript)
 * [JSFiddle](https://JavaScriptfiddle.net/), an awesome site for trying out JavaScript code in the browser

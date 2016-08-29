@@ -2,12 +2,10 @@
 layout: post
 title: "Non-Rails Ruby Frameworks"
 shortnote: "Sinatra, Hanami, and cool articles."
-tags: [ruby, rails, backend, all]
+tags: [ruby, rails, back-end, all]
 ---
 
 ## Start here
-*nothing here yet!*
-
 There's more to Ruby web frameworks than [Rails]({{ site.baseurl }}/2016/01/01/ruby-rails/)! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email) is a lineup.
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/), an awesome tool.

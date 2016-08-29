@@ -2,13 +2,11 @@
 layout: post
 title: "HTML, CSS, DOM"
 shortnote: "Tutorials and articles."
-tags: [frontend, all]
+tags: [front-end, all]
 ---
 
 ## Start here
-Check out these [tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your frontend code.
-
-Particularly good once you've been messing around with HTML&CSS for a while: [the lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning).
+Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your front-end code.
 
 <hr>
 
@@ -38,6 +36,7 @@ Particularly good once you've been messing around with HTML&CSS for a while: [th
 * [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/): Flex box is an awesome overtaker in the painful area of element positioning. No more `float: left`! Flexbox really is magical.
 * [cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
 * [Sitepoint CSS reference](http://reference.sitepoint.com/css)
+* [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
 
 <hr>
 

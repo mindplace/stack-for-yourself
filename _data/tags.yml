@@ -12,8 +12,8 @@ categories:
 general:
   name: General
 
-backend:
-  name: Backend
+back-end:
+  name: back-end
 
 shell:
   name: Bash/Shell
@@ -47,8 +47,8 @@ ruby-frameworks:
     There IS a Ruby frameworks ecosystem beyond Rails!
 
 # 6
-frontend:
-  name: Frontend
+front-end:
+  name: front-end
 
 javascript:
   name: JavaScript

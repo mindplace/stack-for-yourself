@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Frontend design for developers and assets"
-shortnote: "Designing sites, managing design choices, and more."
-tags: [frontend, all]
+title: "Assets, fonts, mockups, and design"
+shortnote: "Designing sites, managing asset choices, and more."
+tags: [front-end, all]
 ---
 
 ## Start here
-Check out this resource for [free front-end stuff you can use in your projects](http://www.premiumpixels.com/). And absolutely bookmark [Unsplash](https://unsplash.com/)!
+Check out this resource for [free front-end things, like code samples or images, you can use in your projects](http://www.premiumpixels.com/).
+
+Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get free, high-quality, beautiful photos for use in any projects.
 
 <hr>
 
@@ -22,7 +24,7 @@ Check out this resource for [free front-end stuff you can use in your projects](
 * [“A Simple Web Developer’s Guide to Color”](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 * [Unsplash](https://unsplash.com/): completely free high quality photos
 * [Make your own visuals](https://www.canva.com/)
-* [make icons for free](https://iconsflow.com/)
+* [Create icons for free](https://iconsflow.com/)
 
 <hr>
 

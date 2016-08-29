@@ -9,7 +9,7 @@ baseurl:          ''
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [all, blog]
-all_tags:         [general, shell, algorithms, backend, databases, ruby, rails, ruby-frameworks, frontend, javascript, mobile, working]
+all_tags:         [general, shell, algorithms, back-end, databases, ruby, rails, ruby-frameworks, front-end, javascript, mobile, working]
 
 # Fallback image and color if not overwritten for tag or post
 color:            '#A85641'

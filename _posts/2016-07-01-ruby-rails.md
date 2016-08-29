@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby on Rails"
 shortnote: "Overview of the Rails framework, tutorials, and articles."
-tags: [ruby, rails, ruby-frameworks, backend, all]
+tags: [ruby, rails, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
@@ -12,13 +12,11 @@ Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on H
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({{ site.basurl }}/2016/01/01/ruby-frameworks)).
 
-<hr>
-
 [There are quite a lot of different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails, so get started!
 
 <hr>
 
-# Tutorials and books
+## Tutorials and books
 
 ### Free and essential
 * *[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time. Also, you can [check out his take on Rails for beginner programmers](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner).
@@ -31,13 +29,12 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*.
 * [Rails Best-practices Blog](http://rails-bestpractices.com/)
 
-
-### Not free but also awesome
+### Other books and courses
 * *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*
 * *[Rails 4 in Action](https://www.amazon.com/Rails-Action-Revised/dp/1617291099)*
 * *[Agile Web Development With Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)*
 * [LevelUP courses](https://www.leveluprails.com/)
-* *[Objects on Rails](http://objectsonrails.com/)*, by the awesome Avdi Grimm, check out his awesome tech blog + podcasts [here](http://www.virtuouscode.com/).
+* *[Objects on Rails](http://objectsonrails.com/)*, by Avdi Grimm, and be sure to check out his [tech blog and podcasts](http://www.virtuouscode.com/).
 
 <hr>
 
@@ -56,7 +53,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Validations and callbacks](http://guides.rubyonrails.org/v3.2.13/active_record_validations_callbacks.html)
 * [tutplus Active Record overview](http://code.tutsplus.com/tutorials/active-record-the-rails-database-bridge--net-30489)
 * [Avoiding n+1 queries](http://estherleytush.com/2016/07/10/avoiding-n-plus-one-queries.html), possibly the most common reason for slow Rails apps.
-* [Advanced SQL with Rails](http://brewhouse.io/2016/08/04/sql-in-rails.html), a great small tutorial on writing SQL queries in Rails. 
+* [Advanced SQL with Rails](http://brewhouse.io/2016/08/04/sql-in-rails.html), a great small tutorial on writing SQL queries in Rails.
 
 <hr>
 
@@ -69,10 +66,10 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 <hr>
 
-## Rails and the frontend
+## Rails and the front-end
 * [1-page Ajaxified Rails site](https://codediode.io/lessons/1904-ajaxified-one-page-application-with-rails)
 * [React with Devise forms](https://labs.chie.do/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting)
-* [WYSIWYG postings editor](https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix): add an awesome text editor for your views that can send back rich text to your backend.
+* [WYSIWYG postings editor](https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix): add a text editor for your views that can send back rich text to your back-end.
 * [CRUD interface with React and Rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
 * [Making Rails asset pipeline faster](http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster)
 * [Asset pipeline best practices](https://launchschool.com/blog/rails-asset-pipeline-best-practices)

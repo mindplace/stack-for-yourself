@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Non-JavaScript frontend frameworks"
+title: "Non-JavaScript front-end frameworks"
 shortnote: "Jekyll, Bootstrap, Materialize."
-tags: [frontend, all]
+tags: [front-end, all]
 ---
 ## Start here
-Learn and use [gh-pages](https://pages.github.com/) to host your pages and sites.
+Learn and use [Github Pages](https://pages.github.com/) to host your pages and sites: essentially a free, hosted, live version of your front-end repositories.
 
 <hr>
 
@@ -14,7 +14,8 @@ Jekyll is an amazing, lightweight front-end framework for organizing and generat
 It's got [great documentation](https://jekyllrb.com/docs/home/) and was created by a Github founder. It's an awesome solution for rolling your own blog or small personal site, and can be hosted for free on Github's [gh-pages](https://pages.github.com/).
 
 * [Jekyll tags from scratch](http://charliepark.org/tags-in-jekyll/)
-* [Prose.io](http://prose.io/): create md files via a web interface that immediately show up on the appropriate Jekyll site (or just to the appropriate repository).
+* [Prose.io](http://prose.io/): create MD files via a web interface that immediately show up on the appropriate Jekyll site (or just to the appropriate repository).
+* [Forestry.io](https://forestry.io/): even better than Prose.io, it's a lightweight [content management system](https://en.wikipedia.org/wiki/Content_management_system) that mimics Wordpress' functionality for Jekyll sites.
 * [Tags and categories with Jekyll](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 * [Put interactive Ruby snippets on your blog](http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html)
 * [Using static site generators at scale](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/): specifically, Jekyll. Great read.
@@ -32,7 +33,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 <hr>
 
 ## Materialize
-[Material design](https://material.google.com/#introduction-goals) is a concept developed by Google, which then developed into [Materialize](http://materializecss.com/), a CSS & JS library, currently gaining hugely in popularity over Bootstrap. The docs are [almost as good as Bootstrap's](http://materializecss.com/).
+[Material design](https://material.google.com/#introduction-goals) is a concept developed by Google, which then developed into [Materialize](http://materializecss.com/), a CSS & JS library, currently gaining hugely in popularity and competing with Bootstrap. The documentation is [almost as good as Bootstrap's](http://materializecss.com/).
 
 * [Google's Material design resources](https://design.google.com/resources/?gclid=CjwKEAjwrIa9BRD5_dvqqazMrFESJACdv27Gv73GA7-ZeNdzg3VtJ5iOujUMXSEvO0bTQMb7hnqr3xoCiq7w_wcB#resizer)
 * [Gorgeous material design UI kit](http://www.creative-tim.com/live/material-kit)

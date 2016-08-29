@@ -2,17 +2,17 @@
 layout: post
 title: "SQL databases"
 shortnote: "SQL/PostgreSQL/MySQL/etc books, articles, and resources."
-tags: [databases, backend, all]
+tags: [databases, back-end, all]
 ---
 
 ## Start here
-[Database tables designing tool](https://schemadesigner.devbootcamp.com/)
+[Database tables designing tool](https://schemadesigner.devbootcamp.com/): before you can start coding up a new app, you must consider its basic data relationships.
 
-[Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
+[Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 
 <hr>
 
-## Database books
+## Books
 * *[Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)*
 * *[Beginning Database Design](https://www.amazon.com/Beginning-Database-Design-Novice-Professional/dp/1590597699)*
 

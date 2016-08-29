@@ -2,7 +2,7 @@
 layout: post
 title: "General computer science"
 shortnote: "Lots of general and high-level resources, good place to start."
-tags: [general, backend, frontend, all]
+tags: [general, back-end, front-end, all]
 ---
 
 ## Start here
@@ -21,19 +21,12 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 
 <hr>
 
-## Object Oriented Programming
-* [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
-* [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
-* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email)
-
-<hr>
-
 ## More general Computer Science resources
 * *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: links to a free PDF copy.
 * [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
 * [More good programming books](http://sixrevisions.com/lists/free-books-code/)
 * [UNIX philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
-* [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science.
 * [Writing good documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
+* [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science.

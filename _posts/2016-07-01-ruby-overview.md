@@ -2,31 +2,28 @@
 layout: post
 title: "Ruby overview"
 shortnote: "A general overview of Ruby, cheatsheets, articles, testing, RegExps, and more."
-tags: [ruby, rails, ruby-frameworks, backend, all]
+tags: [ruby, rails, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
-*nothing here yet!*
-
-<hr>
-
-Check out [Team Treehouse's list of awesome Ruby projects](http://blog.teamtreehouse.com/coolest-ruby-projects-ever  ). Ruby is written in C, and you can look at [its source code on Github](https://github.com/ruby/ruby/  ) because it's an open source language, which is how you're able to learn it for free. Also, there's a project to
+Check out [Team Treehouse's list of Ruby projects](http://blog.teamtreehouse.com/coolest-ruby-projects-ever  ). Ruby is written in C, and you can look at [its source code on Github](https://github.com/ruby/ruby/  ) because it's an open source language, which is how you're able to learn it for free. Also, there's a project to
 [write a Ruby compiler in Ruby]( http://hokstad.com/compiler) as part of a fun effort to write Ruby in Ruby (as opposed to C).
 
 Definitely [take a look at the Ruby core object model](https://www.gliffy.com/go/publish/5152080) to get a sense for how it organizes itself.
 
-Probably the best reason to learn Ruby is to be able to build awesome things on the web and have a lot of fun while doing it. So check out [Rails](/tag/rails/) and other [Ruby frameworks](/tag/ruby-frameworks/) for building with
+Probably the best reason to learn Ruby is to be able to build things on/for the web and have a lot of fun while doing it. So check out [Rails](/tag/rails/) and other [Ruby frameworks](/tag/ruby-frameworks/) for building with
 Ruby on the web.
 
-Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups. Less well known
+Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups.
+
 <hr>
 
 ## Some really great resources
 * [Rails Casts](http://www.grok-interactive.com/podcast/ ), some of the most well-known Ruby/Rails casts, many come with really excellent notes if you don't learn by listening.  
-* [Awesome Ruby](http://awesome-ruby.com/?utm_source=rubyweekly&utm_medium=email  ), big bunch of awesome resources.
+* [Awesome Ruby](http://awesome-ruby.com/?utm_source=rubyweekly&utm_medium=email  ), big bunch of great resources.
 * [PracticingRuby](https://www.practicingruby.com/)
 * [Ruby Rogues podcast](https://devchat.tv/ruby-rogues), a panel discussion about topics relating to programming, careers, community, and Ruby. They release a conversation with notable programmers and Rubyists each week.
-* [Ruby Weekly](http://rubyweekly.com/?m), a once–weekly e-mail round-up of Ruby news and articles, created and managed by Peter Cooper, author of the awesome *[Beginning Ruby](https://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634)* book.
+* [Ruby Weekly](http://rubyweekly.com/?m), a once–weekly e-mail round-up of Ruby news and articles, created and managed by Peter Cooper, author of *[Beginning Ruby](https://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634)* book.
 
 <hr>
 

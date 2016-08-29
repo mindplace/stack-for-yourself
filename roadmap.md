@@ -11,7 +11,7 @@ You want to learn how to program. Hopefully you want to learn to build web appli
 
 This site is an aggregation of resources from around the web to help you in your quest. Browse it, then come back when you're ready to jump into one of the topics more deeply.
 
-You won't really find answers to your immediate questions here. Instead, you'll find resources to get deeper into all sorts of different topics. For example, if you want to learn about [CSS]({{ site.baseurl }}/2016/01/01/frontend-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
+You won't really find answers to your immediate questions here. Instead, you'll find resources to get deeper into all sorts of different topics. For example, if you want to learn about [CSS]({{ site.baseurl }}/2016/01/01/front-end-part-1-html-css-dom/) and need resources to start, this is the right site for you. If you want to understand why `height: 100%` doesn't quite work the same way `width: 100%` seems to, StackOverflow is better.
 
 <hr>
 
@@ -36,14 +36,14 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 * Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or C# is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
 * Learn the language you've chosen by solving small problems and graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
 * Take a couple of free courses on fundamental computer science basics: check out Open MIT, iTunes University, or Coursera.
-* Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the backend language you've chosen.
+* Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the back-end language you've chosen.
 * Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
-* Learn a web framework for the backend language you chose.
+* Learn a web framework for the back-end language you chose.
 * Learn how to setup and use databases with your projects. Get really comfortable with SQL syntax.
 * Be able to create simple pages with HTML and CSS.
 * Learn JavaScript. No whining. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
 * Learn about the DOM and the way JavaScript interacts with HTML & CSS. While you're at it, learn jQuery.
-* Choose a frontend JavaScript framework and learn it. Every current framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
+* Choose a front-end JavaScript framework and learn it. Every current framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
 * Learn to deploy your code to servers, using services like Heroku or Amazon Web Services, to have your projects visible live.  
 * Build projects to showcase every single aspect of your learning. Share all your best code on Github so others can see your portfolio and possibly even use the code you've written.
 * Honestly, build as much as possible. Have ideas and work to make them happen.
@@ -74,7 +74,7 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/), which is when you learn or are taught a concept until you master it, before moving on to the next one. Ideally, you do it with the help of a mentor or community. Here's some places to do that:
 
 * [Odin Project](http://www.theodinproject.com/ruby-programming): completely free, Ruby-based full-stack development program, with an amazing online community.
-* [FreeCodeCamp](https://www.freecodecamp.com/): superb, completely free program, teaching from the frontend backwards, with an excellent and huge community which in many cities has local presence. Actively maintained and being expanded to include new courses such as one teaching D3.js.
+* [FreeCodeCamp](https://www.freecodecamp.com/): superb, completely free program, teaching from the front-end backwards, with an excellent and huge community which in many cities has local presence. Actively maintained and being expanded to include new courses such as one teaching D3.js.
 * [Bloc.io](https://www.bloc.io/web-developer-career-track): a paid bootcamp whose model is to connect you with a developer who acts as a mentor.
 * [Thinkful](https://www.thinkful.com/): similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.
 
