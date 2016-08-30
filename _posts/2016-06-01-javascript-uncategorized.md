@@ -60,12 +60,16 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 ### Moment.js
 * [A great library for date and time](http://momentJavaScript.com/): comes with a ton of useful date and time functions
 
+### More
+* [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
+
 <hr>
 
 ## Writing tests for JavaScript
 * [Tutorial on getting setup with Jasmine gem](http://jasmine.github.io/2.4/introduction.html)
 * [Jasmine syntax and methods](http://jasmine.github.io/2.4/introduction.html)
 * [TDD With JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
+* [Testing jQuery with Jasmine](https://github.com/velesin/jasmine-jquery)
 
 <hr>
 
