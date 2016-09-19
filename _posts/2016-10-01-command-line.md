@@ -11,8 +11,12 @@ tags: [shell, back-end, all]
 
 ## Getting started with bash/shell/CLI
 
+### Reference manuals
 * [Bash reference manual](http://www.gnu.org/software/bash/manual/bashref.html)
+* [TLDP's Intro to Bash](http://www.tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html), another great and clean reference/tutorial
 * [Bash cheatsheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+
+### Leveling up your command-line bash/shell skills
 * [OverTheWire Command Line game](http://overthewire.org/wargames/bandit/) helping teach you how to use the command line.
 * [Command Line Crash Course]([http://cli.learncodethehardway.org/book/)
 * [Writing a shell in Ruby](http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/?utm_source=rubyweekly&utm_medium=email)

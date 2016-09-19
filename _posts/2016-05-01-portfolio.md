@@ -15,7 +15,7 @@ As a **front-end** developer, for example, you would make sure your Github repos
 * Something built with a [JavaScript framework like React, Angular, or Ember]({{ site.baseurl }}/2016/06/01/javascript-frameworks)
 * Several somethings that make use of [non-JS frameworks like Bootstrap, Materialize, Jekyll, etc.]({{ site.baseurl/2016/06/01/front-end-part-3-non-js-frameworks}})
 
-A **back-end** developer would probably spend less time building front-end projects like those that fit above's list. For them, a good list could include:
+A **back-end** developer would probably spend less time building front-end projects like those that fit above's list. [Here's a great Quora question/answers on this](https://www.quora.com/What-does-a-good-junior-backend-developer-portfolio-website-look-like). For them, a good list could include:
 
 * A couple projects built on web frameworks, like [Rails (Ruby's main web framework)]({{ site.baseurl }}/2016/07/01/ruby-rails), or [Node (JavaScript for the back-end)]({{ site.baseurl }}/2016/06/01/javascript-frameworks), or [.NET (C#'s web framework)](https://www.microsoft.com/net)...the list goes on.
 * At least one of those should be built to deliver info via something like [JSON](http://www.w3schools.com/json/), rather than views: in short, built to be an [API]({{ site.baseurl }}/2016/05/01/open-apis)
@@ -26,6 +26,8 @@ So put together at least 10 projects you can talk about to other developers and 
 <hr>
 
 ### Get ideas on stuff to build
+Below are some places to get ideas on stuff to build yourself--but also remember that [contributing to open source projects]({{ site.baseurl }}/2016/05/01/contributing-to-open-source) are one of the best ideas you can have if you want to build up your credibility as a programmer.
+
 * [SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2016-Ideas)
 * [Skillshare](http://skillshare.im/)
 * [DreamingInCode](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)

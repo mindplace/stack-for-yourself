@@ -9,6 +9,12 @@ Local events and meetups are great ways to get involved with other developers, l
 
 <hr>
 
+### Podcasts
+Listening to technical and tech-light podcasts are a great way to ease yourself into the coding community. Check out these good ones:
+
+* [Best podcasts for new coders](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.2tw6sfg9f)
+
+
 ### Local communities
 Find your local techies via [Meetup](meetup.com) groups and [Eventbrite events](eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.
 

@@ -5,6 +5,8 @@ shortnote: "Jekyll, Bootstrap, Materialize."
 tags: [front-end, all]
 ---
 ## Start here
+Check out this great roadmap: ["From Zero to Front-end Hero, Part 2"](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.jipjenhuj) ([Part 1 is for HTML&CSS](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.sb4dij3lx)).
+
 Learn and use [Github Pages](https://pages.github.com/) to host your pages and sites: essentially a free, hosted, live version of your front-end repositories.
 
 <hr>
@@ -30,6 +32,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 
 * [Bootstrap forms](https://bootstrapbay.com/blog/working-bootstrap-contact-form/)
 * [free Bootstrap themes](http://bootswatch.com/)
+* [Material Bootstrap design](http://mdbootstrap.com/material-design-for-bootstrap/): lots of great UI pieces to use, a good library to know.
 
 <hr>
 

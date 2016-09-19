@@ -6,6 +6,8 @@ tags: [front-end, all]
 ---
 
 ## Start here
+Start with this great roadmap: ["From Zero to Front-end Hero, Part 1"](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.sb4dij3lx). ([Part 2 is for JavaScript](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.jipjenhuj).)
+
 Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your front-end code.
 
 <hr>

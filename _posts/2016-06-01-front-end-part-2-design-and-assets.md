@@ -43,3 +43,4 @@ Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get f
 * ["Design is About Solving Problems"](https://www.smashingmagazine.com/2011/08/design-solving-problems/)
 * ["What is UX Design?"](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 * [Design for Developers resources](https://gist.github.com/jenmyers/7354863)
+* ["9 Nasty UX Truths"](https://medium.com/radical-ux/nine-nasty-ux-truths-83b30ea94355#.grg4tkfyb)

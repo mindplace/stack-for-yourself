@@ -41,3 +41,9 @@ And take the time to read this great essay on the [maker's schedule](http://www.
 * [Trello](https://trello.com/), organize via 'boards'.
 * [Evernote](https://www.evernote.com/referral/Registration.action?sig=beaceb2cbd8b81059e0c159e700172056225c39ab31ab7fa54426f96b9cd7bc7&uid=63359964), for organizing all your projects and papers.
 * [Asana](https://app.asana.com/), helping teams keep on track on projects.
+
+<hr>
+
+### Other valuable software/concepts
+* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that (like [this one](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=en)), and I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12). 
+* [Rescue Time](https://www.rescuetime.com/): get metrics on how you spend your time
