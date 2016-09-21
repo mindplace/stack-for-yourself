@@ -20,6 +20,8 @@ A vast percentage of web development is done with object-oriented languages, inc
 <hr>
 
 ## Different Languages
+### [Ruby]({{ site.baseurl }}/2016/07/01/ruby-overview)
+* [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.f3lu2q7a7)
 
 ### [Go](https://golang.org/doc/)
 A very very cool language developed by Google and currently taking off.

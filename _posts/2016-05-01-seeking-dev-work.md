@@ -24,6 +24,7 @@ tags: [working, all]
 * [Triplebyte's bootcamp vs college review](http://blog.triplebyte.com/bootcamps-vs-college)
 * [Graduated Code School, Now What?](https://www.kcoleman.me/blog/2015/12/06/i-graduated-from-a-code-school-now-what/)
 * ["How I landed my first programming job and what I learned after bootcamp"](http://www.tablexi.com/developers/first-programming-job/)
+* ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://www.linkedin.com/pulse/open-letter-employers-behalf-bootcamp-grads-also-tom-goldenberg?trk=mp-reader-card)
 
 <hr>
 

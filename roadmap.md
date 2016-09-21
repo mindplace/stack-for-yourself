@@ -78,6 +78,8 @@ I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/ho
 * [Bloc.io](https://www.bloc.io/web-developer-career-track): a paid bootcamp whose model is to connect you with a developer who acts as a mentor.
 * [Thinkful](https://www.thinkful.com/): similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.
 
+In general, if you choose to go to a bootcamp, [get the most out of it](https://www.linkedin.com/pulse/5-steps-get-most-out-coding-bootcamp-tom-goldenberg?trk=hp-feed-article-title-publish). 
+
 <hr>
 
 ## You need to know a variety of things to be a developer...
