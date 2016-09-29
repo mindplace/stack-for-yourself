@@ -12,6 +12,7 @@ tags: [algorithms, back-end, all]
 
 ## Places to find challenges
 * [Codewars](http://www.codewars.com/dashboard)
+* [CoderByte](https://coderbyte.com/)
 * [CodeEval](https://www.codeeval.com/dashboard/)
 * [Programmr challenges](http://www.programmr.com/zone/ruby)
 * [Codequizzes](http://www.codequizzes.com/)
