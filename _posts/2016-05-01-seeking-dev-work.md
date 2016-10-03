@@ -8,7 +8,9 @@ tags: [working, all]
 ## If nothing else...
 [Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and info. And check out [InfoQ](http://www.infoq.com/) for lots of general resources.
 
-[This](https://www.linkedin.com/pulse/best-resources-nyc-startup-jobs-will-blaze?trk=prof-post) is a great place to look for start-up jobs. Why start-ups? Because they're more willing to take risks, which means hiring untried developers...and because there's so much work to be done that you'll have no choice but to grab hold with both arms.
+As an inexperienced developer, you'll be at a disadvantage...but you [can still land a job. It's just harder.](https://simpleprogrammer.com/2016/09/12/software-development-job-without-experience/)
+
+[This](https://www.linkedin.com/pulse/best-resources-nyc-startup-jobs-will-blaze?trk=prof-post) is a great place to look for start-up jobs. Why start-ups? Because they're more willing to take risks, which means hiring untried developers...and because there's so much work to be done that you'll have no choice but to grab hold with both hands.
 
 [This](https://clutchtalent.github.io/beginning-job-search/) is an amazing thoughtful guide to getting your first job after bootcamp or a self-taught program.
 

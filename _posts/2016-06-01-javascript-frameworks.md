@@ -8,6 +8,7 @@ tags: [javascript, front-end, all]
 ## Start here
 There's quite a lot of JavaScript frameworks to choose from! [Here's an article](https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/) to help you decide which one you're going to learn. Here's my 2 cents: [Angular.js, developed by Google, and React, developed by Facebook, are coming out on the very top.](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.275mvwu8w) Angular looked like it was taking the lead for a while, but now React is making a much stronger leap forward, and it looks like it's going to emerge as the winner in terms of popularity and ease of use.
 
+Whatever framework you choose, [don't flounder among the many build tools out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q): but be familiar with the big ones, like [gulp](http://gulpjs.com/), [npm](https://www.npmjs.com/package/build-tools), [yeoman](http://yeoman.io/), and [Bower](https://bower.io/). 
 <hr>
 
 ## React
