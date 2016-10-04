@@ -55,7 +55,9 @@ Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/
 
 * [Net::HTTP Cheatsheet](http://www.rubyinside.com/nethttp-cheat-sheet-2940.html), best short-and-sweet support for making raw HTTP requests with Ruby, no framework required.
 * [HTTP Calls with Ruby](https://blog.codeship.com/http-calls-ruby/?utm_source=rubyweekly&utm_medium=email)
-* [unirest](http://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](http://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax. 
+* [unirest](http://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](http://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax.
+* [Building a Rack web server in Ruby](https://ksylvest.com/posts/2016-10-04/building-a-rack-web-server-in-ruby)
+
 <hr>
 
 ## Testing - RSpec and more

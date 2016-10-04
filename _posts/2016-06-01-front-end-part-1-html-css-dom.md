@@ -40,6 +40,11 @@ Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-way
 * [Sitepoint CSS reference](http://reference.sitepoint.com/css)
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
 
+## SASS & other CSS preprocessors
+Start [here](http://sass-lang.com/guide) to understand the basics.
+
+* [SASS reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) and getting started
+* [Nested selectors in SCSS/SASS](http://thesassway.com/beginner/the-inception-rule)
 <hr>
 
 ## Understanding the DOM
