@@ -6,7 +6,11 @@ tags: [algorithms, back-end, all]
 ---
 
 ## Start here
+Algorithms are small problems to solve with code, sometimes requiring cleverness, often requiring loops, and even more often requiring different kinds of [data structures]({{ site.baseurl }}/2016/08/01/data-structures) to solve, such as [arrays](https://www.tutorialspoint.com/ruby/ruby_arrays.htm) and [hashes](https://www.tutorialspoint.com/ruby/ruby_hashes.htm) to name a few. They are very commonly used as [interview questions]({{ site.baseurl }}/2016/05/01/seeking-dev-work).
+
 [Project Euler problems](https://projecteuler.net/archives) is a superb and simple resource to get great and challenging math-based algorithms.
+
+Remember that algorithms go hand in hand with [data structures]({{ site.baseurl }}/2016/08/01/data-structures).
 
 <hr>
 

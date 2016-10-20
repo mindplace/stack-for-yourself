@@ -34,9 +34,13 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * *[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1471617539&sr=8-1&keywords=cracking+the+coding+interview)*, probably the bible for technical interviews.
 * [Coderrust](http://www.coderust.com/)
 * [interview.io](http://interviewing.io/)
-* [Interview cake](https://www.interviewcake.com/question/ruby/stock-price)
-* [Codility](https://codility.com/)
-* [Practicing for coding interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
+* [Interview cake](https://www.interviewcake.com)
+* [List of interview questions](http://kelukelu.me/interview/questions.html)
+* [Another epic list of interview questions](http://katemats.com/interview-questions/), both technical and conceptual.
+* [Algorithms and interview prep](http://meetupresources.herokuapp.com/index.html) questions and resources
+* More [practice questions and resources](http://codingforinterviews.com/practice)
+* [Codility](https://codility.com/): get hired via answering interview questions online
+* [Practicing for the coding interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
 * [Ruby on Rails interviews](http://blog.mypath.io/ruby-on-rails-interview-questions-that-will-land-you-the-job/?utm_source=so&utm_medium=reddit&utm_campaign=rubyonrailsinterview)
 * [More Ruby interviews](http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/?utm_source=rubyweekly&utm_medium=email)
 * [The Art of Ruby Technical Interviews](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
@@ -65,3 +69,4 @@ Connect with the [technical community]({{ site.baseurl }}/2016/01/01/coding-comm
 * ["Don’t call yourself a programmer"](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * ["Four steps to Google without a degree"](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.sbzhzgc7y)
 * ["Always be coding"](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.c03lox9py): how to land an engineering job.
+* ["Ask a Female Engineer: Interviewing and Company Culture "](http://themacro.com/articles/2016/10/ask-a-female-engineer-3/?utm_content=buffer4b472&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): lots of women weighing in on their experiences with inclusive and exclusive company cultures and what it was like for them to try to figure out culture problems ahead of time. 
