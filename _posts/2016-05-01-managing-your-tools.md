@@ -15,6 +15,19 @@ And take the time to read this great essay on the [maker's schedule](http://www.
 
 <hr>
 
+### Vim
+An important text editor (like those mentioned above) but one that is meant to be navigated with only a keyboard. It has a steep learning curve, but it's really worth it to be able to edit and type in files at the speed of thought. Your computer already has it installed! That said, treat yourself to a better version via [MacVim](https://github.com/macvim-dev/macvim) (which supports non-Mac computers as well).
+
+* [StackOverflow answers on most-used vim shortcuts](http://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
+* [vim's own documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
+* ["Best of Vim tips"](http://rayninfo.co.uk/vimtips.html)
+* [Graphical Vim cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+* [Vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
+* [Vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
+
+
+<hr>
+
 ### Virtual machines, development environments, and Docker
 * [Docker: difference between images and containers](http://stackoverflow.com/questions/23735149/docker-image-vs-container)
 * [Getting started and check status commands](https://docs.docker.com/machine/get-started/)
@@ -45,5 +58,5 @@ And take the time to read this great essay on the [maker's schedule](http://www.
 <hr>
 
 ### Other valuable software/concepts
-* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that (like [this one](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=en)), and I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12). 
+* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that (like [this one](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=en)), and I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12).
 * [Rescue Time](https://www.rescuetime.com/): get metrics on how you spend your time

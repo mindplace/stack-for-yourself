@@ -99,6 +99,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Is your app ready for production?](http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production)
 * [Improving large rails apps with service objects](http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/)
 * [Phases of refactoring Rails apps](http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/)
+* [Adding search functionality with Solr](http://blog.nrowegt.com/how-to-setup-solr-on-rails/)
 
 <hr>
 
