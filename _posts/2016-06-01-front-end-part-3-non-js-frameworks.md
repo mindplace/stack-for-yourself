@@ -24,7 +24,10 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Putting Disqus comments onto a Jekyll site](http://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
 * [Implement Jekyll search using lunr.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/): adding search functionality to a Jekyll site
 * [Lots of Jekyll themes](https://github.com/drjekyllthemes/themes)
+* [Planet Jekyll](http://planetjekyll.github.io/showcase/), an awesome showcase of many Jekyll themes
 * [Gorgeous HMFAYSAL Omega theme for Jekyll](https://github.com/hmfaysal/hmfaysal-omega-theme)
+* [Create and publish your own Jekyll theme gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
+
 <hr>
 
 ## Bootstrap

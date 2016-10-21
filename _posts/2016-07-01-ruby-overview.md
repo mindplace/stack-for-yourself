@@ -57,6 +57,7 @@ Ruby powers some very cool sites online, like [Shopify](https://www.shopify.com/
 * [HTTP Calls with Ruby](https://blog.codeship.com/http-calls-ruby/?utm_source=rubyweekly&utm_medium=email)
 * [unirest](http://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](http://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax.
 * [Building a Rack web server in Ruby](https://ksylvest.com/posts/2016-10-04/building-a-rack-web-server-in-ruby)
+* [RestClient](https://github.com/rest-client/rest-client), a simple gem for making HTTP requests, another alternative/wrapper to Ruby's [Net::HTTP](http://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html)
 
 <hr>
 
