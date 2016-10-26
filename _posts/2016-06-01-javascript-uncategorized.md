@@ -49,8 +49,10 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [Events documentation](http://api.jquery.com/category/events/)
 * [Creating tabs with jQuery](http://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
 
-### Underscore.JavaScript
-* [Main page](http://underscoreJavaScript.org/)
+### Lodash.js
+Great library that dramatically extends basic array, collection, etc functionality so you don't have to write your own every time. Production-level library that's widely used.
+
+* [Main page](https://lodash.com/)
 
 ### data visualization libraries
 * [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
@@ -61,6 +63,8 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 
 ### More
 * [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
+* [Parallax.js](http://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
+* [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript. 
 
 <hr>
 
