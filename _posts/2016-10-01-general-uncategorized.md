@@ -28,5 +28,6 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 * [More good programming books](http://sixrevisions.com/lists/free-books-code/)
 * [UNIX philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
 * [Writing good documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+* [State University of NY at Albany](http://libguides.library.albany.edu/csci) open computer science courses to learn online for free
 * [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
 * [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science.

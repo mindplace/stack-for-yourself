@@ -26,4 +26,5 @@ tags: [databases, back-end, all]
 * [Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 
 ## PostgreSQL
+* [PostgreSQL's awesome documentation](https://www.postgresql.org/docs/9.6/static/index.html), a really important read, especially Chapter 1
 * [PostgreSQL exercises](https://pgexercises.com/)

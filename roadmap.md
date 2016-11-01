@@ -35,7 +35,7 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 * Get very comfortable with the command line. Learn the heck out of git.
 * Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or C# is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
 * Learn the language you've chosen by solving small problems and graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
-* Take a couple of free courses on fundamental computer science basics: check out Open MIT, iTunes University, or Coursera.
+* Take a couple of free courses on fundamental computer science basics: check out Open [MIT](https://ocw.mit.edu/courses/find-by-department/), iTunes University, or Coursera.
 * Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the back-end language you've chosen.
 * Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
 * Learn a web framework for the back-end language you chose.
@@ -68,7 +68,11 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 * [Learn the Hard Way courses](http://programming-motherfucker.com/become.html), highly recommended.
 * [Codeschool](http://discover-devtools.codeschool.com/): lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
 * [Videos at Lynda.com](https://www.lynda.com/)
+* [More videos](http://videolectures.net/Top/Computer_Science/), computer science video lectures
 * [Variety of free online computer science courses from universities](http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
+* [LifeHacker's "Programmer 101: Teach Yourself To Code"](http://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code) article with plenty of links
+* [Dreaming in Code](http://www.dreamincode.net/forums/forum/78-programming-tutorials/): Lots of tutorials for different languages
+
 
 ## Learning with some help
 I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/), which is when you learn or are taught a concept until you master it, before moving on to the next one. Ideally, you do it with the help of a mentor or community. Here's some places to do that:
@@ -78,7 +82,7 @@ I really like the idea of [mastery learning](http://techcrunch.com/2016/01/09/ho
 * [Bloc.io](https://www.bloc.io/web-developer-career-track): a paid bootcamp whose model is to connect you with a developer who acts as a mentor.
 * [Thinkful](https://www.thinkful.com/): similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.
 
-In general, if you choose to go to a bootcamp, [get the most out of it](https://www.linkedin.com/pulse/5-steps-get-most-out-coding-bootcamp-tom-goldenberg?trk=hp-feed-article-title-publish). 
+In general, if you choose to go to a bootcamp, [get the most out of it](https://www.linkedin.com/pulse/5-steps-get-most-out-coding-bootcamp-tom-goldenberg?trk=hp-feed-article-title-publish).
 
 <hr>
 
