@@ -23,6 +23,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Using static site generators at scale](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/): specifically, Jekyll. Great read.
 * [Putting Disqus comments onto a Jekyll site](http://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
 * [Implement Jekyll search using lunr.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/): adding search functionality to a Jekyll site
+* [Hydejack](https://github.com/qwtel/hydejack), one of my favorite Jekyll themes.
 * [Lots of Jekyll themes](https://github.com/drjekyllthemes/themes)
 * [Planet Jekyll](http://planetjekyll.github.io/showcase/), an awesome showcase of many Jekyll themes
 * [Gorgeous HMFAYSAL Omega theme for Jekyll](https://github.com/hmfaysal/hmfaysal-omega-theme)
