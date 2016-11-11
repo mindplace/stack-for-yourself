@@ -28,6 +28,7 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 * [Planet Jekyll](http://planetjekyll.github.io/showcase/), an awesome showcase of many Jekyll themes
 * [Gorgeous HMFAYSAL Omega theme for Jekyll](https://github.com/hmfaysal/hmfaysal-omega-theme)
 * [Create and publish your own Jekyll theme gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
+* [documentation for jekyll-assets](http://www.rubydoc.info/gems/jekyll-assets/0.13.0), a very useful gem for managing assets with Jekyll in a Rails-like way 
 
 <hr>
 
