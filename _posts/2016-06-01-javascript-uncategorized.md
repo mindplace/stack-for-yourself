@@ -18,6 +18,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
+* [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones. 
 
 ## Articles, cheatsheets, documentation
 * [Awesome collection of courses](https://front-endmasters.com/courses/)
@@ -64,7 +65,7 @@ Great library that dramatically extends basic array, collection, etc functionali
 ### More
 * [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
 * [Parallax.js](http://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
-* [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript. 
+* [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
 
 <hr>
 
