@@ -1,21 +1,12 @@
 ---
 layout: post
-title: "Back-end concepts and languages"
+title: "Back-end languages"
 shortnote: "Language links, general back-end things, and places to start getting a sense of back-end computing."
 tags: [back-end, all]
 ---
 
 ## Start here
 Check out [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems: helps you get a sense of how languages differ in their syntax and philosophies.
-
-<hr>
-
-## Object Oriented Programming
-A vast percentage of web development is done with object-oriented languages, including JavaScript. Get very comfortable with how OOP (object-oriented programming) handles concepts and processes.
-
-* [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
-* [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
-* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email)
 
 <hr>
 

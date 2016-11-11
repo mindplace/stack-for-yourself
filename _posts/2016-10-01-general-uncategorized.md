@@ -14,6 +14,15 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 
 <hr>
 
+## Object Oriented Programming
+A vast percentage of web development is done with object-oriented languages, including JavaScript. Get very comfortable with how OOP (object-oriented programming) handles concepts and processes.
+
+* [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
+* [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
+* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email)
+
+<hr>
+
 ## Internet basics
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html), a thorough primer on HTTP.
 * [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
@@ -21,7 +30,7 @@ But it's not always so serious... languages can be [kind of ridiculous](https://
 
 <hr>
 
-## More general Computer Science resources
+## Great general resources
 * *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: links to a free PDF copy.
 * [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
