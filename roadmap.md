@@ -19,11 +19,11 @@ You won't really find answers to your immediate questions here. Instead, you'll 
 
 It's not just you who might feel that way. Don't give up.
 
-Your [first 100 hours](https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code) will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and `puts` statements, and suddenly you'll find yourself trying to solve some sort of simple [algorithm]({{ site.baseurl }}/2016/09/01) like [finding the nth Fibonacci number](http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/) and everything will break and you'll cry out of fear and frustration and because you'll remember that part of you believes you're not cut out for this.
+Your [first 100 hours](https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code) will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and `puts` statements, and suddenly you'll find yourself trying to solve some sort of simple [algorithm]({{ site.baseurl }}/2016/09/01) like [finding the nth Fibonacci number](http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/) and everything will break and you'll get frustrated and cry and feel fear and believe you're not cut out for this.
 
 <img src="http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png" width="100%">
 
-But keep at it and it will continue to make more and more sense. [Organize yourself and your projects]({{ site.baseurl }}/2016/01/01/managing-your-tools), stay on top of where you are in your plan, [reach out to others for help, direction, support, and community]({{ site.baseurl }}/2016/01/01/coding-community), and don't lose heart.
+Don't let this deter you. Keep at it and it will continue to make more and more sense. [Organize yourself and your projects]({{ site.baseurl }}/2016/01/01/managing-your-tools), stay on top of where you are in your plan, [reach out to others for help, direction, support, and community]({{ site.baseurl }}/2016/01/01/coding-community), and don't lose heart.
 
 <hr>
 
@@ -33,18 +33,18 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 
 * Be able to type very well, quickly, and cleanly. Try [typing.io](https://typing.io/) to level up.
 * Get very comfortable with the command line. Learn the heck out of git.
-* Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or C# is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
-* Learn the language you've chosen by solving small problems and graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
-* Take a couple of free courses on fundamental computer science basics: check out Open [MIT](https://ocw.mit.edu/courses/find-by-department/), iTunes University, or Coursera.
+* Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or Java is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
+* Learn the language you've chosen by solving small problems/algorithms and then graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
+* Take a couple of free courses on fundamental computer science basics: check out [Open MIT](https://ocw.mit.edu/courses/find-by-department/), iTunes University, or Coursera.
 * Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the back-end language you've chosen.
 * Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
 * Learn a web framework for the back-end language you chose.
 * Learn how to setup and use databases with your projects. Get really comfortable with SQL syntax.
 * Be able to create simple pages with HTML and CSS.
-* Learn JavaScript. No whining. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
-* Learn about the DOM and the way JavaScript interacts with HTML & CSS. While you're at it, learn jQuery.
-* Choose a front-end JavaScript framework and learn it. Every current framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
-* Learn to deploy your code to servers, using services like Heroku or Amazon Web Services, to have your projects visible live.  
+* Learn JavaScript. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
+* Learn about the DOM and the way JavaScript interacts with HTML & CSS. Do this by learning jQuery.
+* Choose a front-end JavaScript framework and learn it. Every modern framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
+* Learn to deploy your code to servers, using services like Heroku or Amazon Web Services, to have your projects visible live. You can deploy applications that do not have a back-end or database--applications such as a small set of HTML, CSS, and JavaScript files--for free on Github via Github Pages.
 * Build projects to showcase every single aspect of your learning. Share all your best code on Github so others can see your portfolio and possibly even use the code you've written.
 * Honestly, build as much as possible. Have ideas and work to make them happen.
 
@@ -55,21 +55,22 @@ But keep at it and it will continue to make more and more sense. [Organize yours
 ## Learning on your own
 [Go from Zero to Programmer Hero in One Guide!](http://everydayutilitarian.com/essays/learn-code/) But really there's a lot of [cool discussions](https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use) about how to get into web development when you're a raw beginner to programming generally that are worth checking out.
 
-* [Essential competencies for Rails development](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin): Rails is the major web framework for Ruby, and a popular choice for building apps quickly and well.
+* [Codecademy's Full Stack path](https://www.codecademy.com): Codecademy is an amazing first step on your road to code, especially if you have never written any code before. Great introduction to essential full stack concepts and competencies.
+* [Essential things you need to know for Rails development](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin): Rails is the major web framework for Ruby, and a popular choice for building apps quickly and well.
 * [Where to start learning Rails and general webdev concepts](http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending)
 * [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 * [Code.org courses](https://code.org/learn)
 * [Viking School prep course](https://www.vikingcodeschool.com/prep)
-* [IRN app, JS-based course to learn programming](http://lrnapp.com/)
-* [Code Avengers: various free courses to learn basics](https://www.codeavengers.com/profile#intro)
-* [TreeHouse, various small courses](https://teamtreehouse.com/)
+* [IRN app](http://lrnapp.com/): JavaScript-based course to learn programming.
+* [Code Avengers](https://www.codeavengers.com/profile#intro): various free courses to learn basics.
+* [Team TreeHouse](https://teamtreehouse.com/): various small courses.
 * [KhanAcademy courses](https://www.khanacademy.org/)
 * [Bento](https://bento.io/), cool tutorials for different web development technologies and concepts.
 * [Learn the Hard Way courses](http://programming-motherfucker.com/become.html), highly recommended.
 * [Codeschool](http://discover-devtools.codeschool.com/): lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
-* [Videos at Lynda.com](https://www.lynda.com/)
-* [More videos](http://videolectures.net/Top/Computer_Science/), computer science video lectures
-* [Variety of free online computer science courses from universities](http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
+* [Lynda](https://www.lynda.com/): video tutorials.
+* [More videos](http://videolectures.net/Top/Computer_Science/): computer science video lectures
+* [Variety of free online computer science courses from universities](http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science): these are often Computer Science courses that teach broad programming/computer concepts.
 * [LifeHacker's "Programmer 101: Teach Yourself To Code"](http://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code) article with plenty of links
 * [Dreaming in Code](http://www.dreamincode.net/forums/forum/78-programming-tutorials/): Lots of tutorials for different languages
 
