@@ -11,6 +11,8 @@ This site itself is written on technologies that are open-sourced, [Ruby]({{ sit
 
 Open source contributions tend to take the form of contributing your work to projects that are already available, but you can also write code for other people to use, for example making a [Ruby gem]({{ site.baseurl }}/2016/07/01/ruby-gems).
 
+Girl Develop It put together a great presentation on the topic, [get the PDF here]({{ site.url }}/girl-develop-it-oss.pdf).
+
 <hr>
 
 ### git and Github

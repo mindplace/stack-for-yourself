@@ -39,6 +39,7 @@ Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-way
 * [cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
 * [Sitepoint CSS reference](http://reference.sitepoint.com/css)
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
+* [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.w
 
 ## SASS & other CSS preprocessors
 Start [here](http://sass-lang.com/guide) to understand the basics.

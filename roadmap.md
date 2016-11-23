@@ -56,6 +56,7 @@ Don't let this deter you. Keep at it and it will continue to make more and more 
 [Go from Zero to Programmer Hero in One Guide!](http://everydayutilitarian.com/essays/learn-code/) But really there's a lot of [cool discussions](https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use) about how to get into web development when you're a raw beginner to programming generally that are worth checking out.
 
 * [Codecademy's Full Stack path](https://www.codecademy.com): Codecademy is an amazing first step on your road to code, especially if you have never written any code before. Great introduction to essential full stack concepts and competencies.
+* ["How to Get a Developer Job In Less Than A Year"](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645#.wz90cqkwl): perspective from [FreeCodeCamp](https://www.freecodecamp.com/).
 * [Essential things you need to know for Rails development](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin): Rails is the major web framework for Ruby, and a popular choice for building apps quickly and well.
 * [Where to start learning Rails and general webdev concepts](http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending)
 * [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)

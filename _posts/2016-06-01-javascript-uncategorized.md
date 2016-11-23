@@ -18,7 +18,7 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
-* [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones. 
+* [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
 
 ## Articles, cheatsheets, documentation
 * [Awesome collection of courses](https://front-endmasters.com/courses/)
@@ -79,3 +79,5 @@ Great library that dramatically extends basic array, collection, etc functionali
 
 ## Free stuff
 Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
+
+* [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
