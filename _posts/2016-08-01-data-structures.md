@@ -10,7 +10,8 @@ Remember that data structures go hand in hand with [algorithms]({{ site.baseurl 
 
 ### Foundational concepts
 * [Binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
-* [BigO notation cheat sheet](http://bigocheatsheet.com/)
+* [Quick and dirty intro to Big O notation](http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/)
+* [Big O notation cheat sheet](http://bigocheatsheet.com/)
 
 ### Sorting algorithms
 * [Sorting algorithms animations](http://www.sorting-algorithms.com/), a fantastic place to start learning about different kinds of sorting algorithms.

@@ -8,6 +8,8 @@ tags: [back-end, all]
 ## Start here
 Check out [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems: helps you get a sense of how languages differ in their syntax and philosophies.
 
+Plenty of people suggest you have a systematic approach to learning a new language. [Here is one such suggested plan](https://gist.github.com/CristhianMotoche/85c4f6cdafc23ee92df0bb6ff65ab1be) and I think if you can do all or most of this list with a language of your choosing then you are definitely at the level of being paid to write code. And also to be my hero.
+
 <hr>
 
 ## Different Languages
