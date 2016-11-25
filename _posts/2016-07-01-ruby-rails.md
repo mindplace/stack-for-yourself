@@ -6,6 +6,8 @@ tags: [ruby, rails, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
+Rails powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups.
+
 [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial, and one of the best, up there with *[Learn Ruby on Rails](https://www.railstutorial.org/book)*, the definitive choice for learning Rails.
 
 Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!
@@ -16,9 +18,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 <hr>
 
-## Tutorials and books
-
-### Free and essential
+## Tutorials and books: free and essential
 * *[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time. Also, you can [check out his take on Rails for beginner programmers](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner).
 * [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial.
 * [Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
@@ -29,7 +29,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Everyday Rails](http://everydayrails.com/), a cool blog with articles from the people who brought you *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*.
 * [Rails Best-practices Blog](http://rails-bestpractices.com/)
 
-### Other books and courses
+## Other books and courses
 * *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*
 * *[Rails 4 in Action](https://www.amazon.com/Rails-Action-Revised/dp/1617291099)*
 * *[Agile Web Development With Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)*
@@ -57,7 +57,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 <hr>
 
-## Testing Rails
+## Testing Rails applications
 * [Stubbing with Rails](https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails)
 * [Capybara](https://github.com/jnicklas/capybara): testing via mocks and stubs.
 * [Testing Rails](http://everydayrails.com/2012/03/12/testing-series-intro.html): a cool series covering a lot of topics.
