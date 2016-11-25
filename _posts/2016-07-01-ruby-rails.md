@@ -106,10 +106,11 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 ## Great articles and mini tutorials
 * [Building an rss reader](http://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/)
 * [Rebuilding Rails from scratch](https://www.reddit.com/r/ruby/comments/2b1su1/rebuilding_rails_or_how_do_i_build_my_own_ruby/)
+* [Integrating Google Calendar](http://readysteadycode.com/howto-integrate-google-calendar-with-rails)
 * [Rails security guide](http://guides.rubyonrails.org/security.html)
 * [Essentials of cache expiration with Rails](http://sorentwo.com/2016/07/11/essentials-of-cache-expiration-in-rails.html)
 * [Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
-* [Creating a rails5 api](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/)
+* [Creating a Rails 5 API](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/)
 * [Containerizing Rails with Docker](http://www.codelitt.com/blog/intro-setting-up-your-first-docker-container-your-rails-app/)
 * [ActionCable intro](https://www.driftingruby.com/episodes/actioncable-part-1-configuration-and-basics)
 * [Adding HTTPS to Rails hosted on Heroku](https://www.juanitofatas.com/blog/2016/07/12/rails_app_on_heroku_with_ssl_from_dnsimple)

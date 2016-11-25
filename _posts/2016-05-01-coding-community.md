@@ -7,6 +7,8 @@ tags: [general, working, all]
 ## Start here
 Local events and meetups are great ways to get involved with other developers, learn, contribute, and make connections. Don't wait until you are ready to look for work: let it be a part of what it means for you to become a web developer in the first place.
 
+You can potentially [pick up on where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build, especially if you work around others.
+
 <hr>
 
 ### Podcasts

@@ -5,10 +5,11 @@ shortnote: "Posts, suggestions, and technical interviews."
 tags: [working, all]
 ---
 
-## If nothing else...
+## Start here
+
 [Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and info. And check out [InfoQ](http://www.infoq.com/) for lots of general resources.
 
-As an inexperienced developer, you'll be at a disadvantage...but you [can still land a job. It's just harder.](https://simpleprogrammer.com/2016/09/12/software-development-job-without-experience/)
+As an inexperienced developer, you'll be at a disadvantage...but you [can still land a job. It's just harder](https://simpleprogrammer.com/2016/09/12/software-development-job-without-experience/).
 
 [This](https://www.linkedin.com/pulse/best-resources-nyc-startup-jobs-will-blaze?trk=prof-post) is a great place to look for start-up jobs. Why start-ups? Because they're more willing to take risks, which means hiring untried developers...and because there's so much work to be done that you'll have no choice but to grab hold with both hands.
 
@@ -69,4 +70,4 @@ Connect with the [technical community]({{ site.baseurl }}/2016/01/01/coding-comm
 * ["Don’t call yourself a programmer"](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * ["Four steps to Google without a degree"](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.sbzhzgc7y)
 * ["Always be coding"](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.c03lox9py): how to land an engineering job.
-* ["Ask a Female Engineer: Interviewing and Company Culture "](http://themacro.com/articles/2016/10/ask-a-female-engineer-3/?utm_content=buffer4b472&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): lots of women weighing in on their experiences with inclusive and exclusive company cultures and what it was like for them to try to figure out culture problems ahead of time. 
+* ["Ask a Female Engineer: Interviewing and Company Culture "](http://themacro.com/articles/2016/10/ask-a-female-engineer-3/?utm_content=buffer4b472&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): lots of women weighing in on their experiences with inclusive and exclusive company cultures and what it was like for them to try to figure out culture problems ahead of time.
