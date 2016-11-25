@@ -95,7 +95,7 @@ puts sum_array(given_array)
 
 Run the file via `ruby sum_array.rb`. At the line `binding.pry`, the program will pause, and you can type in `given_array` to check what it is:
 
-![pry-screenshot-1](/img/pry-screenshot-1.png)
+![pry-screenshot-1](/public/img/pry-screenshot-1.png)
 
 Cool, looks like that's an array. We have confirmed that we have an array before getting to `sum_array(given_array)`.
 
