@@ -66,6 +66,13 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 <hr>
 
+## Great Rails-specific gems to know
+* [bcrypt](https://github.com/codahale/bcrypt-ruby), for user authentication.
+* [pry-rails](https://github.com/rweng/pry-rails), a spectacular breakpoint/debugging tool (quite like `debugger` for the browser JavaScript console)
+* [unirest](http://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](http://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax, and as an alternative to [HTTParty](https://github.com/jnunemaker/httparty)
+
+<hr>
+
 ## Rails and the front-end
 * [1-page Ajaxified Rails site](https://codediode.io/lessons/1904-ajaxified-one-page-application-with-rails)
 * [React with Devise forms](https://labs.chie.do/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting)
