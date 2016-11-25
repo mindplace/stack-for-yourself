@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby tutorials and books"
 shortnote: "Awesome Ruby books and tutorials to check out."
-tags: [ruby, rails, back-end, all]
+tags: [ruby, rails, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
