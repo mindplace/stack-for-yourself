@@ -13,14 +13,19 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/), an
 <hr>
 
 ## About non-Rails frameworks...
-* [General list](http://blog.cloud66.com/cloud-66-for-rails-new-rack-frameworks-part-2/) of frameworks
-* [Change-positive Ruby app architecture](http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/): building better Ruby frameworks after Rails
+* [A good introduction](http://blog.cloud66.com/cloud-66-for-rails-new-rack-frameworks-part-2/) to Ruby frameworks. 
+* [Change-positive Ruby application architecture](http://icelab.com.au/articles/a-change-positive-ruby-web-application-architecture/): building better Ruby frameworks after Rails
+* [Reactive Ruby applications with Ratpack and JRuby](https://blog.heroku.com/reactive_ruby_building_real_time_apps_with_jruby_and_ratpack?c=7013A000000mLcUQAU=Display%20-%20Endemic%20-%C2%A0Cooper%20-%C2%A0Ruby%20-%20Blog%20-%20Real-Time-JRuby-Ratpack=display=cooperpress=blog=ruby)
+
 
 ## Sinatra
+The major framework following Rails and [tons of companies use it](http://www.sinatrarb.com/wild.html).
+
 * [Sinatra documentation](http://www.sinatrarb.com/intro.html)
-* [Restular](http://www.restular.com/), an awesome tool for creating RESTful routes, with great syntax suggestions too
+* [Restular](http://www.restular.com/), an awesome tool for creating RESTful routes, with great syntax suggestions for Sinatra applications.
 
 ## Hanami
+A beautifully designed and intended for flexibility framework.
+
 * [Documentation](http://hanamirb.org/)
 * [Hanami Oauth w github](http://codetunes.com/2016/hanami-with-oauth/)
-* [Reactive ruby with ratpack and jruby](https://blog.heroku.com/reactive_ruby_building_real_time_apps_with_jruby_and_ratpack?c=7013A000000mLcUQAU=Display%20-%20Endemic%20-%C2%A0Cooper%20-%C2%A0Ruby%20-%20Blog%20-%20Real-Time-JRuby-Ratpack=display=cooperpress=blog=ruby)
