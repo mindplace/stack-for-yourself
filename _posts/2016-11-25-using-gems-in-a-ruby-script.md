@@ -105,7 +105,9 @@ You can leave the `pry` console by typing `exit` (which will go on to the next `
 
 Most gems will have documentation on their Github pages on getting started with their code, so be sure to read and reference that first.
 
-There are some very important libraries in Ruby that are built-in but not automatically required unless you specifically ask for them, such as [`JSON`](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html), [`Net::HTTP`](https://ruby-doc.org/stdlib-2.3.3/libdoc/net/http/rdoc/Net/HTTP.html), and [`csv`](https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html). You won't have to download anything in order to use them, and you can use the same `require [whatever]` syntax for them.  
+There are some very important libraries in Ruby that are built-in but not automatically required unless you specifically ask for them, such as [`JSON`](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html), [`Net::HTTP`](https://ruby-doc.org/stdlib-2.3.3/libdoc/net/http/rdoc/Net/HTTP.html), and [`csv`](https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html). You won't have to download anything in order to use them, and you can use the same `require '[whatever]'` syntax for them.  
+
+Whatever libraries etc you wish to use, **you must include them before you write code that depends on them.** Meaning, you can't put `require 'pry'` **after** `binding.pry`, because `binding.pry` only works when `pry` is already available. This applies the same way to using multiple files.  
 
 <hr>
 
