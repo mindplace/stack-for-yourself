@@ -168,8 +168,8 @@ pre {
   background-color: #f9f9f9;
 
   /* Make code same width as regular text, and scroll the full page width on mobile */
-  margin-left: -1rem;
-  margin-right: -1rem;
+  /*margin-left: -1rem;
+  margin-right: -1rem;*/
 }
 pre code {
   padding: 0;
@@ -255,8 +255,8 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
-  margin-left: -1rem;
-  margin-right: -1rem;
+  /*margin-left: -1rem;
+  margin-right: -1rem;*/
 }
 
 
