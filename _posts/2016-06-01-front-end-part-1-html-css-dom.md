@@ -29,28 +29,32 @@ Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-way
 <hr>
 
 ## CSS
+* [Visual reference to CSS](http://cssreference.io/)
+* [Codepen: visually see what CSS elements do](http://codepen.io/carolineartz/full/ogVXZj/), specifically margin, padding, and borders.
 * [OverAPI CSS Cheatsheet](http://overapi.com/jquery)
-* [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [W3’s CSS Reference](https://www.w3.org/TR/CSS21/propidx.html)
+* [Mozilla's CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [W3Schools' CSS Reference](https://www.w3.org/TR/CSS21/propidx.html)
 * [CSS Specificity](http://specificity.keegan.st/)
-* [Box-Sizing: Border Box](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
-* [Codepen: visually see what CSS elements do](http://codepen.io/carolineartz/full/ogVXZj/)
+* [Box-Sizing: Border Box](http://www.paulirish.com/2012/box-sizing-border-box-ftw/): an explanation of this really important and helpful concept.
 * [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/): Flex box is an awesome overtaker in the painful area of element positioning. No more `float: left`! Flexbox really is magical.
-* [cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
+* [Cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
 * [Sitepoint CSS reference](http://reference.sitepoint.com/css)
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
-* [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.w
+* [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.
 
 ## SASS & other CSS preprocessors
-Start [here](http://sass-lang.com/guide) to understand the basics.
+Start [here](http://sass-lang.com/guide) to understand the basics of CSS preprocessors.
 
 * [SASS reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) and getting started
 * [Nested selectors in SCSS/SASS](http://thesassway.com/beginner/the-inception-rule)
+
 <hr>
 
 ## Understanding the DOM
+Without understanding the DOM--that is, Domain Object Model--you will not understand how code affects other code in a client's browser.
+
 * [OverAPI HTML-DOM cheatsheet:](http://overapi.com/html-dom)
 * [MDN DOM docs](https://developer.mozilla.org/en-US/docs/Web/API/document)
-* [w3schools DOM docs](http://www.w3schools.com/jsref/dom_obj_document.asp)
+* [W3Schools' DOM docs](http://www.w3schools.com/jsref/dom_obj_document.asp)
 * [tutsplus DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
 * [HTML view any page’s tree layout](https://htmltree.peterbe.com/)
