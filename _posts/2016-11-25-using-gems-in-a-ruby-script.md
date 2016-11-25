@@ -43,7 +43,7 @@ Off to the terminal/command line we go. Assuming you have both [Ruby](https://ww
 gem install pry
 ```
 
-Resulting output as I ran that command:
+Resulting output as I ran that command (no worries if yours is not exactly the same, you just need to ensure that at the end of this process, this gem is successfully installed):
 
 ```bash
 Parsing documentation for pry-0.10.4
@@ -68,7 +68,7 @@ end
 
 ```
 
-`require` is a command that [loads the library of that name into memory only once](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html) when you run this file.
+`require` is a command that [loads the library of that name into memory](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html) when you run this file.
 
 Now, let's add some code to pause the program in the middle of executing. In order to do that, we will need to scan [pry's documentation](https://github.com/pry/pry) to find the code we need to use. That happens to be `binding.pry`:
 
