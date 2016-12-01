@@ -10,11 +10,12 @@ There's quite a lot of JavaScript frameworks to choose from! [Here's an article]
 
 Whatever framework you choose, [don't flounder among the many build tools out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q): but be familiar with the big ones, like [gulp](http://gulpjs.com/), [npm](https://www.npmjs.com/package/build-tools), [yeoman](http://yeoman.io/), and [Bower](https://bower.io/).
 
-Learning JavaScript in today's world can be [pretty messy](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.yufaj0qrc), and even experienced developers can find themselves at a loss in this new javascripty ecosystem. 
+Learning JavaScript in today's world can be [pretty messy](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.yufaj0qrc), and even experienced developers can find themselves at a loss in this new javascripty ecosystem.
 <hr>
 
 ## React
 * [React documentation](https://facebook.github.io/react/docs/getting-started.html)
+* [5 great tutorials on React](http://andrewhfarmer.com/getting-started-tutorials/)
 * [`create-react-app`](https://blog.heroku.com/deploying-react-with-zero-configuration): starting a React app with zero configuration, from Facebook.
 
 ## Angular.js

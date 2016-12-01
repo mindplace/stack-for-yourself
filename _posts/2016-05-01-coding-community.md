@@ -7,8 +7,6 @@ tags: [general, working, all]
 ## Start here
 Local events and meetups are great ways to get involved with other developers, learn, contribute, and make connections. Don't wait until you are ready to look for work: let it be a part of what it means for you to become a web developer in the first place.
 
-You can potentially [pick up on where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build, especially if you work around others.
-
 <hr>
 
 ### Podcasts
@@ -16,6 +14,7 @@ Listening to technical and tech-light podcasts are a great way to ease yourself 
 
 * [Best podcasts for new coders](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.2tw6sfg9f)
 
+<hr>
 
 ### Local communities
 Find your local techies via [Meetup](meetup.com) groups and [Eventbrite events](eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.

@@ -28,6 +28,8 @@ Girl Develop It put together a great presentation on the topic, [get the PDF her
 <hr>
 
 ### Find projects to contribute to
+You can potentially [pick up on where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build, especially if you work around others.
+
 * [Github projects, bugs, and feature requests tagged with beginner-friendly labels](https://github.com/lucev/beginner-friendly) so you can start contributing right away as a beginner.
 * [CodeTriage](http://www.codetriage.com/)
 * [CodeForAmerica](https://www.codeforamerica.org/), check out their volunteer/code wanted section [here](https://www.codeforamerica.org/geeks/civicissues).
