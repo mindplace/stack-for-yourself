@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Underestimated Importance of Giving Talks as a Junior Developer"
-shortnote: "You don't have to be an expert. Doing this will exponentially increase others' exposure to you so you can get interviews."
+shortnote: "You don't have to be an expert. You just need to get yourself in front of people."
 tags: [blog]
 ---
 
-I can't say enough about the positive qualities of giving talks as you are job-hunting, *especially* as a junior developer fresh out of coding bootcamp, a self-taught program, or college. But I'll try to condense my thoughts in this list of reasons why you should start pitching talk ideas to your local tech meetups.
+I can't say enough about the positive qualities of giving talks as you are job-hunting, *especially* as a junior developer fresh out of coding bootcamp, a self-taught program, or college. Here's my list of the most important reasons. however. 
 
 ## 1. It makes you accountable to learning something really well.
 

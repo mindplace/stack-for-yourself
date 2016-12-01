@@ -8,13 +8,25 @@ tags: [general, back-end, front-end, all]
 ## Start here
 Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for the cons themselves.
 
-This is a collection of good general compsci resources. Some of these, like [this great look at the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
+This is a collection of good general computer science resources. Some of these, like [this great look at the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are just great introductions.
 
 But it's not always so serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
 
 <hr>
 
-## Object Oriented Programming
+## Computer science fundamentals
+
+* Check out this [spectacular, nearly heroic list of resources](https://github.com/prakhar1989/awesome-courses#cs-theory) for free, high-quality courses. (Might even include all of the rest of this list!)
+* [iTunes University](https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8), free and great recorded video/audio lectures
+* [Stanford University's courses](http://itunes.stanford.edu/), free and available
+* [Coursera](https://www.coursera.org/courses?languages=en&query=computer+science)'s computer science courses
+* [MIT Open Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+* [State University of NY at Albany](http://libguides.library.albany.edu/csci) open computer science courses to learn online for free
+* [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science. This is a classic that everyone links to.
+
+<hr>
+
+## Object Oriented Programming basics
 A vast percentage of web development is done with object-oriented languages, including JavaScript. Get very comfortable with how OOP (object-oriented programming) handles concepts and processes.
 
 * [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
@@ -30,13 +42,11 @@ A vast percentage of web development is done with object-oriented languages, inc
 
 <hr>
 
-## Great general resources
+## More great general resources
 * *[Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)*: links to a free PDF copy.
 * [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
 * [More good programming books](http://sixrevisions.com/lists/free-books-code/)
 * [UNIX philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
 * [Writing good documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
-* [State University of NY at Albany](http://libguides.library.albany.edu/csci) open computer science courses to learn online for free
 * [Intro to machine learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.ug8z4xv3y)
-* [Harvard's CS50 course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), completely free and great intro to general computer science.
