@@ -17,22 +17,29 @@ Plenty of people suggest you have a systematic approach to learning a new langua
 ![git the princess](https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg)
 *source: [git the princess](https://toggl.com/programming-princess)*
 
-### [Ruby]({{ site.baseurl }}/2016/07/01/ruby-overview)
+### Ruby
+
+* Stack For Yourself's [Ruby intro]({{ site.baseurl }}/2016/07/01/ruby-overview)
 * [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.f3lu2q7a7)
 
-### [Go](https://golang.org/doc/)
+### Go
 A very very cool language developed by Google and currently taking off. Based on the concept of multithreading: opens up new threads to handle new processes and deliver results incredibly quickly.
+
+* [Documentation](https://golang.org/doc/)
 
 ### The C family
 * [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
 * *[The C Programming Language](https://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a2dacad1fa8eed0aa0feaf1d54f70410)*, by Brian Kernighan
 
-### [Crystal](https://crystal-lang.org/)
+### Crystal
 "Fast like C, slick like Ruby": Ruby-like syntax but incredibly fast.
 
-### [Haskell](https://www.haskell.org/)
+* [Documentation](https://crystal-lang.org/)
+
+### Haskell
 A functional programing language with a loving following.
 
+* [Documentation](https://www.haskell.org/)
 * *[Learn You a Haskell For Greater Good!: A Beginner's Guide](https://www.amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=f37ff4ad70d012fe595558cbc16f183e)*, by Miran Lipovaca
 
 <hr>
