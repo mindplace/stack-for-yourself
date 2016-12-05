@@ -12,6 +12,8 @@ Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for t
 
 Some of these resources below, like [this great look at the AI revolution](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d#.gupjgxmqb), are heavy on concepts and light on code. Others are great introductions.
 
+[Read this great set of tips](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.wai2wx00x) on learning to code that the author claims (and I agree!) can save you years of misplaced effort.
+
 But things are not always serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
 
 <hr>
