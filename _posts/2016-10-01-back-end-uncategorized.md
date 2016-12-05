@@ -25,6 +25,20 @@ A very very cool language developed by Google and currently taking off. Based on
 
 ### The C family
 * [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
+* *[The C Programming Language](https://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a2dacad1fa8eed0aa0feaf1d54f70410)*, by Brian Kernighan
 
 ### [Crystal](https://crystal-lang.org/)
 "Fast like C, slick like Ruby": Ruby-like syntax but incredibly fast.
+
+### [Haskell](https://www.haskell.org/)
+A functional programing language with a loving following.
+
+* *[Learn You a Haskell For Greater Good!: A Beginner's Guide](https://www.amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=f37ff4ad70d012fe595558cbc16f183e)*, by Miran Lipovaca
+
+<hr>
+
+## Books
+* *[Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=d85311a13116f2aa4e97d60ebdb8fd2f)*, by Bruce Tate
+* *[Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=514c9f15b923f67abcd594a67bf86a75)*, by Benjamin C. Pierce
+* Check out this site's [list]() of great resources to get you started with software
+* Check out this site's [full stack roadmap]() for resources related to holistic web development

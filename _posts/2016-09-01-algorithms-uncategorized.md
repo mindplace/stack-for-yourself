@@ -14,6 +14,14 @@ Remember that algorithms go hand in hand with [data structures]({{ site.baseurl 
 
 <hr>
 
+## Books
+
+* *[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-Edition-Press/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6cd4795a1defdc493ae88583dcc7ffea)*, by Thomas H. Cormen
+* *[Algorithms](https://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=34295214cd2497b23525e76d24e5134d)*, by Robert Sedgewick
+* *[The Art of Computer Programming, Vol. 1: Fundamental Algorithms](https://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=eecb59c3dd3b568e860c2f4b6a0564e9)*, by Donald E. Knuth
+
+<hr>
+
 ## Places to find challenges
 * [Codewars](http://www.codewars.com/dashboard)
 * [CoderByte](https://coderbyte.com/)

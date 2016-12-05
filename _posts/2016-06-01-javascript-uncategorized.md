@@ -15,10 +15,13 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 
 ## Tutorials and guides
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
-* [GirlDevelopIt Intro to JavaScript course](https://www.girldevelopit.com/materials/intro-JavaScript)
+* *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
+* GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
+
+<hr>
 
 ## Articles, cheatsheets, documentation
 * [Awesome collection of courses](https://front-endmasters.com/courses/)
@@ -34,6 +37,8 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [JSON Web Token](https://jwt.io/introduction/)
 * [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text-editor for the browser, developed by Facebook
 * [Functions as first class citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/): understanding higher order functions, and how you can pass functions around
+
+<hr>
 
 ## Events, callbacks, and Promises
 * [Understanding JavaScript events](http://www.w3schools.com/JavaScript/JavaScript_events.asp)
