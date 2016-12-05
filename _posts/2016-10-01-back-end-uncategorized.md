@@ -27,7 +27,10 @@ A very very cool language developed by Google and currently taking off. Based on
 
 * [Documentation](https://golang.org/doc/)
 
-### The C family
+### C
+C is a powerful language that gives programmers the opportunity to exact wide control over their code and programs. It's incredibly fast, and many other languages, like Ruby, are actually written in it. 
+
+* [Overview](http://www.tutorialspoint.com/cprogramming/c_overview.htm?)
 * [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
 * *[The C Programming Language](https://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a2dacad1fa8eed0aa0feaf1d54f70410)*, by Brian Kernighan
 
