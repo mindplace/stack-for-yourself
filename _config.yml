@@ -20,7 +20,7 @@ author:
   github:  mindplace
 
   # This photo will be used in the about section
-  photo:          http://estherleytush.com/assets/headshot.jpg
+  photo:   http://estherleytush.com/assets/images/headshot.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
@@ -30,18 +30,6 @@ author:
     I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
     [hear from you](http://estherleytush.com/contact/) about your full-stack journey.
 
-kramdown:
-  math_engine: mathjax
-  math_engine_opts:
-    preview: true
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Stack For Yourself
 description: > # this means to ignore newlines until "baseurl:"
@@ -49,3 +37,10 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+
+include: ['_static']

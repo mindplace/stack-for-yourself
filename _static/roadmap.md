@@ -2,10 +2,14 @@
 layout: page
 link-title: Roadmap
 page-title: Your Full Stack Roadmap
-permalink: /roadmap/
+permalink: /static/roadmap/
 ---
 
-# Hello world!
+# Your Full Stack Roadmap
+
+<hr>
+
+## Hello world!
 
 You want to learn how to program. Hopefully you want to learn to build web applications. Or you're already a developer and want to keep working on your skills. Awesome!
 
@@ -35,7 +39,7 @@ Don't let this deter you. Keep at it and it will continue to make more and more 
 * Get very comfortable with the command line. Learn the heck out of git.
 * Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or Java is too hard: every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
 * Learn the language you've chosen by solving small problems/algorithms and then graduating to more challenging ones. Create games for the console and write small programs, like [to-do lists](https://github.com/mindplace/nifty_things/tree/master/To_do_list) or the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) game.
-* Take a couple of courses on [fundamental computer science concepts]({{ site.baseurl }}/2016/10/01/general-uncategorized). 
+* Take a couple of courses on [fundamental computer science concepts]({{ site.baseurl }}/2016/10/01/general-uncategorized).
 * Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the back-end language you've chosen.
 * Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
 * Learn a web framework for the back-end language you chose.
