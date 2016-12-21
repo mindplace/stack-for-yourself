@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    // font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -67,13 +67,11 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    list-style: none;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  margin-bottom: 0;
 }
 
 
@@ -130,8 +128,8 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
+    // border: 1px solid $grey-color-light;
+    // border-radius: 3px;
     background-color: #eef;
 }
 
@@ -203,4 +201,8 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+p {
+  font-family: $base-font-family;
 }

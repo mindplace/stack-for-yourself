@@ -3,6 +3,7 @@ layout: post
 title: "Assets, fonts, mockups, and design"
 shortnote: "Designing sites, managing asset choices, and more."
 tags: [front-end, all]
+categories: [front-end]
 ---
 
 ## Start here

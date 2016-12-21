@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Building for mobile"
+title: "Mobile development"
 shortnote: "Some cool links to help you get started building for mobile."
 tags: [mobile, front-end, all]
+categories: [everything-else]
 ---
 
 ## Start here

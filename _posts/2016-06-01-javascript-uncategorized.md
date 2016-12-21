@@ -3,6 +3,7 @@ layout: post
 title: "JavaScript links and libraries"
 shortnote: "Tutorials, articles, and resources--no frameworks."
 tags: [javascript, front-end, all]
+categories: [front-end]
 ---
 
 ## Start here

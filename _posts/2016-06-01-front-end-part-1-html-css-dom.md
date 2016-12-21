@@ -3,6 +3,7 @@ layout: post
 title: "HTML, CSS, DOM"
 shortnote: "Tutorials and articles."
 tags: [front-end, all]
+categories: [front-end]
 ---
 
 ## Start here
@@ -42,11 +43,11 @@ Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-way
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
 * [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.
 
-## SASS & other CSS preprocessors
+## Sass & other CSS preprocessors
 Start [here](http://sass-lang.com/guide) to understand the basics of CSS preprocessors.
 
-* [SASS reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) and getting started
-* [Nested selectors in SCSS/SASS](http://thesassway.com/beginner/the-inception-rule)
+* [Sass reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) and getting started
+* [Nested selectors in SCSS/Sass](http://thesassway.com/beginner/the-inception-rule)
 
 <hr>
 

@@ -3,6 +3,7 @@ layout: post
 title: "Seeking work as a developer"
 shortnote: "Posts, suggestions, and technical interviews."
 tags: [working, all]
+categories: [everything-else]
 ---
 
 ## Start here
@@ -18,7 +19,7 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 <hr>
 
 ## Putting yourself together
-* Put together your [portfolio]({{ site.baseurl }}/2016/05/01/portfolio).
+* Put together your [portfolio]({% post_url 2016-05-01-portfolio %}).
 * [Creddle](https://resume.creddle.io/): give it your resume content, select a theme or two, and see an amazing-looking resume pop out.
 
 <hr>
@@ -61,7 +62,7 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 <hr>
 
 ## Networking
-Connect with the [technical community]({{ site.baseurl }}/2016/01/01/coding-community) if you haven't yet, especially locally.
+Connect with the [technical community]({% post_url 2016-05-01-coding-community %}) if you haven't yet, especially locally.
 
 <hr>
 

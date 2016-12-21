@@ -2,53 +2,31 @@
 # Provide at least a `name` value and optionally `image`, `color` and `description`.
 # Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
 
-all:
-  name: All Resources
-
-categories:
-  name: All categories
-
-# 10
-general:
-  name: General
-
-back-end:
-  name: back-end
-
-shell:
-  name: Bash/Shell
-
-# 9
 algorithms:
   name: Algorithms
 
-# 8
+all:
+  name: All Pages
+
+back-end:
+  name: Back-end Development
+
+blog:
+  name: Blog
+
+shell:
+  name: Command Line Interface/bash/shell
+
 databases:
   name: Databases
   description: >
     Understanding and working with databases is an essential element of creating CRUD apps for the web.
 
-# 7
-ruby:
-  name: Ruby
-  color: '#949667'
-  description: >
-    Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. According to its creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp. Today it is a highly popular web language thanks to its major framework, Rails.
-
-rails:
-  name: Ruby on Rails
-  description: >
-    Rails, Ruby's most popular web framework, an amazing and worthwile thing to check out for its
-    programmer productivity, extensive supporting codebase, ease of use, and awesome community.
-
-ruby-frameworks:
-  name: Ruby Frameworks
-  description: >
-    There IS a Ruby frameworks ecosystem beyond Rails!
-
-# 6
 front-end:
-  name: front-end
+  name: Front-end Development
+
+general:
+  name: General
 
 javascript:
   name: JavaScript
@@ -56,9 +34,22 @@ javascript:
 mobile:
   name: Mobile
 
-# 5
-working:
-  name: Working as a dev
+ruby:
+  name: Ruby
+  color: '#949667'
+  description: >
+    Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. According to its creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp. Today it is a highly popular web language thanks to its major framework, Rails.
 
-blog:
-  name: Blog
+ruby-frameworks:
+  name: Ruby Frameworks
+  description: >
+    There IS a Ruby frameworks ecosystem beyond Rails!
+
+rails:
+  name: Ruby on Rails
+  description: >
+    Rails, Ruby's most popular web framework, an amazing and worthwile thing to check out for its
+    programmer productivity, extensive supporting codebase, ease of use, and awesome community.
+
+working:
+  name: Working as a Developer

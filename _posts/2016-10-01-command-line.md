@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Bash/shell resources"
+title: "Command-line interfaces, bash, and shell resources"
 shortnote: "Master the command line!"
 tags: [shell, back-end, all]
+categories: [comp-sco]
 ---
 ## Start here
 [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html), a really excellent and concise tutorial getting you up and running with navigating the shell and writing bash commands.

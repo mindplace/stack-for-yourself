@@ -3,10 +3,11 @@ layout: post
 title: "Data structures and essentials"
 shortnote: "Info and links."
 tags: [algorithms, back-end, all]
+categories: [comp-sci]
 ---
 
 ## Start here
-Remember that data structures go hand in hand with [algorithms]({{ site.baseurl }}/2016/09/01/algorithms-uncategorized).
+Remember that data structures go hand in hand with [algorithms]({% post_url 2016-09-01-algorithms-uncategorized %}).
 
 ### Foundational concepts
 * [Binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)

@@ -13,7 +13,7 @@ Here's an example use of the `open-uri` and `json` libraries with an API endpoin
 
 Once I accessed the site, I went looking for the API endpoint URL:
 
-![api-endpoint](/public/img/endpoint.png)
+![api-endpoint](/assets/img/endpoint.png)
 
 Grabbing that, I opened up my empty `workspace.rb` file and wrote the following code:
 

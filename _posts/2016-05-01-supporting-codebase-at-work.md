@@ -3,13 +3,14 @@ layout: post
 title: "Supporting codebases as a developer"
 shortnote:
 tags: [working, all]
+categories: [everything-else]
 ---
 
 ## Start here
 
 You can potentially [pick up on where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build. I would venture to say that your best bet on career development is to do your best to code yourself out of your current role--by writing software so great that it doesn't need anyone to continually add to it.
 
-Level up your ability to write better software: [these resources]({{ site.baseurl }}/2016/11/01/best-practice-software) can help you in this quest.
+Level up your ability to write better software: [these resources]({% post_url 2016-11-01-best-practice-software %}) can help you in this quest.
 
 <hr>
 

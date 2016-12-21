@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "General computer science"
+title: "General Computer Science"
 shortnote: "Lots of general and high-level resources, good place to start."
 tags: [general, back-end, front-end, all]
+categories: [comp-sci]
 ---
 
 ## Start here
-There's some great resources on fundamentals below. Aside from that, be sure to check out our [algorithms]({{ site.baseurl }}/2016/09/01/algorithms-uncategorized) and [data structures]({{ site.baseurl }}/2016/10/01/back-end-uncategorized) pages, which are also essential computer science concepts.
+There's some great resources on fundamentals below. Aside from that, be sure to check out our [algorithms]({% post_url 2016-09-01-algorithms-uncategorized %}) and [data structures]({% post_url 2016-10-01-back-end-uncategorized %}) pages, which are also essential computer science concepts.
 
 Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for the cons themselves.
 

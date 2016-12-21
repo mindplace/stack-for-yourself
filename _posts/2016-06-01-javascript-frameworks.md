@@ -3,6 +3,7 @@ layout: post
 title: "JavaScript frameworks"
 shortnote: "Different JS framework resources"
 tags: [javascript, front-end, all]
+categories: [front-end]
 ---
 
 ## Start here

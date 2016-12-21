@@ -1,10 +1,7 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Roboto Slab", "PT Serif", Georgia, serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -26,15 +23,6 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -45,7 +33,24 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "base",
+  "layout",
+  "syntax-highlighting",
+  "jekyll-github",
+  "poole",
+  "hyde"
 ;
+
+
+// .content a,
+// .related-posts li a:hover {
+//   color: #949667;
+// }
+// ::selection {
+//   color: #fff;
+//   background: {{ color }};
+// }
+// ::-moz-selection {
+//   color: #fff;
+//   background: {{ color }};
+// }

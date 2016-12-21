@@ -6,9 +6,6 @@ layout: default
 
 <h1 class="page-title">{{ tag.name }}</h1>
 {% if tag.description %}
-  {% comment %}
-    Adding the "message" class to the last (and usually only) paragraph of the description.
-  {% endcomment %}
   {% capture desc %}{{ tag.description }}{:.message}{% endcapture %}
   {{ desc | markdownify }}
 {% endif %}
@@ -23,19 +20,22 @@ layout: default
       {% assign date = currentdate %}
     {% endif %}
     <li class="post-section">
-      <h3>
         <a href="{{ post.url | prepend:site.baseurl }}"><b>
-          <span class="post-title-link">{{ post.title }}</span></b></a></h3>
+          <span class="post-title-link">{{ post.title }}</span></b></a>
           {% capture tags_content %}{% endcapture %}
-          {% for post_tag in post.tags %}
-            {% assign tag = site.data.tags[post_tag] %}
-            {% if tag %}
-              {% capture tags_content_temp %}{{ tags_content }}<a target="_blank" href="{{ site.baseurl }}/tag/{{ post_tag }}/">{{ tag.name }}</a>{% if forloop.last == false %}<span>, </span>{% endif %}{% endcapture %}
-              {% assign tags_content = tags_content_temp %}
-            {% endif %}
-          {% endfor %}
-          <p class="tag-description"><i>{{ tags_content }}</i>
-          <br>{{ post.shortnote }}</p>
+
+          {% comment %}
+            {% for post_tag in post.tags %}
+              {% assign tag = site.data.tags[post_tag] %}
+              {% if tag %}
+                {% capture tags_content_temp %}{{ tags_content }}<a   href="{{ site.baseurl }}/tag/{{ post_tag }}/">{{ tag.name }}</a>{% if forloop.last == false %}<span>, </span>{% endif %}{% endcapture %}
+                {% assign tags_content = tags_content_temp %}
+              {% endif %}
+            {% endfor %}
+          {% endcomment %}
+          <p class="tag-description">
+            <!-- <i>{{ tags_content }}</i><br> -->
+            {{ post.shortnote }}</p>
     </li>
     {% if forloop.last %}</ul><hr/>{% endif %}
   {% endfor %}

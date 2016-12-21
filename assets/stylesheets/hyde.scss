@@ -60,7 +60,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  border-bottom: 0.12em solid;
+  color: #add8e6 !important;
 }
 
  /*Styles for "Cesar" link hover effect. */
@@ -98,12 +98,14 @@ a:focus::before {
   transform: translateX(0.05em) translateY(0.075em);
 }*/
 
+
 /*
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
+
 
 .sidebar {
   position: relative;
@@ -113,7 +115,7 @@ a:focus::before {
   color: rgba(255,255,255,.75);
   background-color: #202020!important;
   text-align: left;
-  background-image: url(/public/img/computer.jpg);
+  background-image: url(/assets/img/computer.jpg);
   background-size: cover;
   background-position: left center;
 }
@@ -231,7 +233,7 @@ a:focus::before {
 
 /* About section */
 .sidebar-about > h1 {
-  font-family: "Roboto Slab", "PT Serif", Georgia, serif;
+  font-family: $base-font-family;
   color: #fff;
   margin-top: 0;
   font-size: 1.65rem;
@@ -248,10 +250,12 @@ a:focus::before {
 .sidebar-nav > ul {
   list-style: none;
   padding-left: 0;
+  margin-left: 0;
 }
 .sidebar-nav-item {
-  font-family: "Roboto Slab", "PT Serif", Georgia, serif;
+  font-family: $base-font-family;
   font-weight: bold;
+  font-size: 18px;
   display: block;
   line-height: 1.5;
   padding: .25rem .1rem;
@@ -303,6 +307,21 @@ a:focus::before {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+
+  li {
+    margin-bottom: 14px;
+    position: relative;
+
+    &:before {
+      // content: "\f006"; // star
+      content: "\f0e7"; // lightning bolt
+      font-family: FontAwesome;
+      left: -20px;
+      position: absolute;
+      top: 5px;
+      font-size: 12px;
+   }
+  }
 }
 
 @media (min-width: 48em) {
@@ -400,8 +419,7 @@ a:focus::before {
 
 .tag-description {
   margin: 0;
-  font-size: 14px;
-  padding-left: 25px;
+  font-size: 12px;
 }
 
 .post-section {

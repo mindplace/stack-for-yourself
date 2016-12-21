@@ -1,10 +1,34 @@
 http://awaxman11.github.io/blog/2014/07/13/how-to-create-an-angular-app-using-yeoman-and-deploy-it-to-heroku/
 
+https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.1fo7o2wib
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+
+http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/registrar.html
+
+http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+
+https://help.github.com/articles/securing-your-github-pages-site-with-https/
+
+https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+
+https://help.github.com/articles/what-is-github-pages/
+
+bootsnip
+
 http://angularonrails.wpengine.com/deploy-angular-2rails-5-app-heroku/
 
 https://guides.github.com/introduction/flow/
 
 http://learnlayout.com/media-queries.html
+
+https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?utm_source=gmail
+
+https://lists.apple.com/mailman/listinfo
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Coding communities"
-shortnote: "Connect with others to help, contribute, participate, and ask questions."
+title: "Coding Communities"
+shortnote: "Places to get help, contribute, participate, and ask questions."
 tags: [general, working, all]
+categories: [everything-else]
 ---
+
 ## Start here
 Local events and meetups are great ways to get involved with other developers, learn, contribute, and make connections. Don't wait until you are ready to look for work: let it be a part of what it means for you to become a web developer in the first place.
 

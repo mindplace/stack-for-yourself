@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Managing projects and tools"
-shortnote: "Project management, setting up your tools, Github, etc."
+title: "Developer Tools"
+shortnote: "Project management, setting up your tools, managing your development environment."
 tags: [general, all]
+categories: [everything-else]
 ---
 ## Start here
 Make sure you [get the right tools installed on your computer](http://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
 
 #### Your most essential tools:
-* A grasp of how to use [git and Github]({{ site.baseurl }}/2016/05/01/contributing-to-open-source)
+* A grasp of how to use [git and Github]({% post_url 2016-05-01-github %})
 * A text-editor like [Atom](https://atom.io/), Github's project, or [Sublime](https://www.sublimetext.com/), probably the most popular
 
 And take the time to read this great essay on the [maker's schedule](http://www.paulgraham.com/makersschedule.html), by Paul Graham of [Y-Combinator](https://www.ycombinator.com/).

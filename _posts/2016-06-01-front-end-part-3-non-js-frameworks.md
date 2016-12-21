@@ -3,6 +3,7 @@ layout: post
 title: "Non-JavaScript front-end frameworks"
 shortnote: "Jekyll, Bootstrap, Materialize."
 tags: [front-end, all]
+categories: [front-end]
 ---
 ## Start here
 Check out this great roadmap: ["From Zero to Front-end Hero, Part 2"](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.jipjenhuj) ([Part 1 is for HTML&CSS](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.sb4dij3lx)).

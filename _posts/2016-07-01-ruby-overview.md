@@ -11,7 +11,7 @@ Check out [Team Treehouse's list of Ruby projects](http://blog.teamtreehouse.com
 
 Definitely [take a look at the Ruby core object model](https://www.gliffy.com/go/publish/5152080) to get a sense for how it organizes itself.
 
-Probably the best reason to learn Ruby is to be able to build things on/for the web and have a lot of fun while doing it. So check out [Rails]({{ site.baseurl }}/tag/rails/) and other [Ruby frameworks]({{ site.baseurl }}/tag/ruby-frameworks/) for building with
+Probably the best reason to learn Ruby is to be able to build things on/for the web and have a lot of fun while doing it. So check out [Rails]({% post_url 2016-07-01-ruby-rails %}) and other [Ruby frameworks]({% post_url 2016-07-01-ruby-frameworks %}) for building with
 Ruby on the web.
 
 <hr>

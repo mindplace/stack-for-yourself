@@ -5,7 +5,7 @@ shortnote: "Getting started with pulling in additional libraries in a Ruby proje
 tags: [blog]
 ---
 
-Like many (most?) languages, when you execute a program in Ruby, it holds the entire program in memory while it executes. So in order to use external libraries and/or [gems]({{ site.baseurl }}/2016/07/01/ruby-gems), you'll need to let your program know to include them.
+Like many (most?) languages, when you execute a program in Ruby, it holds the entire program in memory while it executes. So in order to use external libraries and/or [gems]({% post_url 2016-07-01-ruby-gems %}), you'll need to let your program know to include them.
 
 ## An example of when you'd want to include pry
 
@@ -95,7 +95,7 @@ puts sum_array(given_array)
 
 Run the file via `ruby sum_array.rb`. At the line `binding.pry`, the program will pause, and you can type in `given_array` to check what it is:
 
-![pry-screenshot-1](/public/img/pry-screenshot-1.png)
+![pry-screenshot-1](/assets/img/pry-screenshot-1.png)
 
 Cool, looks like that's an array. We have confirmed that we have an array before getting to `sum_array(given_array)`.
 

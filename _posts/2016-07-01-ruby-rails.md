@@ -12,7 +12,7 @@ Rails powers some very cool sites online, like [Shopify](https://www.shopify.com
 
 Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!
 
-Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({{ site.basurl }}/2016/01/01/ruby-frameworks)).
+Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({% post_url 2016-07-01-ruby-frameworks %})).
 
 [There are quite a lot of different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails, so get started!
 
