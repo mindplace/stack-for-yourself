@@ -1,0 +1,23 @@
+{
+  "name": "stack-for-yourself",
+  "version": "1.0.0",
+  "description": "StackForYourself",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "deploy": "grunt default"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mindplace/stack-for-yourself.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-responsive-images": "^1.10.1"
+  }
+}
