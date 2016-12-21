@@ -38,8 +38,9 @@ It's got [great documentation](https://jekyllrb.com/docs/home/) and was created 
 [Bootstrap](http://getbootstrap.com/) is a super important front-end CSS & JS library developed and used by Twitter. Stylistically it brings you the look and feel of a professional product, and tons of people use it. Luckily, their [documentation](http://getbootstrap.com/components/) is really excellent.
 
 * [Bootstrap forms](https://bootstrapbay.com/blog/working-bootstrap-contact-form/)
-* [free Bootstrap themes](http://bootswatch.com/)
+* [Free Bootstrap themes](http://bootswatch.com/)
 * [Material Bootstrap design](http://mdbootstrap.com/material-design-for-bootstrap/): lots of great UI pieces to use, a good library to know.
+* [Bootsnip](http://bootsnipp.com/): free Bootstrap code snippets.
 
 <hr>
 

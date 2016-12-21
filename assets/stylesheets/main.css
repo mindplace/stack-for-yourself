@@ -423,6 +423,11 @@ p {
   margin-top: 0;
 }
 
+.header-text {
+  background-color: lightgrey;
+  padding: 10px;
+}
+
 /**
  * Syntax highlighting styles
  */

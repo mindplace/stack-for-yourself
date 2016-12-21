@@ -23,6 +23,7 @@ Ruby on the web.
 * [PracticingRuby](https://www.practicingruby.com/)
 * [Ruby Rogues podcast](https://devchat.tv/ruby-rogues), a panel discussion about topics relating to programming, careers, community, and Ruby. They release a conversation with notable programmers and Rubyists each week.
 * [Ruby Weekly](http://rubyweekly.com/?m), a once–weekly e-mail round-up of Ruby news and articles, created and managed by Peter Cooper, author of *[Beginning Ruby](https://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634)* book.
+* Ruby was developed and is typically used on Unix-based operating systems like Mac or Linux computers. Are you on a Windows computer? [Check out this article on some issues you might be encountering!](https://www.rubytapas.com/2016/12/14/ruby-code-on-windows/?utm_source=rubyweekly&utm_medium=email)
 
 <hr>
 

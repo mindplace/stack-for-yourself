@@ -40,6 +40,8 @@ An important text editor (like those mentioned above) but one that is meant to b
 ### Support for computers and programs you'll be using
 * [Developing on a Chromebook: Tutorial for getting started](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d#.ayk5cv7w1)
 * [Atom text editor keyboard cheatsheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
+* [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?utm_source=gmail), a great Chrome extension to help you open multiple links from a web page.
+* Mac users: check out [this amazing bunch of official Apple newsletters](https://lists.apple.com/mailman/listinfo) that allow you to listen in to conversations developers are having with building Mac products, and think about issues like security, etc. [Here's a wonderful guide to securing your Mac computer](https://github.com/drduh/macOS-Security-and-Privacy-Guide).
 
 <hr>
 

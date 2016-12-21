@@ -10,7 +10,7 @@ fundamentals:
   links:
     links: Check out <a href="/comp-sci/2016/10/01/general-uncategorized/">our list of fundamental computer science concepts</a>.
     variety: Variety of <a href="http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science">free online Computer Science courses from universities</a>. These are often Computer Science courses that teach broad programming/computer concepts.
-    compsci: More great <a href="http://videolectures.net/Top/Computer_Science/">Computer Science video lectures</a>.
+    compsci: Some great Computer Science <a href="http://videolectures.net/Top/Computer_Science/">video lectures</a>.
 
 back-end-language:
   text: Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or Java is too hard. Every single one of these languages has an excellent history, great community of contributors and users, and makes buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.

@@ -14,7 +14,7 @@ Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on H
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({% post_url 2016-07-01-ruby-frameworks %})).
 
-[Here are the different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails. It's a great high-level but concise overview. 
+[Here are the different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails. It's a great high-level but concise overview.
 
 <hr>
 
@@ -83,6 +83,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [How Ajax works in Rails](https://launchschool.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails)
 * [Stopping Rails from including all your JavaScript files](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/)
 * [React on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
+* Adding a [Jekyll site to your Rails application](https://www.sitepoint.com/jekyll-rails/)
 
 <hr>
 
