@@ -6,6 +6,9 @@ tags: [ruby, rails, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
+
+**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
+
 Rails powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](http://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups.
 
 [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial, and one of the best, up there with *[Learn Ruby on Rails](https://www.railstutorial.org/book)*, the definitive choice for learning Rails.

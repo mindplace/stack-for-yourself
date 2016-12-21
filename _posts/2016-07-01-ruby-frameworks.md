@@ -6,6 +6,9 @@ tags: [ruby, ruby-frameworks, back-end, all]
 ---
 
 ## Start here
+
+**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
+
 There's more to Ruby web frameworks than [Rails]({% post_url 2016-07-01-ruby-rails %})! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016?utm_source=rubyweekly&utm_medium=email) is a lineup.
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/), an awesome tool.
