@@ -72,3 +72,6 @@ Connect with the [technical community]({% post_url 2016-05-01-coding-community %
 * ["Four steps to Google without a degree"](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.sbzhzgc7y)
 * ["Always be coding"](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.c03lox9py): how to land an engineering job.
 * ["Ask a Female Engineer: Interviewing and Company Culture "](http://themacro.com/articles/2016/10/ask-a-female-engineer-3/?utm_content=buffer4b472&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): lots of women weighing in on their experiences with inclusive and exclusive company cultures and what it was like for them to try to figure out culture problems ahead of time.
+* *[Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)*: this awesome book is free online!
+* [Level up as a dev](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i), great article.
+* *[New Programmer’s Survival Manual](https://www.amazon.com/New-Programmers-Survival-Manual-Workplace/dp/1934356816)*

@@ -1,0 +1,83 @@
+---
+layout: page
+link-title: Roadmap
+page-title: Your Full Stack Roadmap
+permalink: /static/roadmap/
+---
+
+<h1>Your Full Stack Roadmap</h1>
+
+<hr>
+
+<h2>Hello world!</h2>
+
+<p>You want to learn how to program. Hopefully you want to learn to build web applications. Or you're already a developer and want to keep working on your skills. Awesome!</p>
+
+<p>This site is an aggregation of resources from around the web to help you in your quest. Browse it, then come back when you're ready to jump into one of the topics more deeply.</p>
+
+<p>You won't really find answers to your immediate questions here. Instead, you'll find resources to get deeper into all sorts of different topics. For example, if you want to learn about <a href="{% post_url 2016-06-01-front-end-part-1-html-css-dom %}">CSS</a> and need resources to start, this is the right site for you. If you want to understand why <code>height: 100%</code> doesn't quite work the same way <code>width: 100%</code> seems to, StackOverflow is better.</p>
+
+<hr>
+
+<h2>Learning to code can be [really hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard).</h2>
+
+<p>It's not just you who might feel that way. Don't give up.</p>
+
+Your <a href="https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code">first 100 hours</a> will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and `puts` statements, and suddenly you'll find yourself trying to solve some sort of simple <a href="{% post_url 2016-09-01-algorithms-uncategorized%}">algorithm</a> like <a href="http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/">finding the nth Fibonacci number</a> and everything will break and you'll get frustrated, cry, and believe you're not cut out for this.
+
+<img src="http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png" width="100%">
+
+Don't let this deter you. Keep at it and it will continue to make more and more sense. [<a href="{% post_url 2016-05-01-managing-your-tools %}">Organize yourself and your projects</a>, stay on top of where you are in your plan, <a href="{% post_url 2016-05-01-coding-community %}">reach out to others for help, direction, support, and community</a>, and don't lose heart.
+
+<hr>
+
+<h2>Your essential competencies: and your full-stack roadmap!</h2>
+
+<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/08/1409261668002.png" width="100%">
+
+<h2>Stack For Yourself's curriculum: learning on your own</h2>
+
+<div class="ordered-list-roadmap">
+  <ol>
+    {% for item_slug in site.data.roadmap-items %}
+      {% assign set = item_slug[1] %}
+      <li>
+        <p class="header-text">{{ set.text }}</p>
+        <div class="links">
+          <ul>
+            {% for link in set['links'] %}
+              <li>{{ link[1] }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+
+<hr>
+
+<h3>Learning with some help</h3>
+<p>I really like the idea of <a href="ttp://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/">mastery learning</a>, which is when you learn or are taught a concept until you master it, before moving on to the next one. Ideally, you do it with the help of a mentor or community. Here's some places to do that:</p>
+
+<ul>
+  <li><a href="http://www.theodinproject.com/ruby-programming">Odin Project</a>: completely free, Ruby-based full-stack development program, with an amazing online community.</li>
+
+  <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a>: superb, completely free program, teaching from the front-end backwards, with an excellent and huge community which in many cities has local presence. Actively maintained and being expanded to include new courses such as one teaching D3.js.</li>
+
+  <li><a href="https://www.bloc.io/web-developer-career-track">Bloc.io</a>: a paid bootcamp whose model is to connect you with a developer who acts as a mentor.</li>
+
+  <li><a href="https://www.thinkful.com/">Thinkful</a>: similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.</li>
+</ul>
+
+In general, if you choose to go to a bootcamp, <a href="https://www.linkedin.com/pulse/5-steps-get-most-out-coding-bootcamp-tom-goldenberg?trk=hp-feed-article-title-publish">get the most out of it</a>.
+
+
+<hr>
+
+<h2>If you ever need help...</h2>
+
+<ul>
+  <li><a href="{% post_url 2016-05-01-coding-community %}">Consult the various communities</a></li>
+  <li><a href="http://estherleytush.com/contact">Reach out to me!</a></li>
+</ul>

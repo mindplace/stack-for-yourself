@@ -53,8 +53,8 @@ module.exports = function(grunt) {
     // To run this task manually: cd into /blog/, then `grunt watch`
     watch: {
       css: {
-        files: ['assets/stylesheets/main.scss'],
-        tasks: ['sass']
+        files: ['assets/stylesheets/*.scss'],
+        tasks: ['sass', 'cssmin']
       }
     },
 

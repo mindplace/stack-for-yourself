@@ -28,12 +28,6 @@
     font-style: normal;
 }
 
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
 html {
   font-family: "PT Serif", Georgia, serif;
 }
@@ -62,42 +56,6 @@ a:focus {
   text-decoration: none;
   color: #add8e6 !important;
 }
-
- /*Styles for "Cesar" link hover effect. */
-/*a::after,
-a::before {
-  font-family: 'icomoon'!important;
-  font-style: normal;
-  font-weight: normal;
-  display: inline-block;
-  width: 0;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 100ms;
-  text-shadow: 0 0 .125em #fff, 0 0 .25em #fff, 0 0 .5em #fff;
-}
-
-a:hover::after,
-a:hover::before,
-a:focus::after,
-a:focus::before {
-  opacity: 1;
-}
-
- a::before {
-  content: "(";
-  -webkit-transform: translateX(-0.5em) translateY(0.075em);
-  -ms-transform: translateX(-0.5em) translateY(0.075em);
-  transform: translateX(-0.5em) translateY(0.075em);
-}
-
- a::after {
-  content: ")";
-  -webkit-transform: translateX(0.05em) translateY(0.075em);
-  -ms-transform: translateX(0.05em) translateY(0.075em);
-  transform: translateX(0.05em) translateY(0.075em);
-}*/
-
 
 /*
  * Sidebar
@@ -307,8 +265,9 @@ a:focus::before {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  font-size: 16px;
 
-  li {
+  ul li {
     margin-bottom: 14px;
     position: relative;
 

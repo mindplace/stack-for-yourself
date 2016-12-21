@@ -13,7 +13,7 @@ This site itself is written on technologies that are open-sourced, [Ruby]({% pos
 
 Open source contributions tend to take the form of contributing your work to projects that are already available, but you can also write code for other people to use, for example making a [Ruby gem]({% post_url 2016-07-01-ruby-gems %}).
 
-Girl Develop It put together a great presentation on the topic, [get the PDF here]({{ site.baseurl }}/girl-develop-it-oss.pdf).
+Girl Develop It put together a great presentation on the topic, [get the PDF here]({{ site.baseurl }}/static/girl-develop-it-oss.pdf).
 
 An essential element of open source contributions is [a grasp of git and Github]({% post_url 2016-05-01-github %}).
 

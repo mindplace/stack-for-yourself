@@ -1,0 +1,75 @@
+typing:
+  text: Be able to type very well, quickly, and cleanly.
+  links:
+    typing: Try <a href="https://typing.io">typing.io</a> to level up.
+
+git:
+  text: Get very comfortable with the command line. Learn the heck out of git.
+  links:
+    command-line: something
+    git: something
+
+back-end-language:
+  text: Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or Java is too hard. Every single one of these languages has an excellent history, great community of contributors and users, and makes huge buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
+  links:
+    this: that
+
+algorithms:
+  text: Learn the language you've chosen by solving small problems/algorithms and then graduating to more challenging ones. Drown in algorithms and data structures. Know your way around essential concepts like Object Oriented Programming. Everything you learn at this stage will only improve your grasp of the back-end language you've chosen.
+  links:
+    games: Create games for the console and write small programs, like <a href="https://github.com/mindplace/nifty_things/tree/master/To_do_list">to-do lists</a> or the <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">Tower of Hanoi</a> game.
+
+fundamentals:
+  text: Take a couple of courses on <a href="{% post_url 2016-10-01-general-uncategorized%}">fundamental computer science concepts</a>.
+  links:
+    variety: Variety of <a href="http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science">free online computer science courses from universities</a>. These are often Computer Science courses that teach broad programming/computer concepts.
+    compsci: <a href="http://videolectures.net/Top/Computer_Science/">computer science video lectures</a>
+
+networking:
+  text: Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
+
+backend-framework:
+  text: Learn a web framework for the back-end language you chose.
+
+databases:
+  text: Learn how to setup and use databases with your projects. Get really comfortable with SQL syntax.
+
+front-end-basics:
+  text: Be able to create simple pages with HTML and CSS.
+  links:
+    viking: <a href="https://www.vikingcodeschool.com/prep">Viking School prep course</a>
+
+javascript:
+  text: Learn JavaScript. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
+  links:
+    jquery: Learn about the DOM and the way JavaScript interacts with HTML and CSS. Do this by learning jQuery.
+    framework: Choose a front-end JavaScript framework and learn it. Every modern framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
+    irn: <a href="http://lrnapp.com/">IRN app</a>, a JavaScript-based course to learn programming.
+
+deploy:
+  text: Learn to deploy your code to servers, using services like Heroku or Amazon Web Services, to have your projects visible live. You can deploy applications that do not have a back-end or databases, applications such as a small set of HTML, CSS, and JavaScript files, for free on Github via Github Pages.
+
+build:
+  text: Build projects to showcase every single aspect of your learning. Share all your best code on Github so others can see your portfolio and possibly even use the code you've written.
+  links:
+    seriously: Honestly, build as much as possible. Have ideas and work to make them happen.
+
+other-roadmaps:
+  text: Other roadmaps!
+  links:
+    google: <a href="http://everydayutilitarian.com/essays/learn-code/">Go from Zero to Programmer Hero in One Guide!</a> But really there's a lot of <a href="https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use">cool discussions</a> about how to get into web development when you're a raw beginner, that are worth checking out.
+    dreaming-in-code: <a href="http://www.dreamincode.net/forums/forum/78-programming-tutorials/">Dreaming in Code</a>, Lots of tutorials for different languages.
+    mozilla: <a href="https://developer.mozilla.org/en-US/docs/Web">Web technology for developers</a>
+    free-code-camp: <a href="https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645#.wz90cqkwl">"How to Get a Developer Job In Less Than A Year"</a>, a perspective from <a href="https://www.freecodecamp.com/">FreeCodeCamp</a>.
+    rails: <a href="https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin">Essential things you need to know for Rails development</a>. Rails is the major web framework for Ruby, and a popular choice for building apps quickly and well.
+    codecademy: <a href="https://www.codecademy.com">Codecademy's Full Stack path</a>. Codecademy is an amazing first step on your road to code, especially if you have never written any code before. Great introduction to essential full stack concepts and competencies.
+    more-rails: <a href="http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending">Where to start learning Rails and general webdev concepts</a>
+    code-org: <a href="https://code.org/learn">Code.org</a> courses
+    code-avengers: <a href="https://www.codeavengers.com/profile#intro">Code Avengers</a>, various free courses to learn basics.
+    team-treehouse: <a href="https://teamtreehouse.com/">Team TreeHouse</a>, various small courses.
+    khan-academy: <a href="https://www.khanacademy.org/">KhanAcademy</a> courses
+    bento: <a href="https://bento.io/">Bento</a>, cool tutorials for different web development technologies and concepts.
+    learn-the-hard-way: <a href="http://programming-motherfucker.com/become.html">Learn the Hard Way courses</a>, highly recommended.
+    codeschool: <a href="http://discover-devtools.codeschool.com/">Codeschool</a>, lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
+    lynda: <a href="https://www.lynda.com/">Lynda</a>, video tutorials.
+    lifehacker: <a href="http://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code">LifeHacker's "Programmer 101 Teach Yourself To Code"</a> article with plenty of links
