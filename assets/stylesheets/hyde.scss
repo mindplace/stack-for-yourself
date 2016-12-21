@@ -16,30 +16,8 @@
  * http://qwtel.com/hydejack.
  */
 
-/* Icon font for github, twitter, etc */
-@font-face {
-    font-family: 'icomoon';
-    src:    url('../fonts/icomoon.eot?bytfto');
-    src:    url('../fonts/icomoon.eot?bytfto#iefix') format('embedded-opentype'),
-        url('../fonts/icomoon.ttf?bytfto') format('truetype'),
-        url('../fonts/icomoon.woff?bytfto') format('woff'),
-        url('../fonts/icomoon.svg?bytfto#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 html {
-  font-family: "PT Serif", Georgia, serif;
-}
-@media (min-width: 48em) {
-  html {
-    font-size: 16px;
-  }
-}
-@media (min-width: 58em) {
-  html {
-    font-size: 18px;
-  }
+  font-family:$base-font-family;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -265,7 +243,6 @@ a:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-  font-size: 16px;
 
   ul li {
     margin-bottom: 14px;

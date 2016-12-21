@@ -19,7 +19,7 @@ Good design is paramount these days for good software that creates value for use
 <hr>
 
 ## Resources for writing better software
-More resources can be found on Stack For Yourself's [page for supporting codebases at work]({% post_url 2016-05-01-supporting-codebase-at-work %}).
+More resources can be found on our [page for supporting codebases at work]({% post_url 2016-05-01-supporting-codebase-at-work %}).
 
 * *[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=503f5f6539e7c33836f1f848b424295f)*, by Martin Fowler
 * *[Beautiful Code: Leading Programmers Explain How They Think](https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=9584716c6027fccff9c12e866f3353a2)*, by Andy Oram

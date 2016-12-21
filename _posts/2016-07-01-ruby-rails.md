@@ -14,7 +14,7 @@ Use [Kaffeine](http://kaffeine.herokuapp.com/) if you are hosting your site on H
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({% post_url 2016-07-01-ruby-frameworks %})).
 
-[There are quite a lot of different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails, so get started!
+[Here are the different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails. It's a great high-level but concise overview. 
 
 <hr>
 

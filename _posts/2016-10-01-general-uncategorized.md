@@ -2,7 +2,7 @@
 layout: post
 title: "General Computer Science"
 shortnote: "Lots of general and high-level resources, good place to start."
-tags: [general, back-end, front-end, all]
+tags: [general, back-end, all]
 categories: [comp-sci]
 ---
 
@@ -54,14 +54,6 @@ A vast percentage of web development is done with object-oriented languages, inc
 
 * *[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)*
 * *[Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4b47c3066747c540cf74b295102e0f3e)*, by Chris Okasaki
-
-<hr>
-
-## Internet basics
-
-* [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html), a thorough primer on HTTP.
-* [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
-* [Build a server script to understand how servers work!](http://www.blackbytes.info/2016/08/build-your-own-web-server/) And it's super straightforward with Ruby.
 
 <hr>
 

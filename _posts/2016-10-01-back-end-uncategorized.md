@@ -17,7 +17,7 @@ Plenty of people suggest you have a systematic approach to learning a new langua
 
 ### Ruby
 
-* Stack For Yourself's [Ruby overview]({% post_url 2016-07-01-ruby-overview %})
+* Our [Ruby overview]({% post_url 2016-07-01-ruby-overview %})
 * [Ruby vs Python](https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.f3lu2q7a7)
 
 <hr>
@@ -56,7 +56,7 @@ A functional programing language with a loving following.
 ## Books
 * *[Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=d85311a13116f2aa4e97d60ebdb8fd2f)*, by Bruce Tate
 * *[Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=514c9f15b923f67abcd594a67bf86a75)*, by Benjamin C. Pierce
-* Check out Stack For Yourself's [full stack roadmap]({{ site.baseurl }}/static/roadmap/) for resources related to holistic web development
+* Check out our [full stack roadmap]({{ site.baseurl }}/static/roadmap/) for resources related to holistic web development
 
 <hr>
 

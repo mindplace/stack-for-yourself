@@ -1,5 +1,5 @@
 ---
-layout: post-for-blog
+layout: post
 title: "Accessing APIs with Ruby: a tutorial"
 shortnote: "Using 'open-uri' and JSON to get data from an API with Ruby."
 tags: [blog]

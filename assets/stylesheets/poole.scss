@@ -35,14 +35,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
   line-height: 1.65;
-}
-@media (min-width: 38em) {
-  html {
-    font-size: 20px;
-  }
 }
 
 body {
@@ -98,7 +91,6 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   line-height: 1.9;
-  font-size: 15px;
 }
 
 strong {
