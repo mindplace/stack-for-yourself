@@ -153,7 +153,7 @@ pre > code {
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after {
   content: "";
   display: table;
   clear: both;
@@ -261,66 +261,15 @@ p {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0;
+  padding: 20px 0 30px;
 }
 
-.footer-heading {
-  font-size: 18px;
-  margin-bottom: 15px;
-}
-
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
-}
-
-.footer-col-wrapper {
-  font-size: 15px;
+.custom-footer-col p {
+  font-size: 10px;
   color: #828282;
-  margin-left: -15px;
+  margin-bottom: 5px;
 }
 
-.footer-col {
-  float: left;
-  margin-bottom: 15px;
-  padding-left: 15px;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (30px / 2));
-  width: calc(35% - (30px / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(20% - (30px / 2));
-  width: calc(20% - (30px / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2));
-}
-
-@media screen and (max-width: 800px) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2));
-  }
-}
-@media screen and (max-width: 600px) {
-  .footer-col {
-    float: none;
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2));
-  }
-}
 /**
  * Page content
  */
@@ -882,11 +831,8 @@ tbody tr:nth-child(odd) th {
  * Center the page content.
  */
 .container {
-  max-width: 38rem;
   padding-left: 1rem;
-  padding-right: 1rem;
   margin-left: auto;
-  margin-right: auto;
   /* Prevent side-scrolling on mobile */
   overflow-x: hidden;
   position: relative;
@@ -926,7 +872,6 @@ tbody tr:nth-child(odd) th {
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
-.page,
 .post {
   margin-bottom: 4em;
 }
@@ -1252,7 +1197,6 @@ a:focus {
  */
 .content {
   padding-top: 4rem;
-  padding-bottom: 4rem;
 }
 .content ul li {
   margin-bottom: 14px;
@@ -1269,16 +1213,14 @@ a:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 60%;
     margin-left: 20rem;
-    margin-right: 2rem;
     border-left: none;
   }
 }
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
   }
 }
 /* Override pool styles that are specific to this theme */

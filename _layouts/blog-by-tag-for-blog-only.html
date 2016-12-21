@@ -28,7 +28,7 @@ layout: default
           <span class="post-title-link">{{ post.title }}</span></b></a></h3>
           <p class="tag-description">{{ post.shortnote }}</p>
     </li>
-    {% if forloop.last %}</ul><hr/>{% endif %}
+    {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 {% else %}
     <p>There are no posts for this tag.</p>
