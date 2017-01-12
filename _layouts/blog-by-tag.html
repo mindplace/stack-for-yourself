@@ -37,7 +37,7 @@ layout: default
             <!-- <i>{{ tags_content }}</i><br> -->
             {{ post.shortnote }}</p>
     </li>
-    {% if forloop.last %}</ul><hr/>{% endif %}
+    {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 {% else %}
     <p>There are no posts for this tag.</p>

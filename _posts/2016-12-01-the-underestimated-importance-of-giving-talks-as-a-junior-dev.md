@@ -5,7 +5,7 @@ shortnote: "You don't have to be an expert. You just need to get yourself in fro
 tags: [blog]
 ---
 
-I can't say enough about the positive qualities of giving talks as you are job-hunting, *especially* as a junior developer fresh out of coding bootcamp, a self-taught program, or college. Here's my list of the most important reasons. however.
+I can't say enough about the positive qualities of giving talks as you are job-hunting, especially as a junior developer fresh out of coding bootcamp, a self-taught program, or college. Here's my list of the most important reasons.
 
 ## 1. It makes you accountable to learning something really well.
 
@@ -21,7 +21,8 @@ As a developer, too, I can also tell you that I love seeing more junior develope
 
 > "My job search after graduation is interesting because I tried the traditional way of going through LinkedIn and Indeed.com, and sending my off resume. And maybe I'm a sensitive person, but I got so many rejections, it was depressing.<br><br>
 After two weeks of that, I scrapped that entire process and reached out to the Meteor NY meetup organizer I knew and asked if I could present a 5 to 10-minute lightning talk, and they said, "Sure, go ahead."<br><br>
-The way I pitched the lightning topic was that I already had something to present. I didn't. I had nothing. Just an idea. So I stopped everything else I was doing, and for the next seven days, all day, I worked on this presentation. In the presentation, I built something similar to Chess.com – an online chess app that users can play in real time. And I showed how to do that with React and Meteor." ~ Tom Goldenberg, ["Advice From a Coding Bootcamp Grad"](https://www.coursereport.com/blog/podcast-advice-from-coding-bootcamp-grad-tom-goldenberg)
+The way I pitched the lightning topic was that I already had something to present. I didn't. I had nothing. Just an idea. So I stopped everything else I was doing, and for the next seven days, all day, I worked on this presentation. In the presentation, I built something similar to Chess.com – an online chess app that users can play in real time. And I showed how to do that with React and Meteor."
+<br><br>~ Tom Goldenberg, ["Advice From a Coding Bootcamp Grad"](https://www.coursereport.com/blog/podcast-advice-from-coding-bootcamp-grad-tom-goldenberg)
 
 Like Tom above, I sent out hundreds of resumes in response to job ads and basically got no positive responses back whatsoever. People just wouldn't give me a chance. And who could blame them? I had nearly nothing on my resume except 'Dev Bootcamp' and a couple of very green projects.
 
@@ -40,7 +41,8 @@ Thanks to that weekend, I not only landed an interview with a company and a slew
 
 ## 4. Seriously, it lands you interviews.
 
-> "Another way I’ve landed interviews is by presenting at a meetup. This is a much better way to meet people in the room, rather than just being another guy / girl in the audience. Be courageous and put yourself in front of others. Showcase your talent." <br><br>~ Tom Goldenberg, ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://medium.com/@tomgoldenberg/open-letter-to-employers-on-behalf-of-bootcamp-grads-and-also-to-bootcamp-grads-b40a722ced85#.giztbxbz6)
+> "Another way I’ve landed interviews is by presenting at a meetup. This is a much better way to meet people in the room, rather than just being another guy / girl in the audience. Be courageous and put yourself in front of others. Showcase your talent."
+<br><br>~ Tom Goldenberg, ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://medium.com/@tomgoldenberg/open-letter-to-employers-on-behalf-of-bootcamp-grads-and-also-to-bootcamp-grads-b40a722ced85#.giztbxbz6)
 
 ![recursion_talk]({{ site.baseurl }}/assets/img/recursion_talk.png)
 
@@ -50,7 +52,7 @@ After this recursion talk, a developer from Betterment took me aside and asked i
 
 After this (second) [N+1 Errors talk at NYC.rb meetup](http://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](http://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](http://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
 
-## Okay, I'm convinced! How to I get my talks accepted?
+## Okay, I'm convinced! How do I get my talks accepted?
 
 Now we're talking! Here's some tips from pros:
 
