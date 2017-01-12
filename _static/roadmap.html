@@ -21,11 +21,13 @@ permalink: /static/roadmap/
 
 <p>It's not just you who might feel that way. Don't give up.</p>
 
-<p>Your <a href="https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code">first 100 hours</a> will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and <code>puts</code> statements, and suddenly you'll find yourself trying to solve some sort of simple <a href="{% post_url 2016-09-01-algorithms-uncategorized%}">algorithm</a> like <a href="http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/">finding the nth Fibonacci number</a> and everything will break and you'll get frustrated, cry, and believe you're not cut out for this. But you really are cut out for this <a href="https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.1fo7o2wib">People from all walks of life are cut out for this</a>, and your background means nothing. (For context, I achieved 2 degrees in English literature and worked in HR/Compliance before deciding to pursue web development, and I couldn't be happier with my decision.)</p>
-
 <img src="http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png" width="100%">
 
-Don't let this deter you. Keep at it and it will continue to make more and more sense. <a href="{% post_url 2016-05-01-managing-your-tools %}">Organize yourself and your projects</a>, stay on top of where you are in your plan, <a href="{% post_url 2016-05-01-coding-community %}">reach out to others for help, direction, support, and community</a>, and don't lose heart.
+<p>Your <a href="https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code">first 100 hours</a> will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and <code>puts</code> statements, and suddenly you'll find yourself trying to solve some sort of simple <a href="{% post_url 2016-09-01-algorithms-uncategorized%}">algorithm</a> like <a href="http://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number/">finding the nth Fibonacci number</a> and everything will break and you'll get frustrated, cry, and believe you're not cut out for this.</p>
+
+<p>Don't let this deter you. Keep at it and it will continue to make more and more sense. <a href="{% post_url 2016-05-01-managing-your-tools %}">Organize yourself and your projects</a>, stay on top of where you are in your plan, <a href="{% post_url 2016-05-01-coding-community %}">reach out to others for help, direction, support, and community</a>, and don't lose heart.</p>
+
+<p>Trust that you really <i>are</i> cut out for this. <a href="https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.1fo7o2wib">People from all walks of life are cut out for this</a>, and your background means nothing. (Me? I achieved 2 degrees in English literature and worked in HR/Compliance before deciding to pursue web development, and I couldn't be happier with my decision.)</p>
 
 <hr>
 
@@ -33,24 +35,22 @@ Don't let this deter you. Keep at it and it will continue to make more and more 
 
 <img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/08/1409261668002.png" width="100%">
 
-<h2>Stack For Yourself's curriculum: learning on your own</h2>
+<h2>Stack For Yourself's Curriculum</h2>
 
 <div class="ordered-list-roadmap">
-  <ol>
     {% for item_slug in site.data.roadmap-items %}
       {% assign set = item_slug[1] %}
-      <li>
+      <div class="roadmap-item">
         <p class="header-text">{{ set.text }}</p>
         <div class="links">
           <ul>
             {% for link in set['links'] %}
-              <li>{{ link[1] }}</li>
+            <li>{{ link[1] }}</li>
             {% endfor %}
           </ul>
         </div>
-      </li>
+      </div>
     {% endfor %}
-  </ol>
 </div>
 
 <hr>

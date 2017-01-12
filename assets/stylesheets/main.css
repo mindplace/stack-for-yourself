@@ -377,6 +377,10 @@ p {
   padding: 10px;
 }
 
+.roadmap-item {
+  margin-bottom: 50px;
+}
+
 /**
  * Syntax highlighting styles
  */
