@@ -43,3 +43,7 @@ https://developer.mozilla.org/en-US/docs/AJAX
 http://wentin.co/
 
 http://cssicon.space/#/animate/unamused/to/smile
+
+https://github.com/sindresorhus/awesome#databases
+
+https://github.com/thoughtbot/guides
