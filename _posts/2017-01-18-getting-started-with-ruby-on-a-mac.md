@@ -8,6 +8,7 @@ tags: [blog]
 ### Are you developing on a Windows or Linux computer?
 
 Then this guide will not work for you. These things might:
+
 * Official list of ways to install Ruby, as given [by the documentation](https://www.ruby-lang.org/en/documentation/installation/).
 * **Windows users**: try [this RubyInstaller](http://rubyinstaller.org/), or this [TeamTreeHouse Rails installation guide](https://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application/getting-started-with-rails/installing-rails-windows).
 * **Linux users**: check out the [official list of ways to install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your dystro.
