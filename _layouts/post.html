@@ -4,7 +4,7 @@ layout: default
 
 {% assign post = page %}
 {% if post.tags.size > 0 %}
-  {% capture tags_content %}on {% endcapture %}
+  {% capture tags_content %}{% endcapture %}
   {% for post_tag in post.tags %}
     {% assign tag = site.data.tags[post_tag] %}
     {% if tag %}
@@ -53,6 +53,14 @@ layout: default
       {% endif %}
     {% endfor %}
   </ul>
+</aside>
+
+<aside class="second-filed-under">
+  <hr>
+
+  <div class="post-date">
+    Tagged <span>{{ tags_content }}</span>
+  </div>
 </aside>
 
 <aside class="comments">

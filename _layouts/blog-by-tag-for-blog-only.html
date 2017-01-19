@@ -18,7 +18,7 @@ layout: default
   {% for post in site.tags[page.tag] %}
     {% assign currentdate = post.date | date: "%Y" %}
     {% if currentdate != date %}
-      {% unless forloop.first %}</ul><hr/>{% endunless %}
+      {% unless forloop.first %}</ul>{% endunless %}
       <ul class="related-posts">
       {% assign date = currentdate %}
     {% endif %}
