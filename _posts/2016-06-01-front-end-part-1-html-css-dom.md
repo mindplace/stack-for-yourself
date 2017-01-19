@@ -16,6 +16,8 @@ Mozilla Developer Network generally puts out spectacular content for understandi
 
 Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11#.5yci2z37b), a really great collection of suggestions for improving your front-end code.
 
+Try out [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to run HTML, CSS, and JavaScript together to see output.
+
 <hr>
 
 ## HTML
@@ -45,11 +47,10 @@ Check out these [101 tips for front-end](https://medium.freecodecamp.com/101-way
 * [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/): Flex box is an awesome overtaker in the painful area of element positioning. No more `float: left`! Flexbox really is magical.
 * A [great flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), very much in depth.
 * Basics: [understanding cascading and inheritance](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Cascading_and_inheritance) in CSS, an essential set of concepts.
-* [Sitepoint CSS reference](http://reference.sitepoint.com/css)
+* Sitepoint [CSS reference](http://reference.sitepoint.com/css)
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
 * [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.
 * Understanding [media queries](http://learnlayout.com/media-queries.html), an essential part of building web pages that respond to changing screen sizes.
-* [Cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
 
 ## Sass & other CSS preprocessors
 Start [here](http://sass-lang.com/guide) to understand the basics of CSS preprocessors.
@@ -67,3 +68,11 @@ Without understanding the DOM--that is, Domain Object Model--you will not unders
 * [W3Schools' DOM docs](http://www.w3schools.com/jsref/dom_obj_document.asp)
 * [tutsplus DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
 * [HTML view any page’s tree layout](https://htmltree.peterbe.com/)
+
+<hr>
+
+## Great, free stuff
+
+* Getting an actual [sticky footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/) with just a bit of HTML, CSS, and flexbox.
+* [Cute speech bubble maker](http://ilikepixels.co.uk/drop/bubbler/)
+* [Amazing icons](http://cssicon.space/#/animate/arrow-left/to/arrow-right) that are even able to animate into other icons!

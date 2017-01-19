@@ -12,16 +12,16 @@ JavaScript has been around a pretty good long time, and has been getting much be
 
 ES6 has just come out, bringing with it a lot of changes to syntax and execution, most of them very timely. Check out this [ES6 cheatsheet](https://es6cheatsheet.com/) which acts as a good intro to changes from ES5.
 
+There's a lot of stuff below. To help you contextualize these tools, [check out this survey of which front-end tools developers are using in 2016](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results).
+
 <hr>
 
-## Tutorials and guides
+## Tutorials and guides to get you started with JavaScript
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
 * GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
+* Mozilla's [basic introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
-* [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
-* [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
-* [Grunt](http://gruntjs.com/) documentation: a task manager for back-end development.
 
 <hr>
 
@@ -39,6 +39,11 @@ ES6 has just come out, bringing with it a lot of changes to syntax and execution
 * [JSON Web Token](https://jwt.io/introduction/)
 * [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text-editor for the browser, developed by Facebook
 * [Functions as first class citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/): understanding higher order functions, and how you can pass functions around
+* Understanding [factory functions](https://www.sitepoint.com/factory-functions-javascript/)
+* Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
+* [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
+* [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
+* [Grunt](http://gruntjs.com/) documentation: a task manager for back-end development.
 
 <hr>
 
@@ -88,5 +93,3 @@ Great library that dramatically extends basic array, collection, etc functionali
 Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
-
-<hr>
