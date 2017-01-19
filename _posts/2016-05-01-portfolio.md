@@ -26,6 +26,12 @@ So put together at least 10 projects you can talk about to other developers and 
 
 <hr>
 
+### Some inspiring portfolio sites
+
+* Wending Zhang's [personal portfolio site](http://wentin.co/)
+
+<hr>
+
 ### Get ideas on stuff to build
 Below are some places to get ideas on stuff to build yourself--but also remember that [contributing to open source projects]({% post_url 2016-05-01-contributing-to-open-source %}) are one of the best ideas you can have if you want to build up your credibility as a programmer.
 

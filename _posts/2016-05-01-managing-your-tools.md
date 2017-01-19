@@ -9,23 +9,85 @@ categories: [everything-else]
 Make sure you [get the right tools installed on your computer](http://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
 
 #### Your most essential tools:
+* A text-editor (some options below)
+* A good web browser (some options below)
 * A grasp of how to use [git and Github]({% post_url 2016-05-01-github %})
-* A text-editor like [Atom](https://atom.io/), Github's project, or [Sublime](https://www.sublimetext.com/), probably the most popular
 
 And take the time to read this great essay on the [maker's schedule](http://www.paulgraham.com/makersschedule.html), by Paul Graham of [Y-Combinator](https://www.ycombinator.com/).
 
 <hr>
 
-### Vim
-An important text editor (like those mentioned above) but one that is meant to be navigated with only a keyboard. It has a steep learning curve, but it's really worth it to be able to edit and type in files at the speed of thought. Your computer already has it installed! That said, treat yourself to a better version via [MacVim](https://github.com/macvim-dev/macvim) (which supports non-Mac computers as well).
+### Text editors
+These are programs inside of which you'll be writing into and saving code files. You will need to download one in order to write code, even if you make an account with one of the free online code editors below.
 
+<br>
+
+#### Online code editors
+* [repl.it](https://repl.it/): a beautiful, simple code editor that you can use online, free, to run code in a variety of languages, such as Ruby, Python, JavaScript, etc.
+* [Cloud9](https://c9.io/), a free online [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (integrated development environment) that provides you with a filetree, a Linux-based [shell]({{ post_url 2016-10-01-command-line }}) to run code, and even an in-workspace browser to view 'local' file serving.
+* [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to run HTML, CSS, and JavaScript together to see output.
+
+<br>
+
+#### Atom
+[Atom](https://atom.io/) is a text editor built by Github (and my go-to!).
+
+* Atom's [official documentation and resources](https://atom.io/docs)
+* Atom [shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+* [Packages](https://atom.io/packages), or add-ons that you can download to make Atom even more awesome.
+
+<br>
+
+#### Sublime
+[Sublime](https://www.sublimetext.com/) is probably the most popular text editor.
+
+* Sublime's [official documentation and resources](http://docs.sublimetext.info/en/latest/)
+* Sublime [shortcuts](https://gist.github.com/eteanga/1736542)
+* [PackageControl](https://packagecontrol.io/) for Sublime, add-ons that you can download to make Sublime even more useful.
+
+<br>
+
+#### vim
+An important text editor but one that can only be navigated with keyboard shortcuts, so it has a steep learning curve. But it's really worth it to be able to create and edit files at the speed of thought. If you're on a Mac or Linux OS, your computer already has it installed! That said, treat yourself to a better version via [MacVim](https://github.com/macvim-dev/macvim) (which supports non-Mac computers as well).
+
+* [vim's official documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
 * [StackOverflow answers on most-used vim shortcuts](http://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
-* [vim's own documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
 * ["Best of Vim tips"](http://rayninfo.co.uk/vimtips.html)
-* [Graphical Vim cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
-* [Vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
-* [Vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
+* [Graphical vim cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+* Another [vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
+* One more [vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
 
+<hr>
+
+### Web browsers
+The following are all browsers that support development needs, such as need to inspect HTML, CSS, and JavaScript.
+
+<hr>
+
+#### Chrome
+Definitely a developer's go-to browser, more extensively used and loved than any other on this list for its standard-setting developer tools.
+
+* Chrome [dev tools](https://developer.chrome.com/devtools)
+
+<hr>
+
+#### Mozilla Firefox
+Did you know the guy who invented JavaScript was the CEO of Mozilla?
+
+* Mozilla's [developer tools](https://developer.mozilla.org/en-US/docs/Tools)
+
+<hr>
+
+#### Opera
+
+* Opera [dev tools](http://help.opera.com/Linux/10.50/en/devtools.html)
+
+<hr>
+
+#### Internet Explorer
+Surprised to see it make this list? Don't be--IE also has dev tools!
+
+* [IE dev tools](https://msdn.microsoft.com/en-us/library/dd565628.aspx)
 
 <hr>
 
@@ -50,6 +112,7 @@ An important text editor (like those mentioned above) but one that is meant to b
 * [Agile warrior](https://agilewarrior.wordpress.com/)
 * [Agile manifesto](http://agilemanifesto.org/)
 * [Practices of an Agile developer](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)
+* ThoughtBot's [guides to working in teams with various technologies](https://github.com/thoughtbot/guides), a hugely valuable read.
 
 <hr>
 

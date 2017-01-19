@@ -14,6 +14,7 @@ Plenty of people suggest you have a systematic approach to learning a new langua
 <hr>
 
 ## Different Languages
+If you're trying to check on different syntax concepts in various languages, [SyntaxDB](https://syntaxdb.com/) is a truly incredible resource, and you can [read more about SyntaxDB here](https://flipboard.com/@flipboard/flip.it%2Fjqyeaj-a-search-engine-for-programming-languag/f-82bfd6ad31%2Fvice.com).
 
 ### Ruby
 

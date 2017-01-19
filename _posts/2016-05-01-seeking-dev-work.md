@@ -29,6 +29,7 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * [Graduated Code School, Now What?](https://www.kcoleman.me/blog/2015/12/06/i-graduated-from-a-code-school-now-what/)
 * ["How I landed my first programming job and what I learned after bootcamp"](http://www.tablexi.com/developers/first-programming-job/)
 * ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://www.linkedin.com/pulse/open-letter-employers-behalf-bootcamp-grads-also-tom-goldenberg?trk=mp-reader-card)
+* ["I spent 3 months applying to jobs after coding bootcamp. Here's what I learned."](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.ysft1aq3f)
 
 <hr>
 
@@ -51,13 +52,19 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 
 ## Finding work
 * [Handling clients](http://blog.hightail.com/how-to-handle-clients-by-a-client/) when working freelance
-* [UpWork](https://www.upwork.com/Login?redir=%2Fhome)
-* [WeWorkRemotely](https://weworkremotely.com/)
 * [PhishMe](http://phishme.com/company/careers/)
 * [Triplebyte](https://triplebyte.com/)
 * [Muse jobs](https://www.themuse.com/jobs)
 * [DevPost](http://devpost.com/)
 * [Apprentice.io](http://www.apprentice.io/): ThoughtBot's program, it tends to be popular so don't get your hopes up.
+
+<hr>
+
+## Remote work
+
+* Digital nomads [talk about their work schedule](http://gigigriffis.com/ask-a-digital-nomad-whats-your-work-schedule/).
+* [UpWork](https://www.upwork.com/Login?redir=%2Fhome), a place to find remote clients for contracting work.
+* [WeWorkRemotely](https://weworkremotely.com/), another good place to find remote clients/jobs.
 
 <hr>
 

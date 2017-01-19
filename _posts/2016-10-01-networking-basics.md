@@ -18,6 +18,17 @@ Read Mozilla's great introduction to [how the Internet works](https://developer.
 * What's a web server? [This will tell you.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 * [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
 * In order to understand how servers work, [build a simple server script](http://www.blackbytes.info/2016/08/build-your-own-web-server/) with Ruby.
+* Understanding what [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) is.
+* Understanding [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* Understanding what [APIs](https://developer.mozilla.org/en-US/docs/Glossary/API) are.
+
+<hr>
+
+## Ajax requests
+Ajax is a way of making a request to get resources with JavaScript, without reloading or refreshing or redirecting the page. Meaning, it can happen in the background, then update a specific part of the page. This is the concept behind web applications, where interaction with a page--clicking or selecting things, etc--doesn't force your page to reload, but merely updates that particular part of it.
+
+* Understanding the [AJAX](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) request.
+* [AJAX](https://developer.mozilla.org/en-US/docs/AJAX) documentation.
 
 <hr>
 
