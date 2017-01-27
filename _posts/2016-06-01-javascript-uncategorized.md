@@ -12,6 +12,8 @@ JavaScript has been around a pretty good long time, and has been getting much be
 
 ES6 has just come out, bringing with it a lot of changes to syntax and execution, most of them very timely. Check out this [ES6 cheatsheet](https://es6cheatsheet.com/) which acts as a good intro to changes from ES5.
 
+[Here's a good beginner's guide](https://medium.freecodecamp.com/a-beginners-javascript-study-plan-27f1d698ea5e#.y13jz4xrt) to putting together a JavaScript study plan.
+
 There's a lot of stuff below. To help you contextualize these tools, [check out this survey of which front-end tools developers are using in 2016](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results).
 
 <hr>
@@ -43,6 +45,14 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
+* Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e) 
+
+<hr>
+
+## Current concepts
+* [Static typing in JavaScript](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb#.xjr21pfsz), part 1 of a 3 part series. Very good introduction to static typing, the pros and cons, and the reason people are having this conversation.
+* Functional programming in JavaScript, [part 1](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.iqvhbyhqq) and [part 2](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e#.uf9bhccqg)
+
 * [Grunt](http://gruntjs.com/) documentation: a task manager for back-end development.
 
 <hr>

@@ -47,6 +47,7 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * [Ruby on Rails interviews](http://blog.mypath.io/ruby-on-rails-interview-questions-that-will-land-you-the-job/?utm_source=so&utm_medium=reddit&utm_campaign=rubyonrailsinterview)
 * [More Ruby interviews](http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/?utm_source=rubyweekly&utm_medium=email)
 * [The Art of Ruby Technical Interviews](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
+* [An opinionated guide to writing a tech resume](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ovj364sio), courtesy of a developer who has hired other developers.
 
 <hr>
 

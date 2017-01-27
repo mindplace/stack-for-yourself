@@ -15,7 +15,7 @@ Level up your ability to write better software: [these resources]({% post_url 20
 <hr>
 
 ## Code and work
-
+* [Code calligraphy vs code scratch](https://medium.freecodecamp.com/what-is-shitty-code-handwriting-ae7c00708b#.2xp08elhl): very insightful article on both bad and good choices that turn out code.
 * [Forget technical debt, built technical wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)): write code and build codebases that are sustainable, or how to not have legacy code from your first day
 * [3 mistakes software developers must avoid](http://blog.excelwithcode.com/software-product-failure.html): or, how to fail as a programmer
 * *[AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis](https://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a16d2a25826f74deb9a4030f4f590904)*, by William J. Brown
