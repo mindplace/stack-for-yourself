@@ -200,7 +200,12 @@ a:focus {
   /*border-top: 1px solid rgba(255, 255, 255, 0.23);*/
 }
 .sidebar-nav > ul > li:last-child {
+  padding-bottom: 10px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.23);
+}
+
+.sidebar-nav > ul > .search-area {
+  padding-top: 10px;
 }
 
 .sidebar-social {
