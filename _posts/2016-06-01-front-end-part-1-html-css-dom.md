@@ -51,6 +51,7 @@ Try out [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to ru
 * [The lowdown on `absolute` vs `relative` positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning): particularly good once you've been messing around with HTML&CSS for a while.
 * [The 100% Correct Way to do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.5p7uxf3ni): writing code for a variety of screen sizes.
 * Understanding [media queries](http://learnlayout.com/media-queries.html), an essential part of building web pages that respond to changing screen sizes.
+* Learn CSS [Layout](http://learnlayout.com/) with detailed breakdowns, visuals, and code excerpts. 
 
 ## Sass & other CSS preprocessors
 Start [here](http://sass-lang.com/guide) to understand the basics of CSS preprocessors.
