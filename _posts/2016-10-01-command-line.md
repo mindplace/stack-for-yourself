@@ -28,7 +28,7 @@ The terms *command line*, *command-line*, *command line interface (CLI)*, *termi
 ### Bash Reference manuals
 * [Bash reference manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [TLDP's Intro to Bash](http://www.tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html), another great and clean reference/tutorial
-* [Bash cheatsheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+* [Bash cheatsheet](https://gist.github.com/hofmannsven/8392477)
 
 ### Bash - level up your CLI skills
 * [OverTheWire Command Line game](http://overthewire.org/wargames/bandit/) helping teach you how to use the command line.
