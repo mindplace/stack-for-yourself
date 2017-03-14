@@ -39,7 +39,8 @@ Remember that algorithms go hand in hand with [data structures]({% post_url 2016
 * [RubyQuiz](http://rubyquiz.com/)
 * [Karan's general challenge list](https://github.com/karan/Projects)
 * [Leetcode](https://leetcode.com/)
-
+* [HackerRank](https://www.hackerrank.com/)
+* [GeeksForGeeks](http://www.geeksforgeeks.org/)
 <hr>
 
 ## Other stuff
