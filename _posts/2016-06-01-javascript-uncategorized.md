@@ -24,6 +24,7 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
 * Mozilla's [basic introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
+* Build 30 vanilla JavaScript projects with [this free course by Wes Bos](https://javascript30.com/)
 
 <hr>
 
@@ -45,7 +46,7 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
-* Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e) 
+* Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e)
 
 <hr>
 
