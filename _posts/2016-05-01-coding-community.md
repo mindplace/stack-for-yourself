@@ -28,6 +28,7 @@ Hackathons are great for collaborating with other developers in an intense way t
 
 * [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
 * [AngelHack](http://angelhack.com/), a company that hosts hackathons in different cities.
+* [Devpost Hackathon Listing](https://devpost.com/hackathons)
 
 <hr>
 
