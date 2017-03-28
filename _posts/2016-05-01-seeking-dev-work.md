@@ -67,6 +67,19 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * [UpWork](https://www.upwork.com/Login?redir=%2Fhome), a place to find remote clients for contracting work.
 * [WeWorkRemotely](https://weworkremotely.com/), another good place to find remote clients/jobs.
 
+- FrontThat
+- RemoteOk
+- JobMote
+- Remotive
+- WorkingNomads
+
+Places that search for job matches on your behalf:
+
+- Hired
+- Crowded
+- Vettery (sent you a link via their site)
+- Woo (forwarded to you their email)
+
 <hr>
 
 ## Networking

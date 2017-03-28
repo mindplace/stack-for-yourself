@@ -21,6 +21,7 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 ## Tutorials and guides to get you started with JavaScript
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
+* *[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)*, one of the most in-depth and beloved book series on JavaScript, available [in print](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=you+don%27t+know+javascript) as well as [for free on Github](https://github.com/getify/You-Dont-Know-JS).
 * GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
 * Mozilla's [basic introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
@@ -45,7 +46,7 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
-* Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e) 
+* Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e)
 
 <hr>
 
