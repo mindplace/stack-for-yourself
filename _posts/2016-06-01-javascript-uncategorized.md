@@ -25,6 +25,7 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
 * Mozilla's [basic introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
+* Build 30 vanilla JavaScript projects with [this free course by Wes Bos](https://javascript30.com/)
 
 <hr>
 
