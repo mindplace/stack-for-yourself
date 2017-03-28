@@ -1,0 +1,15 @@
+/**
+ * Site footer
+ */
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: 20px 0 30px;
+}
+
+.custom-footer-col {
+  p {
+    font-size: 10px;
+    color: $grey-color;
+    margin-bottom: 5px;
+  }
+}

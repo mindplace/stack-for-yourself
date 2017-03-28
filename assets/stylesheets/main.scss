@@ -29,14 +29,26 @@ $on-laptop:        800px;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
-  "base",
-  "layout",
-  "syntax-highlighting",
-  "poole",
-  "hyde",
-  "codemirror"
+  // Vendor
+  "vendor/bootstrap",
+  "vendor/bootstrap-theme",
+
+  // Theme
+  "theme/syntax-highlighting",
+  "theme/poole",
+  "theme/hyde",
+  "theme/codemirror",
+
+  // Components
+  "components/footer",
+  "components/header",
+
+  // Pages
+  "pages/category",
+  "pages/page",
+  "pages/post",
+  "pages/roadmap",
+  "pages/index"
+
 ;

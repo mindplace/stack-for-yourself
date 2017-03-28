@@ -1,0 +1,43 @@
+// Categories pages
+
+.categories-content {
+
+  .page-header {
+    margin-bottom: 40px;
+  }
+
+  .category-box {
+    margin-bottom: 40px;
+    // border: 1px solid $grey-color-light;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    .header, .category-items-list {
+      padding: 20px;
+    }
+
+    .header {
+      background-color: $grey-color-light;
+
+      p {
+        font-family: $base-font-family;
+        font-size: 14px;
+      }
+    }
+
+    .category-items-list {
+      padding-bottom: 0;
+
+      .category-list-item-description {
+        font-size: 12px;
+        color: $grey-color-dark;
+      }
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+  }
+}
