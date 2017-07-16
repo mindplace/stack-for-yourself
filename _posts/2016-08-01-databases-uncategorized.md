@@ -25,9 +25,10 @@ categories: [back-end]
 * [Learn SQL the hard way](http://sql.learncodethehardway.org/book/), an awesome free online book
 * [SQLite tutorial](http://zetcode.com/db/sqlite/) from Zetcode
 * [Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
-http://www.guru99.com/sql.html
+* ["SQL Tutorial for beginners"](https://www.guru99.com/sql.html): a comprehensive tutorial to MySQL databases (and learning SQL query language generally).
 
-https://imgur.com/gallery/v23nUwQ
+#### Understanding SQL join concepts
+<img src="https://i.imgur.com/v23nUwQ.png">
 
 ## PostgreSQL
 * [PostgreSQL's awesome documentation](https://www.postgresql.org/docs/9.6/static/index.html), a really important read, especially Chapter 1
