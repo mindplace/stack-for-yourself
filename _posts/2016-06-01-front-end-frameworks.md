@@ -17,7 +17,7 @@ Learning JavaScript in today's world can be [pretty messy](https://hackernoon.co
 <hr>
 
 ## Start here
-Check out this great roadmap: ["From Zero to Front-end Hero, Part 2"](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.jipjenhuj) ([Part 1 is for HTML&CSS](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.sb4dij3lx)).
+Check out this great roadmap: ["From Zero to Front-end Hero, Part 2"](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.jipjenhuj) ([Part 1](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.sb4dij3lx) is for HTML & CSS).
 
 Learn and use [Github Pages](https://pages.github.com/) to host your pages and sites: essentially a free, hosted, live version of your front-end repositories.
 

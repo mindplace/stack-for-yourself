@@ -80,6 +80,20 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 
 <hr>
 
+## Build tools, task runners, and important supporting tools
+Don't [flounder among the many build tools and task runners out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q). You do ned at least one or two of them in your workflow, so get familiar with these big ones.
+
+* [gulp](http://gulpjs.com/): this is a JavaScript task-runner, able to do tasks like compile SASS, compress images, and more.
+* [grunt](http://gruntjs.com/): Another JavaScript task-runner **(my favorite!)**, with syntax that's different from gulp.
+* [NPM](https://www.npmjs.com/package/build-tools), Node Package Manager: a software package manager for JavaScript.
+* [Yarn](https://yarnpkg.com/en/), another very popular and new package manager for JavaScript.
+* [Bower](https://bower.io/): another very popular package manager.
+* [Yeoman](http://yeoman.io/): a scaffolding tool helping you kickstart your new projects.
+* [webpack](https://webpack.github.io/): a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles (often only one) to be loaded by the browser. [webpack documentation is here.](https://webpack.js.org/concepts/). To get started, [take the webpack course](https://webpack.academy/p/the-core-concepts) that the creator of webpack made.
+* [Flux](https://facebook.github.io/flux/) and/or [Redux](http://redux.js.org/): these are tools that manage front-end application state and storage. [Here's an article discussing the two](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/).  
+
+<hr>
+
 ## Great libraries to know
 
 ### jQuery
@@ -91,22 +105,17 @@ jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/techno
 * [Creating tabs with jQuery](http://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
 * ["I still love jQuery -- and you should, too."](https://hackernoon.com/i-still-love-jquery-and-you-should-too-3114f33f249e)
 
-### Lodash.js
-Great library that dramatically extends basic array, collection, etc functionality so you don't have to write your own every time. Production-level library that's widely used.
-
-* [Main page](https://lodash.com/)
-
 ### Data visualization libraries
 * [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
 * [Google Visualizations](https://developers.google.com/chart/interactive/docs/reference#development-tip)
 
-### Moment.js
-* [A great library for date and time](http://momentJavaScript.com/): comes with a ton of useful date and time functions
 
 ### Other libraries to know
+* [moment.js](http://momentJavaScript.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
 * [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
 * [Parallax.js](http://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
 * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
+* [Lodash.js](https://lodash.com/): Great library that dramatically extends basic array, collection, etc functionality so you don't have to write your own every time. Production-level library that's widely used.
 
 <hr>
 
@@ -123,16 +132,3 @@ Lots of people give away small bits of code for free. This is a super amazing pl
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
 * [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text editor for the browser, developed by Facebook.
-
-<hr>
-
-## Task runners, build tools, and important supporting tools
-Whatever framework you choose, [don't flounder among the many build tools and task runners out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q). You do ned at least one or two of them in your workflow, so get familiar with the big ones:
-
-* [gulp](http://gulpjs.com/): this is a JavaScript task-runner, able to do tasks like compile SASS, compress images, and more.
-* [grunt](http://gruntjs.com/): Another JavaScript task-runner **(my favorite!)**, with syntax that's different from gulp.
-* [npm](https://www.npmjs.com/package/build-tools)
-* [yeoman](http://yeoman.io/)
-* [Bower](https://bower.io/)
-* [webpack](https://webpack.github.io/): webpack is a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles (often only one) to be loaded by the browser. [webpack documentation is here.](https://webpack.js.org/concepts/). To get started, [take the webpack course that the creator of webpack made](https://webpack.academy/p/the-core-concepts).
-* [Flux](https://facebook.github.io/flux/) and/or [Redux](http://redux.js.org/): these are tools that manage front-end application state and storage. [Here's an article discussing the two](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/).  
