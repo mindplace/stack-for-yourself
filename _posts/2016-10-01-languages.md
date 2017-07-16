@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Back-end Languages"
-shortnote: "Resources to start getting a sense of back-end computing."
+title: "Differentiating Programming Languages"
+shortnote: "Different programming languages in computer science."
 tags: [back-end, all]
 categories: [back-end]
 ---
@@ -10,6 +10,8 @@ categories: [back-end]
 Check out [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems: helps you get a sense of how languages differ in their syntax and philosophies.
 
 Plenty of people suggest you have a systematic approach to learning a new language. [Here is one such suggested plan](https://gist.github.com/CristhianMotoche/85c4f6cdafc23ee92df0bb6ff65ab1be) and I think if you can do all or most of this list with a language of your choosing then you are definitely at the level of being paid to write code. And also to be my hero.
+
+That being said, languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat). :)
 
 <hr>
 
@@ -27,6 +29,11 @@ If you're trying to check on different syntax concepts in various languages, [Sy
 A very very cool language developed by Google and currently taking off. Based on the concept of multithreading: opens up new threads to handle new processes and deliver results incredibly quickly.
 
 * [Documentation](https://golang.org/doc/)
+
+<hr>
+
+### Python
+* [Awesome Python](https://awesome-python.com/), a curated list of awesome Python frameworks, libraries, software and resources.
 
 <hr>
 
@@ -63,3 +70,5 @@ A functional programing language with a loving following.
 
 ![git the princess](https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg)
 *source: [git the princess](https://toggl.com/programming-princess)*
+
+<hr>

@@ -42,4 +42,4 @@ Check out [Stack Overflow](stackoverflow.com), [Reddit](reddit.com) technology s
 
 ### Conferences
 * [Ruby conferences](http://rubyconferences.org/)
-* ["Get Your Conference Proposal Accepted"](http://schneems.com/blogs/2016-04-07-conference-proposal/?utm_source=rubyweekly&utm_medium=email)
+* ["Get Your Conference Proposal Accepted"](http://schneems.com/blogs/2016-04-07-conference-proposal/)

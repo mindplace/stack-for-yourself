@@ -33,5 +33,5 @@ The terms *command line*, *command-line*, *command line interface (CLI)*, *termi
 ### Bash - level up your CLI skills
 * [OverTheWire Command Line game](http://overthewire.org/wargames/bandit/) helping teach you how to use the command line.
 * [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
-* [Writing a shell in Ruby](http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/?utm_source=rubyweekly&utm_medium=email)
+* [Writing a shell in Ruby](http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/)
 * [Blog posts on command line topics](https://quickleft.com/blog/tag/command-line/) from various writers.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "General Computer Science"
+title: "Computer Science Fundamentals"
 shortnote: "Lots of general and high-level resources, good place to start."
 tags: [general, back-end, all]
 categories: [comp-sci]
 ---
 
 ## Start here
-There's some great resources on fundamentals below. Aside from that, be sure to check out our [algorithms]({% post_url 2016-09-01-algorithms-uncategorized %}) and [data structures]({% post_url 2016-10-01-back-end-uncategorized %}) pages, which are also essential computer science concepts.
+There's some great resources on fundamentals below. Be sure to also check out our [algorithms and data structures]({% post_url 2016-09-01-algorithms-uncategorized %}) page.
 
 Watch convention talks on [ConFreaks](http://confreaks.tv/) without paying for the cons themselves.
 
@@ -15,12 +15,13 @@ Some of these resources below, like [this great look at the AI revolution](https
 
 [Read this great set of tips](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.wai2wx00x) on learning to code that the author claims (and I agree!) can save you years of misplaced effort.
 
-But things are not always serious... languages can be [kind of ridiculous](https://www.destroyallsoftware.com/talks/wat), you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
+But things are not always serious... you can find yourself [reading all the wrong books](http://imgur.com/gallery/vqUQ5), or possibly even [abandoning it all for the arts](http://classicprogrammerpaintings.com/archive#_=_). But if you stay, [we have cats](https://http.cat/).
 
 <hr>
 
 ## Free Computer science courses
 
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/): a spectacular set of resources compiled by several experienced developers. Go through this and you'll have learned what you otherwise would need a CompSci degree for.
 * Check out this [spectacular, nearly heroic list of resources](https://github.com/prakhar1989/awesome-courses#cs-theory) for free, high-quality courses. (Might even include all of the rest of this list!)
 * [iTunes University](https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8), free and great recorded video/audio lectures
 * [Stanford University's courses](http://itunes.stanford.edu/), free and available
@@ -33,6 +34,8 @@ But things are not always serious... languages can be [kind of ridiculous](https
 
 ## Books covering fundamentals
 
+* An analysis of 40million questions and answers [yielded a list of the top computer science books](http://www.dev-books.com/).
+* Here's a [huge list of free programming books](https://github.com/vhf/free-programming-books).
 * *[The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e35f3d0046f185b46f379999350eaff3)*, by Andrew Hunt
 * *[Code Complete: a Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=155486c68c7371934f98360e0222d7bc)*, by Steve McConnell
 * *[How to Design Programs: An Introduction to Programming and Computing](https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=1ec1b0799f5fa51cf070762f440fda32)*, by Matthias Felleisen
@@ -46,18 +49,26 @@ A vast percentage of web development is done with object-oriented languages, inc
 
 * [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
 * [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
-* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/?utm_source=rubyweekly&utm_medium=email)
+* [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/)
 
 <hr>
 
 ## Functional Programming basics
 
+* ["Core functional programming concepts"](https://thesocietea.org/2016/12/core-functional-programming-concepts/)
+* ["The rise and fall of functional programming and composable software"](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c), explained through and with a focus on JavaScript
 * *[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)*
 * *[Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4b47c3066747c540cf74b295102e0f3e)*, by Chris Okasaki
 
 <hr>
 
-## More great general resources
+## Building for actual users
+
+* ["Most hated advertising techniques"](https://www.nngroup.com/articles/most-hated-advertising-techniques/) that are used on websites.
+
+<hr>
+
+## More computer science resources
 
 * [Classic papers in programming languages and logic](http://www.cs.cmu.edu/~crary/819-f09/)
 * [Awesome programming books](http://www.catonmat.net/blog/top-100-books-part-one/?platform=hootsuite)
@@ -68,3 +79,5 @@ A vast percentage of web development is done with object-oriented languages, inc
 * *[Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)*, by Harold Abelson
 * *[The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.com/The-Annotated-Turing-Historic-Computability/dp/0470229055/ref=as_li_ss_tl?ie=UTF8&dpID=51sx1xpVIOL&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=0H3V56NSRHJC0C36GQD0&linkCode=ll1&tag=eejs-20&linkId=d369bb156ec4cb9f9016d47cebc24aa3)*, by Charles Petzold
 * *[Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b05ead9350e6c40d2ad5de0220df93b3)*, by Alfred V. Aho
+* ["An animated guide to how garbage collection algorithms work"](https://medium.freecodecamp.com/an-animated-guide-to-how-garbage-collection-algorithms-work-46ccdba2b216#.ladjwfa5k)
+* Artificial intelligence and deep learning: ["Recognizing Traffic Lights With Deep Learning"](https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc), how one developer learned and implemented the deep learning API concept in 10 weeks.

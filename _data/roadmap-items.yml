@@ -15,7 +15,7 @@ fundamentals:
 back-end-language:
   text: Learn a back-end language that plays nice with the web, like Ruby, Python, Go, C#, JavaScript via Node.js, PHP, or Java. Don't let yourself get lost in the crazy comparison-mongering crowds that tell you that Ruby is dying or Java is too hard. Every single one of these languages has an excellent history, great community of contributors and users, and makes buckets of cash for the companies that use them. Every one of these are great for web development for their own reasons.
   links:
-    this: <a href="/back-end/2016/10/01/back-end-uncategorized/">Back-end languages</a>
+    this: <a href="/back-end/2016/10/01/languages/">Back-end languages</a>
 
 algorithms:
   text: Learn the language you've chosen by solving small problems, called algorithms. Then graduate to more challenging algorithims, learn and use data structures, and understand essential concepts like Object Oriented Programming. Everything you'll learn will only improve your grasp of the back-end language you've chosen.
@@ -50,7 +50,7 @@ javascript:
   text: Learn JavaScript. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
   links:
     jquery: Learn more about the DOM and the way JavaScript interacts with HTML and CSS. A great way to do that would be to learn the most popular JavaScript library, jQuery. Find that and other resources <a href="http://localhost:4000/front-end/2016/06/01/javascript-uncategorized/">here</a>.
-    framework: Choose a <a href="/front-end/2016/06/01/javascript-frameworks/">front-end JavaScript framework</a> and learn it. Every modern framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
+    framework: Choose a <a href="/front-end/2016/06/01/front-end-frameworks/">front-end JavaScript framework</a> and learn it. Every modern framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
     irn: <a href="http://lrnapp.com/">IRN app</a>, a JavaScript-based course to learn programming.
 
 next steps:
@@ -62,6 +62,11 @@ next steps:
 other-roadmaps:
   text: Other roadmaps!
   links:
+    medium-freecodecamp: FreeCodeCamp, <a href="https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.cr31xvcv6">My Journey to Becoming a Web Developer From Scratch Without a CS Degree, 2 Years Later and What I Learned</a>
+    more-freecodecamp: FreeCodeCamp, <a href="https://medium.freecodecamp.org/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f">How to Go From Hobbyist to Professional Developer</a>
+    another-freecodecamp: <a href="https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab">How I got a second degree and earned 5 developer certifications in just one year, while working and raising two kids</a>
+    yet-one-more-freecodecamp: <a href='https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf'>A roadmap to becoming a web developer in 2017</a>
+    becoming-a-dev-in-2017: <a href="https://github.com/kamranahmedse/developer-roadmap">Becoming a developer in 2017</a>, an open-source map for full-stack, front-end, and/or back-end development essential competencies.
     google: <a href="http://everydayutilitarian.com/essays/learn-code/">Go from Zero to Programmer Hero in One Guide!</a> But really there's a lot of <a href="https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use">cool discussions</a> about how to get into web development when you're a raw beginner, that are worth checking out.
     dreaming-in-code: <a href="http://www.dreamincode.net/forums/forum/78-programming-tutorials/">Dreaming in Code</a>, Lots of tutorials for different languages.
     mozilla: <a href="https://developer.mozilla.org/en-US/docs/Web">Web technology for developers</a>.

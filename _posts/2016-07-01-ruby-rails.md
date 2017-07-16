@@ -42,7 +42,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 <hr>
 
 ## Rails 5
-* [Rails 5 intro](http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/?utm_source=rubyweekly&utm_medium=email)
+* [Rails 5 intro](http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/)
 * [Rails 5 the tour](https://www.youtube.com/watch?v=OaDhY_y8WTo), from DHH himself.
 * [Rails 5 Turbolinks](https://www.youtube.com/watch?v=SWEts0rlezA)
 * [Intro to nio4r](https://tonyarcieri.com/a-gentle-introduction-to-nio4r)
@@ -50,7 +50,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 <hr>
 
 ## ActiveRecord
-* [Intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners?utm_source=rubyweekly&utm_medium=email)
+* [Intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners)
 * [Another good intro to ActiveRecord](https://prograils.com/posts/active-record-brief-introduction-for-beginners)
 * [Associations](http://guides.rubyonrails.org/association_basics.html)
 * [Validations and callbacks](http://guides.rubyonrails.org/v3.2.13/active_record_validations_callbacks.html)
@@ -64,8 +64,8 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Stubbing with Rails](https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails)
 * [Capybara](https://github.com/jnicklas/capybara): testing via mocks and stubs.
 * [Testing Rails](http://everydayrails.com/2012/03/12/testing-series-intro.html): a cool series covering a lot of topics.
-* [RSpec for Rails](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec?utm_campaign=community&utm_content=78&utm_medium=email&utm_source=community-subscription)
-* [Rspec tutorial](http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I#.Vqvnq1MrKV4): testing Rails 4 apps
+* [RSpec for Rails](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+* [Rspec tutorial](http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I): testing Rails 4 apps
 
 <hr>
 
@@ -87,6 +87,15 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Stopping Rails from including all your JavaScript files](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/)
 * [React on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 * Adding a [Jekyll site to your Rails application](https://www.sitepoint.com/jekyll-rails/)
+
+<hr>
+
+## Managing dates and timezones
+
+* ["Working with timezones in Rails"](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
+* Thoughtbot, ["It's about Time Zones"](https://robots.thoughtbot.com/its-about-time-zones)
+* [APIDock's timezone methods support](http://apidock.com/rails/TimeZone)
+* ["Client-side timezone detection"](http://thisbythem.com/blog/clientside-timezone-detection/)
 
 <hr>
 
@@ -134,6 +143,9 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Full-text search in Rails](https://www.viget.com/articles/implementing-full-text-search-in-rails-with-postgres)
 * [Send email via Amazon Web Services](https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/)
 * [Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
+* [Getting and responding to SMS in Rails with Twilio](https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.html)
+
+## Emails and mailers
 * [LaunchSchool's ActionMailer tutorial](https://launchschool.com/blog/handling-emails-in-rails): getting started with Rails mailers.
 * [Rails mailers](http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/)
-* [Getting and responding to SMS in Rails with Twilio](https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.html)
+* [SparkPost](https://www.sparkpost.com/), a spectacular API for sending emails.
