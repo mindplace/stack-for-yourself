@@ -27,7 +27,7 @@ Want to freelance? [Be prepared to handle clients](http://blog.hightail.com/how-
 * [The Muse jobs board](https://www.themuse.com/jobs)
 * [DevPost](http://devpost.com/): a jobs board collecting job posts seeking developers.
 * [Apprentice.io](http://www.apprentice.io/): ThoughtBot's program for new web developers, it tends to be popular.
-* [Neuvoo](neuvoo.com), a job search engine that indexes job offers directly from companies' websites.
+* [Neuvoo](http://neuvoo.com), a job search engine that indexes job offers directly from companies' websites.
 
 #### Places that search for job matches on your behalf
 * [Hired](https://hired.com/): create your profile, and they match you with companies who bid on you.
