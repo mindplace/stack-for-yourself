@@ -2,10 +2,10 @@
 permalink:        pretty
 
 # Setup
-url:              http://stackforyourself.com
+url:              http://estherleytush.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          ''
+baseurl:          '/stack-for-yourself'
 
 all_tags: [all, general, shell, algorithms, back-end, databases, ruby, rails, ruby-frameworks, front-end, javascript, mobile, working]
 
