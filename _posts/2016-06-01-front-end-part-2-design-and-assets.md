@@ -13,7 +13,7 @@ Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get f
 
 <hr>
 
-## Inspiration
+### Inspiration
 * [Amazing 1-page sites](https://onepagelove.com/gallery/landing-page)
 * [stricte 1 page site](http://stricte.io/#hello)
 * [FltDsgn](http://www.fltdsgn.com/): gorgeous site showcasing concepts of 'flat design'.
@@ -22,30 +22,37 @@ Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get f
 
 <hr>
 
-## Fonts
+### Fonts
 * [Google Fonts](https://www.google.com/fonts)
 * ["Typography can make or break your design."](https://medium.freecodecamp.com/typography-can-make-your-design-or-break-it-7be710aadcfe)
 
-## Colors
+### Colors
+* [Coolers](https://coolors.co), my new favorite palette tool.
 * Adobe's [Kuler wheel](https://color.adobe.com/create/color-wheel/): provides HEX and RGB's for any color.
 * [Paletton](http://paletton.com/), an excellent tool for putting together colors and getting their HEX and RGB codes.
 * [“A Simple Web Developer’s Guide to Color”](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 
-## Images
+### Images
 * [Unsplash](https://unsplash.com/): completely free high quality photos
-* [Make your own visuals](https://www.canva.com/)
-* [Create icons for free](https://iconsflow.com/)
+* [Pixabay](https://pixabay.com/), another  great place to get hgh quality images
+* [Canva](https://www.canva.com/): create your own layouts, images, and more, with mountains of premade free templates for you to use.
+* Free [Icon creator](https://iconsflow.com/)
 
-<hr>
-
-## Making mockups
+### Mockup tools
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/), not free, but the standard and best-known tool
 * [Mockingbird mockups](https://gomockingbird.com/home), totally free
 * [Wireframe.cc](https://wireframe.cc/), a beautiful and simple, free, wireframing tool.
+* Personally, of all of these, I still prefer [Canva](https://www.canva.com/).
+
+### Designing User Experiences and User Interaction
+
+* The most important things for positive mobile experience: ["Designing for Mobile Performance"](https://24ways.org/2017/designing-for-mobile-performance/)
+* ["The Quintessential Guide For Building An Unforgettable First-time User Experience"](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2): a superb article. Not only a walkthrough of a highly successful app and how they got to be that way, but also a great lesson in the incredible importance of user interface design.
+* ["3 Best Form Design Practices for your design process"](https://uxplanet.org/3-best-form-design-practices-for-your-design-process-383510b31613)
 
 <hr>
 
-## Web design for developers
+### Web design for developers
 * ["Before you can master design, you must first master the fundamendals."](https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
 * ["No budget? No excuse: a practical guide to user experience design on the cheap"](https://medium.freecodecamp.com/no-budget-no-excuse-heres-a-practical-guide-to-ux-on-the-cheap-9605c77ef55b#.d3k65zo2k)
 * Slides: [*Designing for Performance*](https://speakerdeck.com/lara/designing-for-performance)

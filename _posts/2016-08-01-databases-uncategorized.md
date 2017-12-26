@@ -9,7 +9,7 @@ categories: [back-end]
 ## Start here
 [Database tables designing tool](https://github.com/ondras/wwwsqldesigner): before you can start coding up a new app, you must consider its basic data relationships.
 
-[Dev Bootcamp’s SQLtutor](https://github.com/audibleblink/sql-trainer), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
+[SQLtutor](https://github.com/audibleblink/sql-trainer), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 
 <hr>
 
@@ -24,7 +24,7 @@ categories: [back-end]
 * [SQLZoo tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
 * [Learn SQL the hard way](http://sql.learncodethehardway.org/book/), an awesome free online book
 * [SQLite tutorial](http://zetcode.com/db/sqlite/) from Zetcode
-* [Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
+* [Dev Bootcamp’s SQLtutor](https://github.com/audibleblink/sql-trainer), an awesome learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 * ["SQL Tutorial for beginners"](https://www.guru99.com/sql.html): a comprehensive tutorial to MySQL databases (and learning SQL query language generally).
 
 #### Understanding SQL join concepts

@@ -8,13 +8,12 @@ categories: [everything-else]
 
 ## Start here
 
-You can potentially [pick up on where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build. I would venture to say that your best bet on career development is to do your best to code yourself out of your current role, by writing software so great that it doesn't need anyone to continually add to it.
-
-Level up your ability to write better software: [best practice software resources]({% post_url 2016-11-01-best-practice-software %}) can help you in this quest.
+Always work to level up your ability to write better software: [best practice software resources]({% post_url 2016-11-01-best-practice-software %}) can help you in this quest.
 
 <hr>
 
 ## Code and work
+* ["Do this on your first day at a remote job"](https://www.linkedin.com/pulse/do-your-first-day-remote-job-nicole-wosje/)
 * [Code calligraphy vs code scratch](https://medium.freecodecamp.com/what-is-shitty-code-handwriting-ae7c00708b#.2xp08elhl): very insightful article on both bad and good choices that turn out code.
 * [Forget technical debt, built technical wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)): write code and build codebases that are sustainable, or how to not have legacy code from your first day.
 * [3 mistakes software developers must avoid](https://lab.hookops.com/avoid-startup-failure.html): or, how to fail as a programmer.

@@ -113,11 +113,12 @@ Surprised to see it make this list? Don't be--IE also has dev tools!
 <hr>
 
 ### Agile: managing development
-* [ThoughtBot’s Playbook](http://playbook.thoughtbot.com/), an explanation of how ThoughtBot builds software via Agile. In-depth and extremely thought-provoking.
+What is Agile? It's a way of working in teams, permitting you to be more, well, agile. The [Agile Manifesto](http://agilemanifesto.org/) is the basis for this concept. Agile is wildly popular among development teams, and used extremely widely, so it's a good idea to understand what working within an Agile environment is like.
+
 * [Agile warrior](https://agilewarrior.wordpress.com/)
-* [Agile manifesto](http://agilemanifesto.org/)
 * [Practices of an Agile developer](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)
-* ThoughtBot's [guides to working in teams with various technologies](https://github.com/thoughtbot/guides), a hugely valuable read.
+* ThoughtBot’s [Playbook](http://playbook.thoughtbot.com/), an explanation of how ThoughtBot builds software via Agile. In-depth and extremely thought-provoking.
+* ThoughtBot's [guides to working in teams with various technologies](https://github.com/thoughtbot/guides), hugely valuable reading.
 
 <hr>
 

@@ -21,7 +21,8 @@ Get some context on the JavaScript eco system:
 
 <hr>
 
-## Tutorials and guides to get you started with JavaScript
+### Tutorials and guides to get you started with JavaScript
+
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
 * *[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)*, one of the most in-depth and beloved book series on JavaScript, available [in print](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=you+don%27t+know+javascript) as well as [for free on Github](https://github.com/getify/You-Dont-Know-JS).
@@ -33,7 +34,7 @@ Get some context on the JavaScript eco system:
 
 <hr>
 
-## Articles, cheatsheets, documentation, and important concepts
+### Articles, cheatsheets, documentation, and important concepts
 * [Awesome collection of courses](https://frontendmasters.com/courses/)
 * [Intro to writing object-oriented JavaScript](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 * [OverAPI JavaScript Cheatsheet](http://overapi.com/javascript)
@@ -68,6 +69,7 @@ Get some context on the JavaScript eco system:
 * Understanding [factory functions](https://www.sitepoint.com/factory-functions-javascript/)
 
 #### Understanding the functional-programming aspects of JavaScript
+
 * Functional programming in JavaScript, [part 1](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.iqvhbyhqq) and [part 2](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e#.uf9bhccqg)
 * [Functions as first class citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/): understanding higher order functions, and how you can pass functions around
 * ["The rise and fall of functional programming and composable software"](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c), explained through and with a focus on JavaScript
@@ -131,3 +133,4 @@ Lots of people give away small bits of code for free. This is a super amazing pl
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
 * [Draft.js](https://facebook.github.io/draft-js/docs/overview.html#content): A rich text editor for the browser, developed by Facebook.
+* Want more? [Here's a huge compilation of JavaScript libraries and tools](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030), free to use and enjoy.

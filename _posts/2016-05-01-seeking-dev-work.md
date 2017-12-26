@@ -73,6 +73,11 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 <hr>
 
 ## Preparing for technical interviews
+
+* [An opinionated guide to writing a tech resume](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ovj364sio), courtesy of a developer who has hired other developers.
+
+**Algorithms and Coding Challenges**
+
 * *[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1471617539&sr=8-1&keywords=cracking+the+coding+interview)*, probably the bible for technical interviews.
 * [Coderrust](http://www.coderust.com/)
 * [interview.io](http://interviewing.io/)
@@ -82,17 +87,27 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * [Algorithms and interview prep](http://meetupresources.herokuapp.com/index.html) questions and resources
 * More [practice questions and resources](http://codingforinterviews.com/practice)
 * [Codility](https://codility.com/): get hired via answering interview questions online
+
+**Preparing for Interviews**
+
+* [The Art of Ruby Technical Interviews](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Practicing for the coding interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
+
+**Ruby Interviews**
+
 * [Ruby on Rails interviews](http://blog.mypath.io/ruby-on-rails-interview-questions-that-will-land-you-the-job/?utm_source=so&utm_medium=reddit&utm_campaign=rubyonrailsinterview)
 * [More Ruby interviews](http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/)
-* [The Art of Ruby Technical Interviews](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
-* [An opinionated guide to writing a tech resume](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ovj364sio), courtesy of a developer who has hired other developers.
+
+**Front-end Interviews**
+
 * ["Preparing for a front-end web development interview in 2017"](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 * ["A developer's guide to interviewing"](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
+* ["The Definitive JavaScript Handbook for your next developer interview"](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
 <hr>
 
 ## Articles on job hunting
+* ["Want to boost your job prospects? Become an authority on something. Here’s how."](https://medium.freecodecamp.org/want-to-boost-your-job-prospects-become-an-authority-on-something-heres-how-473a62183fa9)
 * [Seeking software dev work](http://lesswrong.com/lw/hd1/maximizing_your_donations_via_a_job/)
 * ["Don’t call yourself a programmer"](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * ["Just Starting Out? Ditch the 'full stack developer' label. "](https://m.signalvnoise.com/just-starting-out-ditch-the-full-stack-developer-label-11df9d3c7c6)
