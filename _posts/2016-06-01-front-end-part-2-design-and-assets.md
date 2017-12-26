@@ -49,7 +49,6 @@ Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get f
 * ["Before you can master design, you must first master the fundamendals."](https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
 * ["No budget? No excuse: a practical guide to user experience design on the cheap"](https://medium.freecodecamp.com/no-budget-no-excuse-heres-a-practical-guide-to-ux-on-the-cheap-9605c77ef55b#.d3k65zo2k)
 * Slides: [*Designing for Performance*](https://speakerdeck.com/lara/designing-for-performance)
-* ["Why Devs Need to Learn Design"](http://www.cognition.happycog.com/article/why-developers-need-to-learn-design)
 * ["Planning a Design Project"](http://webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277)
 * ["Planning and Scheming: How We Start a Web Design Project"](http://bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project)
 * ["6 Phases of the Web Site Design and Development Process"](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.VyYyXaMrKV7)

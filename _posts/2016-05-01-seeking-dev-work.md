@@ -23,7 +23,7 @@ Remember that half, if not more, of the skills you need are soft skills. Here's 
 ## Finding work
 Want to freelance? [Be prepared to handle clients](http://blog.hightail.com/how-to-handle-clients-by-a-client/).
 
-* [Triplebyte](https://triplebyte.com/): go through a blind technical interviewing process, then Triplebyte matches you with companies and vouches for you.
+* [Triplebyte](https://triplebyte.com/a/SVcqTxi/d ): go through a blind technical interviewing process, then Triplebyte matches you with companies and vouches for you. *Disclosure: that's an affiliation link. If you follow it and get hired, I might make some money. The link isn't here because of that, I really believe this is an awesome company doing something difficult intelligently.*
 * [The Muse jobs board](https://www.themuse.com/jobs)
 * [DevPost](http://devpost.com/): a jobs board collecting job posts seeking developers.
 * [Apprentice.io](http://www.apprentice.io/): ThoughtBot's program for new web developers, it tends to be popular.
@@ -61,8 +61,8 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 
 [This](https://clutchtalent.github.io/beginning-job-search/) is an amazing thoughtful guide to getting your first job after bootcamp or a self-taught program.
 
-* [Triplebyte's bootcamp vs college review](http://blog.triplebyte.com/bootcamps-vs-college)
-* [Graduated Code School, Now What?](https://www.kcoleman.me/blog/2015/12/06/i-graduated-from-a-code-school-now-what/)
+* Triplebyte's [bootcamp vs college review](http://blog.triplebyte.com/bootcamps-vs-college)
+* ["I Graduated From a Code School, Now What?"](https://www.kcoleman.me/2015/12/06/i-graduated-from-a-code-school-now-what.html)
 * ["How I landed my first programming job and what I learned after bootcamp"](http://www.tablexi.com/developers/first-programming-job/)
 * ["I just got a developer job at Snapchat. Here's what I learned and how it can help you with your job search."](https://medium.freecodecamp.com/a-dynamic-framework-for-finding-your-first-programming-job-b4eb0605b4f3#.atwkp8g9g)
 * ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://www.linkedin.com/pulse/open-letter-employers-behalf-bootcamp-grads-also-tom-goldenberg?trk=mp-reader-card)

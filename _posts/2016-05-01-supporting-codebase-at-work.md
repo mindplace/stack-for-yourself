@@ -17,7 +17,7 @@ Level up your ability to write better software: [best practice software resource
 ## Code and work
 * [Code calligraphy vs code scratch](https://medium.freecodecamp.com/what-is-shitty-code-handwriting-ae7c00708b#.2xp08elhl): very insightful article on both bad and good choices that turn out code.
 * [Forget technical debt, built technical wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)): write code and build codebases that are sustainable, or how to not have legacy code from your first day.
-* [3 mistakes software developers must avoid](http://blog.excelwithcode.com/software-product-failure.html): or, how to fail as a programmer.
+* [3 mistakes software developers must avoid](https://lab.hookops.com/avoid-startup-failure.html): or, how to fail as a programmer.
 * Just remember (and help your manager remember) that ["Coders aren't assembly line workers"](https://www.linkedin.com/pulse/coders-arent-assembly-line-workers-david-max?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNMuFUXzDZaRvL%2FHFgPwrKw%3D%3D)
 
 <hr>

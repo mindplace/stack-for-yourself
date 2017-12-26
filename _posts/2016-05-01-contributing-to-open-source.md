@@ -8,7 +8,7 @@ categories: [everything-else]
 
 ## Start here
 
-**Hey! Are you looking for a project to contribute to? How about contributing to [Stack For Yourself?](https://github.com/mindplace/stack-for-yourself#contributing)**
+**Hey! Are you looking for a project to contribute to? How about contributing to [Stack For Yourself?](https://github.com/mindplace/stack-for-yourself)**
 
 Open source contributions are basically when people share code they've written with others, who can use that code for free (although [licensing has an effect on what you can do with open source code](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)). This project is open source, for example. It's what makes it possible for you to take a copy of this project, make some changes, and request that those changes be merged into the main project branch.
 
@@ -36,4 +36,4 @@ You can [figure out where software is needed](https://medium.com/making-lost-my-
 <hr>
 
 ### Start your own projects for others to contribute to
-You can use tools others have built, such as [open source APIs]({{ site.baseurl }}/2016/05/01/open-apis), to create new awesome things. Find more ideas and [build your own portfolio of work]({% post_url 2016-05-01-portfolio %}).
+You can use tools others have built, such as [open source APIs]({% post_url 2016-05-01-open-apis %}), to create new awesome things. Find more ideas and [build your own portfolio of work]({% post_url 2016-05-01-portfolio %}).

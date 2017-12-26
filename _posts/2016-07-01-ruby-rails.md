@@ -24,7 +24,6 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 ## Tutorials and books: free and essential
 * *[Learn Ruby on Rails](https://www.railstutorial.org/book)*: the Michael Hartl tutorial that everyone mentions when talking about learning Rails for the first time. Also, you can [check out his take on Rails for beginner programmers](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner).
 * [Ruby Science](https://thoughtbot.com/ruby-science-sample.pdf): ThoughtBot's Rails tutorial.
-* [Various Rails tutorials](http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide?platform=hootsuite)
 * [Rails guides](http://guides.rubyonrails.org/) from the official documentation.
 * [Rails forums](https://railsforum.com/)
 * [Rails Casts](http://railscasts.com/)
@@ -84,7 +83,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Making Rails asset pipeline faster](http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster)
 * [Asset pipeline best practices](https://launchschool.com/blog/rails-asset-pipeline-best-practices)
 * [How Ajax works in Rails](https://launchschool.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails)
-* [Stopping Rails from including all your JavaScript files](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/)
+* [Stopping Rails from including all your JavaScript files](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4)
 * [React on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 * Adding a [Jekyll site to your Rails application](https://www.sitepoint.com/jekyll-rails/)
 
@@ -110,7 +109,7 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 ## Deployment, Heroku, and managing deployed apps
 * [Managing rack apps in production with puma-dev](https://github.com/puma/puma-dev#puma-dev-a-development-server-for-os-x)
-* [Heroku’s Intro to Ruby]([https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction): support for deploying to a Heroku site.
+* [Heroku’s Intro to Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction): support for deploying to a Heroku site.
 
 <hr>
 
@@ -142,7 +141,6 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 * [Stripe with Rails](https://launchschool.com/blog/stripe-checkout): integrating client payments into your app.
 * [Full-text search in Rails](https://www.viget.com/articles/implementing-full-text-search-in-rails-with-postgres)
 * [Send email via Amazon Web Services](https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/)
-* [Controller pitfalls](http://jetruby.com/expertise/50-common-rails-mistakes-beginners-developers-make-part-2-controllers/)
 * [Getting and responding to SMS in Rails with Twilio](https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.html)
 
 ## Emails and mailers

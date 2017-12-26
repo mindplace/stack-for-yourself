@@ -19,7 +19,7 @@ As a **front-end** developer, for example, you would make sure your Github repos
 A **back-end** developer would probably spend less time building front-end projects like those that fit above's list. [Here's a great Quora question/answers on this](https://www.quora.com/What-does-a-good-junior-backend-developer-portfolio-website-look-like). For them, a good list could include:
 
 * A couple projects built on web frameworks, like [Rails (Ruby's main web framework)]({% post_url 2016-07-01-ruby-rails %}), or [Node (JavaScript for the back-end)]({% post_url 2016-06-01-front-end-frameworks %}), or [.NET (C#'s web framework)](https://www.microsoft.com/net)...the list goes on.
-* At least one of those should be built to deliver info via something like [JSON](http://www.w3schools.com/json/), rather than views: in short, built to be an [API]({% post_url 2016-05-01-open-apis %})
+* At least one of those should be built to deliver info via something like [JSON](https://www.w3schools.com/js/js_json_intro.asp), rather than views: in short, built to be an [API]({% post_url 2016-05-01-open-apis %})
 * A repository containing [algorithm problems with your solutions]({% post_url 2016-09-01-algorithms-uncategorized %}), with plenty of comments to showcase your thinking process
 
 So put together at least 10 projects you can talk about to other developers and during interviews, and iterate on them as you learn.

@@ -42,7 +42,7 @@ These are programs inside of which you'll be writing into and saving code files.
 [Sublime](https://www.sublimetext.com/) is probably the most popular text editor.
 
 * Sublime's [official documentation and resources](http://docs.sublimetext.info/en/latest/)
-* Sublime [shortcuts](https://gist.github.com/eteanga/1736542)
+* Sublime [shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
 * [PackageControl](https://packagecontrol.io/) for Sublime, add-ons that you can download to make Sublime even more useful.
 
 <br>
@@ -129,6 +129,6 @@ Surprised to see it make this list? Don't be--IE also has dev tools!
 <hr>
 
 ### Managing your time
-* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that (like [this one](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=en)), and I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12).
+* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that. I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12).
 * [Rescue Time](https://www.rescuetime.com/): get metrics on how you spend your time
 * Software time estimations are laughably awful. [Here's a translation table for what estimations actually mean for a project.](https://coding.abel.nu/2012/06/programmer-time-translation-table/)

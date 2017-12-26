@@ -7,9 +7,9 @@ categories: [back-end]
 ---
 
 ## Start here
-[Database tables designing tool](https://schemadesigner.devbootcamp.com/): before you can start coding up a new app, you must consider its basic data relationships.
+[Database tables designing tool](https://github.com/ondras/wwwsqldesigner): before you can start coding up a new app, you must consider its basic data relationships.
 
-[Dev Bootcamp’s SQLtutor](https://sqltutor.devbootcamp.com/), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
+[Dev Bootcamp’s SQLtutor](https://github.com/audibleblink/sql-trainer), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 
 <hr>
 

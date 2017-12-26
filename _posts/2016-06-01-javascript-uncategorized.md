@@ -12,9 +12,12 @@ JavaScript has been around a pretty good long time, and has been getting much be
 
 ES6 has just come out, bringing with it a lot of changes to syntax and execution, most of them very timely. Check out this [ES6 cheatsheet](https://es6cheatsheet.com/) which acts as a good intro to changes from ES5.
 
-[Here's a good beginner's guide](https://medium.freecodecamp.com/a-beginners-javascript-study-plan-27f1d698ea5e#.y13jz4xrt) to putting together a JavaScript study plan.
+Get some context on the JavaScript eco system:
 
-There's a lot of stuff below. To help you contextualize these tools, [check out this survey of which front-end tools developers are using in 2016](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results).
+* ["A Beginner's JavaScript Study Plan"](https://medium.freecodecamp.com/a-beginners-javascript-study-plan-27f1d698ea5e#.y13jz4xrt) to putting together a JavaScript study plan.
+* ["Modern JavaScript for Ancient Web Developers"](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
+* Grab's entire team of engineers use [this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41).
+* [The State of JavaScript, 2017](https://stateofjs.com/)
 
 <hr>
 
@@ -23,35 +26,36 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 * *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
 * *[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)*, one of the most in-depth and beloved book series on JavaScript, available [in print](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=you+don%27t+know+javascript) as well as [for free on Github](https://github.com/getify/You-Dont-Know-JS).
 * FreeCodeCamp's free online [JavaScript video course](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-JavaScript) course
+* GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-js) course
 * Mozilla's [basic introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 * Build 30 vanilla JavaScript projects with [this free course by Wes Bos](https://javascript30.com/)
-* Here's how to approach the wide and varied JavaScript ecosystem: ["Modern JavaScript for Ancient Web Developers"](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
-* Here's how the JavaScript ecosystem actually gets used in the wild. [Grab's entire team of engineers use this front end development guide.](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
-
 
 <hr>
 
 ## Articles, cheatsheets, documentation, and important concepts
-* [Awesome collection of courses](https://front-endmasters.com/courses/)
+* [Awesome collection of courses](https://frontendmasters.com/courses/)
 * [Intro to writing object-oriented JavaScript](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
 * [OverAPI JavaScript Cheatsheet](http://overapi.com/javascript)
-* [JSFiddle](https://JavaScriptfiddle.net/), an awesome site for trying out JavaScript code in the browser
+* [JSFiddle](https://jsfiddle.net/), an awesome site for trying out JavaScript code in the browser
 * [MDN JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript), probably the only good documentation for JavaScript currently out there.
 * [Semicolons in JavaScript](https://www.codecademy.com/blog/78)
 * [JavaScript in Chrome](https://developer.chrome.com/devtools/docs/console)
-* [JavaScript Design Patterns](https://addyosmani.com/resources/essentialJavaScriptdesignpatterns/book/)
+* [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Prototype](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 * [JSON Web Token](https://jwt.io/introduction/)
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
 * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
-* ["12 extremely useful hacks for JavaScript"](https://medium.com/startup-grind/12-extremely-useful-hacks-for-javascript-278567de2706)
 * [Understanding modules in JavaScript](https://spring.io/understanding/javascript-modules)
 
 #### JavaScript objects: making and using them
 * Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e)
+
+#### Events, callbacks, and Promises
+* [Understanding JavaScript events](https://www.w3schools.com/js/js_events.asp)
+* [JavaScript Events and the call stack](http://bit.ly/1Btu0Iy)
+* [Callbacks in JavaScript](http://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 #### Understanding JavaScript throttling, and when to use it
 * ["Throttling function calls"](https://remysharp.com/2010/07/21/throttling-function-calls)
@@ -72,11 +76,6 @@ There's a lot of stuff below. To help you contextualize these tools, [check out 
 
 #### Regular Expressions with JavaScript
 * [Scriptular](http://scriptular.com/), a regular expression checker.
-
-#### Events, callbacks, and Promises
-* [Understanding JavaScript events](http://www.w3schools.com/JavaScript/JavaScript_events.asp)
-* [JavaScript Events and the call stack](http://bit.ly/1Btu0Iy)
-* [Callbacks in JavaScript](http://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 <hr>
 
@@ -111,7 +110,7 @@ jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/techno
 
 
 ### Other libraries to know
-* [moment.js](http://momentJavaScript.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
+* [moment.js](http://momentjs.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
 * [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
 * [Parallax.js](http://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
 * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
@@ -131,4 +130,4 @@ jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/techno
 Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
-* [Draft.js](https://facebook.github.io/draft-JavaScript/docs/overview.html#content): A rich text editor for the browser, developed by Facebook.
+* [Draft.js](https://facebook.github.io/draft-js/docs/overview.html#content): A rich text editor for the browser, developed by Facebook.

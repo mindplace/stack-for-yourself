@@ -36,10 +36,10 @@ Ruby on the web.
 <hr>
 
 ## Ruby blocks
-* [Variables, constants, literals](http://www.tutorialspoint.com/ruby/ruby_variables.ht)
+* [Variables, constants, literals](https://www.tutorialspoint.com/ruby/ruby_variables.htm)
 * [Blocks, Procs, lambdas](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)  
 * [Procs and lambdas and how to differentiate them](http://www.skorks.com/2010/05/ruby-procs-and-lambdas-and-the-difference-between-them/)
-* [More on understanding blocks, Procs, and lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
+* [More on understanding blocks, Procs, and lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas)
 
 <hr>
 
@@ -69,8 +69,7 @@ Ruby on the web.
 
 <hr>
 
-## Testing
-* [RSpec CodeSchool course, part 1](http://rspec.codeschool.com/levels/1)  
+## Testing 
 * [RSpec documentation](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers), exhaustive and well-written  
 * [Intro to test writing](http://pragmaticstudio.com/blog/2005/3/18/ruby-learning-test-1-are-you-there-world) with RSpec
 * [Writing tests for remote URL calls](https://github.com/Anafore/remote_tips)
@@ -108,9 +107,3 @@ Ruby on the web.
 * [Mutability and freezing](http://www.blackbytes.info/2016/01/ruby-mutability/)
 * [Ruby tricks you should be using](http://www.rubyinside.com/21-ruby-tricks-902.html?platform=hootsuite)
 * ['Inject is a Fundamental Building Block'](http://renderedtext.com/blog/2016/02/18/inject-is-a-fundamental-building-block/)
-
-<hr>
-
-## And some listicles
-* [50 most common mistakes Ruby newbies make](http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/)
-* [Mistakes junior Rubyists make](http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/)

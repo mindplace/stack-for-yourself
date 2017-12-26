@@ -48,7 +48,7 @@ But things are not always serious... you can find yourself [reading all the wron
 A vast percentage of web development is done with object-oriented languages, including JavaScript. Get very comfortable with how OOP (object-oriented programming) handles concepts and processes.
 
 * [Law of Demeter](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
-* [Understanding Object Oriented Programming](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/  )
+* [Understanding Object Oriented Programming](https://launchschool.com/books/oo_ruby/read/the_object_model)
 * [5 Object Oriented basics learned from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/)
 
 <hr>

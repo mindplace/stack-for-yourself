@@ -45,9 +45,9 @@ Learning JavaScript in today's world can be [pretty messy](https://hackernoon.co
 
 ### Angular.js
 * [Documentation](https://docs.angularjs.org/api)
-* Front-end Masters' [Angular Basics course](https://front-endmasters.com/courses/angularjs-in-depth/)
-* Front-end Masters' [Angular Development course](https://front-endmasters.com/courses/angular-app-dev/)
-* Front-end Masters' [Component based architecture](https://front-endmasters.com/courses/angular-components-es6/) with Angular
+* Front-end Masters' [Angular Basics course](https://frontendmasters.com/courses/angularjs-in-depth/)
+* Front-end Masters' [Angular Development course](https://frontendmasters.com/courses/angular-app-dev/)
+* Front-end Masters' [Component based architecture](https://frontendmasters.com/courses/angular-components-es6/) with Angular
 * Official Github [repository for Angular](https://github.com/angular/angular.js)
 * `[angular-seed](https://github.com/angular/angular-seed)`: starts you off with a prebuilt skeleton app as a base.
 * Airpair's [Angular.js tutorial](https://www.airpair.com/angularjs/building-angularjs-app-tutorial)

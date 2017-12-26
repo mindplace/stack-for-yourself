@@ -32,7 +32,7 @@ Try out [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to ru
 * [HTML5 geolocation](https://www.sitepoint.com/html5-geolocation/): getting the user's location from their browser.
 * [HTML5Rocks HTML5, CSS tutorials](http://www.html5rocks.com/en/tutorials/?page=1)
 * [Understanding the HTML head](https://www.w3.org/wiki/The_HTML_head_element#Head.3F_What_head_are_we_talking_about.3F)
-* [HTML tags list](https://developers.whatwg.org/section-index.html#index)
+* [HTML tags list](https://www.w3schools.com/TAgs/)
 * Mozilla's [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Skillcrush HTML tag cheatsheet](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 * [OverAPI HTML cheatsheet](http://overapi.com/html)

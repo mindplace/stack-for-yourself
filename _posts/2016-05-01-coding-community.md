@@ -19,7 +19,7 @@ Listening to technical and tech-light podcasts are a great way to ease yourself 
 <hr>
 
 ### Local communities
-Find your local techies via [Meetup](meetup.com) groups and [Eventbrite events](eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.
+Find your local techies via [Meetup](https://meetup.com) groups and [Eventbrite events](https://eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.
 
 <hr>
 
@@ -33,7 +33,7 @@ Hackathons are great for collaborating with other developers in an intense way t
 <hr>
 
 ### Remote communities
-Check out [Stack Overflow](stackoverflow.com), [Reddit](reddit.com) technology subreddits like [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), and chat rooms like [Gitter](https://gitter.im/).
+Check out [Stack Overflow](https://stackoverflow.com), [Reddit](https://reddit.com) technology subreddits like [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), and chat rooms like [Gitter](https://gitter.im/).
 
 * [NYCDevs Slack channel](https://nycdevs.slack.com/messages/general/)
 * [Find other Rubyists](https://www.reddit.com/r/ruby/comments/4jktya/where_do_rubyists_hang_out_online_these_days/)
@@ -42,4 +42,4 @@ Check out [Stack Overflow](stackoverflow.com), [Reddit](reddit.com) technology s
 
 ### Conferences
 * [Ruby conferences](http://rubyconferences.org/)
-* ["Get Your Conference Proposal Accepted"](http://schneems.com/blogs/2016-04-07-conference-proposal/)
+* ["Get Your Conference Proposal Accepted"](https://schneems.com/blogs/2016-04-07-conference-proposal)

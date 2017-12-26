@@ -30,4 +30,4 @@ It's JavaScript's answer to a native-feeling application for iOS without Swift o
 
 ### Building responsive pages
 * [Codeply](http://www.codeply.com/responsive-design-cheatsheet.html): Responsive Design Cheatsheet
-* [Google chrome responsive design](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/responsive?hl=en) tutorial
+* [Google chrome responsive design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) tutorial
