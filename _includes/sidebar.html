@@ -29,22 +29,17 @@
       <ul>
         <li>
           <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}"
-             href="{{ site.baseurl }}/static/all">All Resources</a>
-        </li>
-
-        <li>
-          <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}"
-             href="{{ site.baseurl }}/tag/blog">Blog</a>
-        </li>
-
-        <li>
-          <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}"
-             href="{{ site.baseurl }}/static/about">About</a>
+             href="{{ site.baseurl }}/static/all">Everything</a>
         </li>
 
         <li>
           <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}"
              href="{{ site.baseurl }}/static/roadmap">Full Stack Roadmap</a>
+        </li>
+
+        <li>
+          <a class="sidebar-nav-item {% if page.url == node.url %}active{% endif %}"
+             href="{{ site.baseurl }}/tag/blog">Blog</a>
         </li>
       </ul>
 
@@ -52,7 +47,7 @@
         <li class="search-area">
           <form action="{{ site.baseurl }}/search/" method="get" class="navbar-form navbar-right">
             <div class="form-group left-search-input">
-              <input type="text" id="search-box" class="form-control" name="query" placeholder="Query...">
+              <input type="text" id="search-box" class="form-control" name="query" placeholder="React...">
             </div>
 
             <button type="submit" class="btn btn-default right-search-input">Search</button>
@@ -62,6 +57,9 @@
     </nav>
 
     <div class="sidebar-social">
+      <a class="sidebar-nav-item small-nav-item {% if page.url == node.url %}active{% endif %}"
+      href="{{ site.baseurl }}/static/about">About This Site</a>
+
       {% if site.author.github %}
         {% include icon-github.html username=site.author.github %}
       {% endif %}

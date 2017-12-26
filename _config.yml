@@ -7,7 +7,7 @@ description: A collection of resources on web development.
 
 # Setup
 url: "https://stackforyourself.com"
-baseurl: "/"
+baseurl: ""
 
 author:
   name: 'Esther'
@@ -19,11 +19,9 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Esther, [@mindpl_ace on Twitter](https://www.twitter.com/mindpl_ace) and [@mindplace on Github](https://github.com/mindplace/). I love coding, get excited about web development, and
-    love sharing what I know with others.
+    I'm Esther! I usually use 'full stack web developer' to describe what I do on a day-to-day basis, but it's easier to say that I'm simply a curious person who likes to stick my nose where I have no business sticking it. I love coding, get excited about web development, and love sharing what I know with others.
 
-    I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
-    [hear from you](http://estherleytush.com/contact/) about your full-stack journey.
+    I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to [hear from you](http://estherleytush.com/contact/) about your web development journey.
 
 # Build settings
 markdown: kramdown

@@ -49,27 +49,21 @@ body {
   position: relative;
 }
 
-a,
-a:hover,
-a:visited,
-a:focus {
-  color: #0000ee;
-  // color: #add8e6;
+a, a:hover, a:visited, a:focus {
   text-decoration: none;
-
   strong { color: inherit; }
 }
+a { color: $brand-click-color; }
+a:hover, a:focus { color: $brand-click-hover-color; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  // margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
-h1 {
-  font-size: 2rem;
-}
+
+h1 { font-size: 2rem; }
 h2 {
   margin-top: 1.5rem;
   font-size: 1.5rem;
@@ -90,9 +84,7 @@ p {
   line-height: 1.9;
 }
 
-strong {
-  color: #303030;
-}
+strong { color: #303030; }
 
 
 /* Lists */
@@ -114,7 +106,7 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $grey-color-light;
   border-bottom: 1px solid #fff;
 }
 
@@ -126,7 +118,7 @@ abbr {
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px dotted $grey-color-light;
 }
 
 figure {
@@ -135,14 +127,7 @@ figure {
 
 /* Code */
 code,
-pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
-}
-code {
-  // padding: .25em .5em;
-  // font-size: .85rem;
-  // background-color: #f9f9f9;
-}
+pre { font-family: Menlo, Monaco, "Courier New", monospace; }
 pre {
   display: block;
   margin-top: 0;

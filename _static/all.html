@@ -6,7 +6,7 @@ permalink: /static/all/
 ---
 
 <div class="categories-content">
-    <h1 class="page-header">All resources</h1>
+    <h1 class="page-header">Everything: All the Pages</h1>
 
     {% for group in site.data.categories %}
 
@@ -17,7 +17,6 @@ permalink: /static/all/
           <h2>{{ category.name }}</h2>
           <p>{{ category.description }}</p>
         </div>
-
 
         <ul class="category-items-list">
           {% for post in site.categories[category_name] %}
