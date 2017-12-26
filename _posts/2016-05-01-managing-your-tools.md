@@ -53,9 +53,14 @@ An important text editor but one that can only be navigated with keyboard shortc
 * [vim's official documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
 * [StackOverflow answers on most-used vim shortcuts](http://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
 * ["Best of Vim tips"](http://rayninfo.co.uk/vimtips.html)
+* [OpenVim tutorial](http://www.openvim.com/tutorial.html)
+* [Vim Adventures](https://vim-adventures.com/)
 * [Graphical vim cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * Another [vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
 * One more [vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
+* Super-simple [Vim cheatsheet](https://vim.rtorr.com/)
+* ["How I Learned to Love Vim"](https://medium.freecodecamp.org/how-i-learned-to-love-vim-ce3e058d57fb)
+* ["Learning Vim: What I Wish I Knew"](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) - Hacker Noon
 
 <hr>
 

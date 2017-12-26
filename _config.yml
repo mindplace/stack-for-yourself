@@ -1,19 +1,16 @@
 # Permalinks
-permalink:        pretty
+permalink: pretty
+
+# Site settings
+title: Stack For Yourself
+description: A collection of resources on web development.
 
 # Setup
-url:              http://estherleytush.com
-
-# Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          '/stack-for-yourself'
-
-all_tags: [all, general, shell, algorithms, back-end, databases, ruby, rails, ruby-frameworks, front-end, javascript, mobile, working]
-
-# Fallback image and color if not overwritten for tag or post
-color:            '#A85641'
+url: "https://stackforyourself.com"
+baseurl: "/"
 
 author:
-  name:    'Esther'
+  name: 'Esther'
   twitter: mindpl_ace
   github:  mindplace
 
@@ -28,11 +25,6 @@ author:
     I'm [elsewhere on the internet](http://estherleytush.com/), and I would love to
     [hear from you](http://estherleytush.com/contact/) about your full-stack journey.
 
-# Site settings
-title: Stack For Yourself
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of resources on web development.
-
 # Build settings
 markdown: kramdown
 
@@ -44,3 +36,8 @@ kramdown:
 include: ['_static']
 
 sections: ['front-end', 'back-end', 'comp-sci', 'everything-else']
+
+all_tags: [all, general, shell, algorithms, back-end, databases, ruby, rails, ruby-frameworks, front-end, javascript, mobile, working]
+
+# Fallback image and color if not overwritten for tag or post
+color: '#A85641'

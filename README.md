@@ -4,7 +4,7 @@ A site to share resources for web development, especially for those new to it.
 <hr>
 
 ## Contributing
-In a word--YES!
+In a word: YES!
 
 ### Contributing to the codebase
 Pull requests are very welcome! Fork this project, pull down your local fork, make changes, push up and merge to your local fork, then open a pull request to the master repo.

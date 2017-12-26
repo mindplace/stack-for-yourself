@@ -39,7 +39,6 @@ Want to freelance? [Be prepared to handle clients](http://blog.hightail.com/how-
 #### Finding remote jobs
 Read about how digital nomads [talk about their work schedule](http://gigigriffis.com/ask-a-digital-nomad-whats-your-work-schedule/).
 
-* [FrontHat](https://fronthat.com/): a remote front-end development and design jobs board.
 * [WeWorkRemotely](https://weworkremotely.com/), a good place to find remote clients/jobs.
 * [RemoteOk](https://remoteok.io/): remote jobs for developers.
 * [JobMote](https://jobmote.com/): a job posts aggregator for remote roles.
