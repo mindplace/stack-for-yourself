@@ -50,7 +50,7 @@ After this recursion talk, a developer from Betterment took me aside and asked i
 
 ![nyc_rb_talk]({{ site.baseurl }}/assets/img/nyc_rb.png)
 
-After this (second) [N+1 Errors talk at NYC.rb meetup](http://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](http://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](http://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
+After this (second) [N+1 Errors talk at NYC.rb meetup](http://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](http://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](https://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
 
 ## Okay, I'm convinced! How do I get my talks accepted?
 

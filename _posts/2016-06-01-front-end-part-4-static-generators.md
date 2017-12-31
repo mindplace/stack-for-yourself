@@ -43,7 +43,7 @@ I built a [seed Jekyll application](https://github.com/mindplace/jekyll-seed) wi
 * [Tags and categories with Jekyll](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 * [Jekyll tags from scratch](http://charliepark.org/tags-in-jekyll/)
 * [Put interactive Ruby snippets on your blog](http://blog.klipse.tech/ruby/2016/06/20/blog-ruby.html)
-* [Putting Disqus comments onto a Jekyll site](http://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
+* [Putting Disqus comments onto a Jekyll site](https://estherleytush.com/2016/06/25/adding-comments-to-jekyll-site.html): basically the comments feature below! (And this is a Jekyll site.)
 * [Implement Jekyll search using lunr.js](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/): adding search functionality to a Jekyll site
 * [jekyll-assets](http://www.rubydoc.info/gems/jekyll-assets/0.13.0), a very useful gem for managing assets with Jekyll in a Rails-like way
 

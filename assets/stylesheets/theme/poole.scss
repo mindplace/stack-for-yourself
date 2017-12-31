@@ -127,7 +127,13 @@ figure {
 
 /* Code */
 code,
-pre { font-family: Menlo, Monaco, "Courier New", monospace; }
+pre {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  background: #eef;
+  font-size: 13px;
+  padding: 2px 5px;
+}
+
 pre {
   display: block;
   margin-top: 0;
