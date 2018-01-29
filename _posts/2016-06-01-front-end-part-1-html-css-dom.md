@@ -60,6 +60,7 @@ Try out [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to ru
 * [CSS Debugging tips](https://css-tricks.com/debugging-tips-tricks/)
 
 #### Flexbox
+* [Flexbox Froggy](http://flexboxfroggy.com/): a light-hearted game that introduces you to basic Flexbox properties.
 * [Flexbox Cheat Sheet](http://jonibologna.com/flexbox-cheatsheet/): flexbox is an awesome overtaker in the painful area of element positioning. No more `float: left`! Flexbox really is magical.
 * A [great flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), very much in depth.
 * Finally making a [sticky footer with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
