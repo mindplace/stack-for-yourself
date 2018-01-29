@@ -9,7 +9,7 @@ fundamentals:
   text: You need a foundational grasp of Computer Science concepts in order to think your way around code. You don't necessarily need this in order to build with code... but you do need it in order to understand what you're building and debugging.
   links:
     links: Check out <a href="/comp-sci/2016/10/01/general-uncategorized/">our list of fundamental computer science concepts</a>.
-    roadmap: Take a look at <a href="https://github.com/kamranahmedse/developer-roadmap/"> this flow chart</a> of Computer Science topics. It may seem like a lot, but don't worry! You won't need to know everything right away.This a useful reference if you're wondering where a topic fits in.
+    roadmap: Take a look at <a href="https://github.com/kamranahmedse/developer-roadmap/" target="_blank"> this 2018 developer roadmap</a>. This a useful reference if you're wondering where a topic fits into your journey.
     variety: Variety of <a href="http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science">free online Computer Science courses from universities</a>. These are often Computer Science courses that teach broad programming/computer concepts.
     compsci: Some great Computer Science <a href="http://videolectures.net/Top/Computer_Science/">video lectures</a>.
 
