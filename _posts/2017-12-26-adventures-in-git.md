@@ -6,7 +6,7 @@ tags: [blog]
 published: false
 ---
 
-It's been just over 2 years now that I've transitioned into code and fallen in love with building and solving problems programmatically. Two of my favorite tools have been [git and Github]({% post_url 2016-05-01-github %}), because they permit us to work collaboratively, but also with a powerful ability try new things without worrying about breaking existing versions. So without further ado, here's some of the most useful `git` actions I've learned to date.
+It's been just over 2 years now that I've been using [git and Github]({% post_url 2016-05-01-github %}). I love these tools because they permit us to think about a given project through its history and variations. It also permits developers to work collaboratively, with a powerful ability try new things without worrying about breaking existing versions. So without further ado, here's some of the most useful `git` actions I've learned to date.
 
 ### `git diff`
 
