@@ -15,7 +15,7 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $brand-click-color: #457EAC;
-$brand-click-hover-color: #2D5D7B; 
+$brand-click-hover-color: #2D5D7B;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -32,27 +32,3 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-@import
-  // Vendor
-  "vendor/bootstrap",
-  "vendor/bootstrap-theme",
-
-  // Theme
-  "theme/syntax-highlighting",
-  "theme/poole",
-  "theme/hyde",
-  "theme/codemirror",
-
-  // Components
-  "components/footer",
-  "components/header",
-
-  // Pages
-  "pages/category",
-  "pages/page",
-  "pages/post",
-  "pages/roadmap",
-  "pages/index"
-
-;

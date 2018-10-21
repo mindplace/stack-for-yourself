@@ -1,3 +1,5 @@
+@import 'variables';
+
 /*
  *  __                  __
  * /\ \                /\ \
@@ -174,7 +176,6 @@ html {
 }
 .sidebar-nav-item {
   font-family: $base-font-family;
-  font-weight: bold;
   font-size: 18px;
   display: block;
   line-height: 1.5;
@@ -189,7 +190,6 @@ html {
 }
 .sidebar-nav > ul > li:last-child {
   padding-bottom: 10px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 }
 
 .sidebar-nav > ul > .search-area {
@@ -261,11 +261,6 @@ html {
 
 @media (min-width: 64em) {
   .content { margin-left: 22rem; }
-}
-
-/* Override pool styles that are specific to this theme */
-.post-date {
-  font-weight: bold;
 }
 
 .related-posts li a {

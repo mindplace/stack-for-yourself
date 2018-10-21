@@ -1,3 +1,5 @@
+@import 'variables';
+
 /*
  *                        ___
  *                       /\_ \
@@ -58,7 +60,7 @@ a:hover, a:focus { color: $brand-click-hover-color; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
+  font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
@@ -94,9 +96,6 @@ ul, ol, dl {
   list-style: none;
 }
 
-dt {
-  font-weight: bold;
-}
 dd {
   margin-bottom: .5rem;
 }
@@ -112,7 +111,6 @@ hr {
 
 abbr {
   font-size: 85%;
-  font-weight: bold;
   color: #555;
   text-transform: uppercase;
 }

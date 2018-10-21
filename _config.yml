@@ -1,29 +1,27 @@
-# Permalinks
 permalink: pretty
 
-# Site settings
 title: Stack For Yourself
 description: A collection of resources on web development.
 
-# Setup
-url: "https://stackforyourself.com"
-baseurl: ""
+url: 'https://stackforyourself.com'
+baseurl: ''
 
 author:
-  name: 'Esther'
+  name: Esther
   twitter: mindpl_ace
-  github:  mindplace
-
-  # This photo will be used in the about section
-  photo:   https://estherleytush.com/assets/images/headshot.jpg
+  github: mindplace
+  photo: https://estherleytush.com/assets/images/headshot.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    I'm Esther! I usually use 'full stack web developer' to describe what I do on a day-to-day basis, but it's easier to say that I'm simply a curious person who likes to stick my nose where I have no business sticking it. I love coding, get excited about web development, and love sharing what I know with others.
+    I'm Esther! I usually use 'full stack web developer' to describe what I do on a day-to-day basis,
+    but it's easier to say that I'm simply a curious person who likes to stick my nose where I have
+    no business sticking it. I love coding, get excited about web development, and love sharing what
+    I know with others.
 
-    I'm [elsewhere on the internet](https://estherleytush.com/), and I would love to hear from you about your web development journey.
+    I'm [elsewhere on the internet](https://estherleytush.com/), and I would love to hear from you about
+    your web development journey.
 
-# Build settings
 markdown: kramdown
 
 kramdown:
@@ -31,11 +29,26 @@ kramdown:
   math_engine_opts:
     preview: true
 
-include: ['_static']
+include:
+  - _static
 
-sections: ['front-end', 'back-end', 'comp-sci', 'everything-else']
+sections:
+  - front-end
+  - back-end
+  - comp-sci
+  - everything-else
 
-all_tags: [all, general, shell, algorithms, back-end, databases, ruby, rails, ruby-frameworks, front-end, javascript, mobile, working]
-
-# Fallback image and color if not overwritten for tag or post
-color: '#A85641'
+all_tags:
+  - all
+  - general
+  - shell
+  - algorithms
+  - back-end
+  - databases
+  - ruby
+  - rails
+  - ruby-frameworks
+  - front-end
+  - javascript
+  - mobile
+  - working
