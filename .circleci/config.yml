@@ -4,7 +4,7 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.4.2
-      - image: circleci/node:9
+      - image: circleci/node:8
     steps:
       - checkout
       - run:
