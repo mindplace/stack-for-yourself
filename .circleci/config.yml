@@ -1,35 +1,50 @@
----
+# Javascript CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
 version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4.2
-      - image: circleci/node:8
+      # specify the version you desire here
+      - image: circleci/ruby:2.4-node
+
+      # Specify service dependencies here if necessary
+      # CircleCI maintains a library of pre-built images
+      # documented at https://circleci.com/docs/2.0/circleci-images/
+      # - image: circleci/mongo:3.4.4
+
+    working_directory: ~/repo
+
     steps:
       - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v2-dependencies-{{ checksum "Gemfile.lock" }}
+
+          # fallback to using the latest cache if no exact match is found
+          - v2-dependencies-
+
       - run:
-          name: Update npm
-          command: 'sudo npm install -g npm@latest'
+          name: Ruby dependencies
+          command: bundle install
+
       - run:
-          name: Install firebase tools
-          command: 'npm install -g firebase-tools'
+          name: Node dependencies
+          command: sudo npm install -g firebase-tools
+
+      - save_cache:
+          paths:
+            - /usr/local/bundle
+            - /usr/local/lib/node_modules
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
+
       - run:
-          name: Build the Jekyll site
-          command: 'bundle exec jekyll build --verbose'
-  deploy:
-    steps:
-      - checkout
+          name: Build
+          command: bundle exec jekyll build --verbose
+
       - run:
-          name: Deploy to Firebase
-          command: 'firebase deploy --token=$FIREBASE_TOKEN --non-interactive'
-workflows:
-  version: 2
-  build_and_deploy:
-    jobs:
-      - build
-      - deploy:
-        requires:
-          - build
-        filters:
-          branches:
-            only: master
+          name: Deploy
+          command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
