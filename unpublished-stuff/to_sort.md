@@ -28,6 +28,3 @@ http://awkale.me/cheatsheets/
 
 
 https://codeburst.io/animate-your-react-in-2-mins-dd4b50c45976
-
-
-[Truncating git history - Passing Curiosity](https://passingcuriosity.com/2017/truncating-git-history/)

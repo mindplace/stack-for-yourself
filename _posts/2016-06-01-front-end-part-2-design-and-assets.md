@@ -37,6 +37,7 @@ Be sure to bookmark [Unsplash](https://unsplash.com/), an amazing place to get f
 * [Pixabay](https://pixabay.com/), another  great place to get hgh quality images
 * [Canva](https://www.canva.com/): create your own layouts, images, and more, with mountains of premade free templates for you to use.
 * Free [Icon creator](https://iconsflow.com/)
+* ["How to use SVG as a Placeholder, and Other Image Loading Techniques"](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 
 ### Mockup tools
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/), not free, but the standard and best-known tool

@@ -1,0 +1,35 @@
+---
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.4.2
+      - image: circleci/node:9
+    steps:
+      - checkout
+      - run:
+          name: Update npm
+          command: 'sudo npm install -g npm@latest'
+      - run:
+          name: Install firebase tools
+          command: 'npm install -g firebase-tools'
+      - run:
+          name: Build the Jekyll site
+          command: 'bundle exec jekyll build --verbose'
+  deploy:
+    steps:
+      - checkout
+      - run:
+          name: Deploy to Firebase
+          command: 'firebase deploy --token=$FIREBASE_TOKEN --non-interactive'
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy:
+        requires:
+          - build
+        filters:
+          branches:
+            only: master

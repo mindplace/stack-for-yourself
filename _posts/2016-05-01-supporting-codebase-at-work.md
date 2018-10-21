@@ -17,7 +17,17 @@ Always work to level up your ability to write better software: [best practice so
 * [Code calligraphy vs code scratch](https://medium.freecodecamp.com/what-is-shitty-code-handwriting-ae7c00708b#.2xp08elhl): very insightful article on both bad and good choices that turn out code.
 * [Forget technical debt, built technical wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)): write code and build codebases that are sustainable, or how to not have legacy code from your first day.
 * [3 mistakes software developers must avoid](https://lab.hookops.com/avoid-startup-failure.html): or, how to fail as a programmer.
-* Just remember (and help your manager remember) that ["Coders aren't assembly line workers"](https://www.linkedin.com/pulse/coders-arent-assembly-line-workers-david-max?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNMuFUXzDZaRvL%2FHFgPwrKw%3D%3D)
+* Just remember that ["Coders aren't assembly line workers"](https://www.linkedin.com/pulse/coders-arent-assembly-line-workers-david-max?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNMuFUXzDZaRvL%2FHFgPwrKw%3D%3D)
+
+## Teams
+* ["Why your programmers just want to code"](https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e)
+* ["Unlearning toxic behaviors in code review -- and what to do instead"]("https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c")
+* ["Clean code tips that that will improve your engineering team's productivity"](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* ["How to fail as a new engineering manager"](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+
+## Project estimation
+* [Why project estimates are so hard](http://chrismm.com/blog/project-delays-why-software-estimates/)
+* ["Estimation is a core competency"](https://trackchanges.postlight.com/estimation-is-a-core-competency-36dfc1dfdea3)
 
 <hr>
 
@@ -35,5 +45,5 @@ Always work to level up your ability to write better software: [best practice so
 <hr>
 
 ## Thoughtful stuff
-* [Why project estimates are so hard](http://chrismm.com/blog/project-delays-why-software-estimates/)
 * ["The Irrational User"](https://medium.com/@alvinhsia/cognitive-bias-ad5f9fe7f59b#.tqyud3h44): consider widespread cognitive biases to build better, more intuitive software.
+* ["The horrors lurking in your legacy codebase"](https://medium.com/skills-matter/the-horrors-lurking-in-your-legacy-codebase-616d7d631f35)

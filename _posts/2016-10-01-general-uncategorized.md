@@ -81,3 +81,4 @@ A vast percentage of web development is done with object-oriented languages, inc
 * *[Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b05ead9350e6c40d2ad5de0220df93b3)*, by Alfred V. Aho
 * ["An animated guide to how garbage collection algorithms work"](https://medium.freecodecamp.com/an-animated-guide-to-how-garbage-collection-algorithms-work-46ccdba2b216#.ladjwfa5k)
 * Artificial intelligence and deep learning: ["Recognizing Traffic Lights With Deep Learning"](https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc), how one developer learned and implemented the deep learning API concept in 10 weeks.
+* ["Functional computational thinking: what is a monad?"](https://hackernoon.com/functional-computational-thinking-what-is-a-monad-2adea91154e)
