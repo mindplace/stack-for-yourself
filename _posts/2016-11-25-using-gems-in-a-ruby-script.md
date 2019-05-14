@@ -29,7 +29,7 @@ puts sum_array(given_array)
 
 ```
 
-Notice what is happening on line 20: `ARGV` means `argument vector`, and it's a [way of passing arguments by the command line](http://jnoconor.github.io/blog/2013/10/13/a-short-explanation-of-argv/). So, that option will get used if you run your program like this: `ruby sum_array.rb "[10, 23, 18]"`
+Notice what is happening on line 20: `ARGV` means `argument vector`, and it's a way of passing arguments by the command line. So, that option will get used if you run your program like this: `ruby sum_array.rb "[10, 23, 18]"`
 
 But let's say you've never used `ARGV` before--in which case, it's a good idea to test your knowledge/lack of knowledge to ensure that `ARGV` really does pick up on what you're passing in. Or, let's say you don't pass in anything and run your program as normal, and come to line 23 and want to understand what `eval(gets.chomp)` does. Or, you just want to be sure, before you get to `puts sum_array(given_array)`, that that argument `given_array` is the input you intend for it to be.
 
@@ -37,7 +37,7 @@ In every case, you need a way to check into values at [runtime](https://en.wikip
 
 ## Downloading the appropriate library/gem (in this case, pry)
 
-Off to the terminal/command line we go. Assuming you have both [Ruby](https://www.ruby-lang.org/en/downloads/) and the [Bundler](http://bundler.io/) gem installed, run the following command:
+Off to the terminal/command line we go. Assuming you have both [Ruby](https://www.ruby-lang.org/en/downloads/) and the [Bundler](https://bundler.io/) gem installed, run the following command:
 
 ```bash
 gem install pry
@@ -68,7 +68,7 @@ end
 
 ```
 
-`require` is a command that [loads the library of that name into memory](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html) when you run this file.
+`require` is a command that [loads the library of that name into memory](https://rubylearning.com/satishtalim/including_other_files_in_ruby.html) when you run this file.
 
 Now, let's add some code to pause the program in the middle of executing. In order to do that, we will need to scan [pry's documentation](https://github.com/pry/pry) to find the code we need to use. That happens to be `binding.pry`:
 
@@ -105,7 +105,7 @@ You can leave the `pry` console by typing `exit` (which will go on to the next `
 
 Most gems will have documentation on their Github pages on getting started with their code, so be sure to read and reference that first.
 
-There are some very important libraries in Ruby that are built-in but not automatically required unless you specifically ask for them, such as [`JSON`](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html), [`Net::HTTP`](https://ruby-doc.org/stdlib-2.3.3/libdoc/net/http/rdoc/Net/HTTP.html), and [`csv`](https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html). You won't have to download anything in order to use them, and you can use the same `require '[whatever]'` syntax for them.  
+There are some very important libraries in Ruby that are built-in but not automatically required unless you specifically ask for them, such as [`JSON`](https://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html), [`Net::HTTP`](https://ruby-doc.org/stdlib-2.3.3/libdoc/net/http/rdoc/Net/HTTP.html), and [`csv`](https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html). You won't have to download anything in order to use them, and you can use the same `require '[whatever]'` syntax for them.  
 
 Whatever libraries etc you wish to use, **you must include them before you write code that depends on them.** Meaning, you can't put `require 'pry'` **after** `binding.pry`, because `binding.pry` only works when `pry` is already available. This applies the same way to using multiple files.  
 

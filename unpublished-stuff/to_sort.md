@@ -24,7 +24,7 @@ https://github.com/remoteintech/remote-jobs
 
 https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445
 
-http://awkale.me/cheatsheets/
+https://awkale.me/cheatsheets/
 
 
 https://codeburst.io/animate-your-react-in-2-mins-dd4b50c45976

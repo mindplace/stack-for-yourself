@@ -24,7 +24,7 @@ Get some context on the JavaScript eco system:
 ### Tutorials and guides to get you started with JavaScript
 
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
-* *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](http://eloquentjavascript.net/).
+* *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](https://eloquentjavascript.net/).
 * *[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)*, one of the most in-depth and beloved book series on JavaScript, available [in print](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=you+don%27t+know+javascript) as well as [for free on Github](https://github.com/getify/You-Dont-Know-JS).
 * FreeCodeCamp's free online [JavaScript video course](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * GirlDevelopIt's [Intro to JavaScript](https://www.girldevelopit.com/materials/intro-js) course
@@ -36,8 +36,8 @@ Get some context on the JavaScript eco system:
 
 ### Articles, cheatsheets, documentation, and important concepts
 * [Awesome collection of courses](https://frontendmasters.com/courses/)
-* [Intro to writing object-oriented JavaScript](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
-* [OverAPI JavaScript Cheatsheet](http://overapi.com/javascript)
+* [Intro to writing object-oriented JavaScript](https://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
+* [OverAPI JavaScript Cheatsheet](https://overapi.com/javascript)
 * [JSFiddle](https://jsfiddle.net/), an awesome site for trying out JavaScript code in the browser
 * [MDN JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript), probably the only good documentation for JavaScript currently out there.
 * [Semicolons in JavaScript](https://www.codecademy.com/blog/78)
@@ -46,17 +46,15 @@ Get some context on the JavaScript eco system:
 * [JavaScript Prototype](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 * [JSON Web Token](https://jwt.io/introduction/)
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
-* [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript#wHxHM2jaxoX5vgkZ.99)
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
-* [Understanding modules in JavaScript](https://spring.io/understanding/javascript-modules)
 
 #### JavaScript objects: making and using them
 * Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e)
 
 #### Events, callbacks, and Promises
 * [Understanding JavaScript events](https://www.w3schools.com/js/js_events.asp)
-* [JavaScript Events and the call stack](http://bit.ly/1Btu0Iy)
-* [Callbacks in JavaScript](http://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/)
+* [JavaScript Events and the call stack](https://bit.ly/1Btu0Iy)
+* [Callbacks in JavaScript](https://callbackhell.com/): one of the essential things you need to understand. These days the new opponent on the callbacks field is the [Promise](https://www.html5rocks.com/en/tutorials/es6/promises/)
 
 #### Understanding JavaScript throttling, and when to use it
 * ["Throttling function calls"](https://remysharp.com/2010/07/21/throttling-function-calls)
@@ -77,21 +75,21 @@ Get some context on the JavaScript eco system:
 * ["Why learn functional programming in JavaScript?"](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
 
 #### Regular Expressions with JavaScript
-* [Scriptular](http://scriptular.com/), a regular expression checker.
+* [Scriptular](https://scriptular.com/), a regular expression checker.
 
 <hr>
 
 ## Build tools, task runners, and important supporting tools
 Don't [flounder among the many build tools and task runners out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q). You do ned at least one or two of them in your workflow, so get familiar with these big ones.
 
-* [gulp](http://gulpjs.com/): this is a JavaScript task-runner, able to do tasks like compile SASS, compress images, and more.
-* [grunt](http://gruntjs.com/): Another JavaScript task-runner **(my favorite!)**, with syntax that's different from gulp.
+* [gulp](https://gulpjs.com/): this is a JavaScript task-runner, able to do tasks like compile SASS, compress images, and more.
+* [grunt](https://gruntjs.com/): Another JavaScript task-runner **(my favorite!)**, with syntax that's different from gulp.
 * [NPM](https://www.npmjs.com/package/build-tools), Node Package Manager: a software package manager for JavaScript.
 * [Yarn](https://yarnpkg.com/en/), another very popular and new package manager for JavaScript.
 * [Bower](https://bower.io/): another very popular package manager.
-* [Yeoman](http://yeoman.io/): a scaffolding tool helping you kickstart your new projects.
+* [Yeoman](https://yeoman.io/): a scaffolding tool helping you kickstart your new projects.
 * [webpack](https://webpack.github.io/): a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles (often only one) to be loaded by the browser. [webpack documentation is here.](https://webpack.js.org/concepts/). To get started, [take the webpack course](https://webpack.academy/p/the-core-concepts) that the creator of webpack made.
-* [Flux](https://facebook.github.io/flux/) and/or [Redux](http://redux.js.org/): these are tools that manage front-end application state and storage. [Here's an article discussing the two](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/).  
+* [Flux](https://facebook.github.io/flux/) and/or [Redux](https://redux.js.org/): these are tools that manage front-end application state and storage. [Here's an article discussing the two](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/).  
 
 <hr>
 
@@ -101,29 +99,28 @@ Don't [flounder among the many build tools and task runners out there](https://m
 jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/technologies/details/js-jquery/all/all) use it), but [you might not need it](https://github.com/oneuijs/You-Dont-Need-jQuery), and your project may be better off without it.
 
 * [Introduction to jQuery](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
-* [Official documentation](http://api.jquery.com/), and a very good one too
-* [Events documentation](http://api.jquery.com/category/events/)
-* [Creating tabs with jQuery](http://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
+* [Official documentation](https://api.jquery.com/), and a very good one too
+* [Events documentation](https://api.jquery.com/category/events/)
+* [Creating tabs with jQuery](https://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
 * ["I still love jQuery -- and you should, too."](https://hackernoon.com/i-still-love-jquery-and-you-should-too-3114f33f249e)
 
 ### Data visualization libraries
-* [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
+* [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](https://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
 * [Google Visualizations](https://developers.google.com/chart/interactive/docs/reference#development-tip)
 
 
 ### Other libraries to know
-* [moment.js](http://momentjs.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
+* [moment.js](https://momentjs.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
 * [GMaps](https://github.com/hpneo/gmaps), free wrapper to use the Google Maps API.
-* [Parallax.js](http://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
-* [Bluebird](http://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
+* [Parallax.js](https://pixelcog.github.io/parallax.js/), super simple library allowing you to create a parallax scrolling effect on images.
+* [Bluebird](https://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
 * [Lodash.js](https://lodash.com/): Great library that dramatically extends basic array, collection, etc functionality so you don't have to write your own every time. Production-level library that's widely used.
 
 <hr>
 
 ## Writing tests for JavaScript
-* [Tutorial on getting setup with Jasmine gem](http://jasmine.github.io/2.4/introduction.html)
-* [Jasmine syntax and methods](http://jasmine.github.io/2.4/introduction.html)
-* [TDD With JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
+* [Tutorial on getting setup with Jasmine gem](https://jasmine.github.io/2.4/introduction.html)
+* [Jasmine syntax and methods](https://jasmine.github.io/2.4/introduction.html)
 * [Testing jQuery with Jasmine](https://github.com/velesin/jasmine-jquery)
 
 <hr>
@@ -131,6 +128,4 @@ jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/techno
 ## Free stuff
 Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
 
-* [OWL Carousel](http://owlgraphic.com/owlcarousel/index.html), a super cute and super nifty carousel element that works nicely off of jQuery.
-* [Draft.js](https://facebook.github.io/draft-js/docs/overview.html#content): A rich text editor for the browser, developed by Facebook.
 * Want more? [Here's a huge compilation of JavaScript libraries and tools](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030), free to use and enjoy.

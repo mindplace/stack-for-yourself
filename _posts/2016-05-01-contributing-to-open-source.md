@@ -28,10 +28,9 @@ An essential element of open source contributions is [a grasp of git and Github]
 You can [figure out where software is needed](https://medium.com/making-lost-my-name/the-scent-of-software-3bba0d9ab36e#.alat0k7z7) that you can then build, especially if you work around others.
 
 * [Github projects, bugs, and feature requests tagged with beginner-friendly labels](https://github.com/lucev/beginner-friendly) so you can start contributing right away as a beginner.
-* [CodeTriage](http://www.codetriage.com/)
-* [CodeForAmerica](https://www.codeforamerica.org/), check out their volunteer/code wanted section [here](https://www.codeforamerica.org/geeks/civicissues).
-* [CodeMontage](https://www.codemontage.com/)
-* [UpForGrabs](http://up-for-grabs.net/#/)
+* [CodeTriage](https://www.codetriage.com/)
+* [CodeForAmerica](https://www.codeforamerica.org/), check out their volunteer/code wanted section [here](http://www.codeforamerica.org/geeks/civicissues).
+* [UpForGrabs](https://up-for-grabs.net/#/)
 
 <hr>
 

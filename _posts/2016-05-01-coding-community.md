@@ -27,7 +27,7 @@ Find your local techies via [Meetup](https://meetup.com) groups and [Eventbrite 
 Hackathons are great for collaborating with other developers in an intense way to build brand new projects from the ground up.
 
 * [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
-* [AngelHack](http://angelhack.com/), a company that hosts hackathons in different cities.
+* [AngelHack](https://angelhack.com/), a company that hosts hackathons in different cities.
 * [Devpost](https://devpost.com/hackathons), a hackathon directory of online and in-person hackathons around the globe.
 
 <hr>
@@ -41,5 +41,5 @@ Check out [Stack Overflow](https://stackoverflow.com), [Reddit](https://reddit.c
 <hr>
 
 ### Conferences
-* [Ruby conferences](http://rubyconferences.org/)
+* [Ruby conferences](https://rubyconferences.org/)
 * ["Get Your Conference Proposal Accepted"](https://schneems.com/blogs/2016-04-07-conference-proposal)

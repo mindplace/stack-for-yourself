@@ -1,4 +1,4 @@
-# [Stack For Yourself](http://stackforyourself.com)
+# [Stack For Yourself](https://stack-for-yourself.firebaseapp.com)
 A site to share resources for web development, especially for those new to it.
 
 <hr>

@@ -32,7 +32,7 @@ More resources can be found on our [page for supporting codebases at work]({% po
 
 ## Becoming a better developer
 
-* *[Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)*: this awesome book is free online!
+* *[Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)*
 * [Level up as a dev](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i), great article.
 * ["If you want to level up as an engineer, read the code. All of it."](https://medium.com/@mrjoelkemp/a-single-action-that-will-level-you-up-as-a-software-engineer-d5cd2d0e4787)
 * *[New Programmer’s Survival Manual](https://www.amazon.com/New-Programmers-Survival-Manual-Workplace/dp/1934356816)*

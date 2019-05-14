@@ -7,7 +7,7 @@ categories: [everything-else]
 ---
 
 ## Start here
-If you want to build properly for mobile--that is, build iOS and/or Android applications, you'll need to use the right languages and tools for the job. Android applications are built on [Java](http://code.tutsplus.com/series/learn-java-for-android-development--mobile-22888). iOS applications are built on [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) or [Swift](https://developer.apple.com/swift/), using [XCode](https://developer.apple.com/xcode/ide/).   
+If you want to build properly for mobile--that is, build iOS and/or Android applications, you'll need to use the right languages and tools for the job. Android applications are built on [Java](https://code.tutsplus.com/series/learn-java-for-android-development--mobile-22888). iOS applications are built on [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) or [Swift](https://developer.apple.com/swift/), using [XCode](https://developer.apple.com/xcode/ide/).   
 
 <hr>
 
@@ -21,7 +21,7 @@ If you want to build properly for mobile--that is, build iOS and/or Android appl
 
 ### Some cool resources
 * [Push notifications](https://www.pushwoosh.com/)
-* [Framework7](http://framework7.io/), an HTML/JS framework for mobile
+* [Framework7](https://framework7.io/), an HTML/JS framework for mobile
 
 ### Definitely check out React Native
 It's JavaScript's answer to a native-feeling application for iOS without Swift or Objective-C.
@@ -29,5 +29,5 @@ It's JavaScript's answer to a native-feeling application for iOS without Swift o
 * [Deploying a React Native app for iOS](https://medium.com/@tomgoldenberg/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.uvsiau13a)
 
 ### Building responsive pages
-* [Codeply](http://www.codeply.com/responsive-design-cheatsheet.html): Responsive Design Cheatsheet
+* [Codeply](https://www.codeply.com/responsive-design-cheatsheet.html): Responsive Design Cheatsheet
 * [Google chrome responsive design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) tutorial

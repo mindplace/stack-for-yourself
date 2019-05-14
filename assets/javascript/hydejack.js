@@ -202,7 +202,7 @@ $(document.links).filter(function() {
 
   /**
    * Copyright (c) 2016 Florian Klampfer
-   * http://qwtel.com/hydejack/
+   * https://qwtel.com/hydejack/
    * Released under MIT license
    */
   function createSidebar(sidebar, backdrop, menu) {

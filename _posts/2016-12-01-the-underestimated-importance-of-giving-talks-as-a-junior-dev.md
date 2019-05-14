@@ -11,7 +11,7 @@ I can't say enough about the positive qualities of giving talks as you are job-h
 
 ![n_plus_one_first]({{ site.baseurl }}/assets/img/n_plus_one_first.png)
 
-When I applied to give this talk at [Rails Camp at the UN](http://railscamp.io/) during the summer of 2016, I knew nothing about [N+1 errors in Rails](http://estherleytush.com/2016/07/10/avoiding-n-plus-one-queries.html). In fact, my very first interview had asked me what N+1 errors were, and I had no idea. When I started digging, I realized that if I didn't know what they were, and could easily assume my fellow bootcampers didn't know what they were, I could probably help someone out by doing an introduction on this topic.
+When I applied to give this talk at Rails Camp at the United Nations during the summer of 2016, I knew nothing about [N+1 errors in Rails](https://estherleytush.com/2016/07/10/avoiding-n-plus-one-queries.html). In fact, my very first interview had asked me what N+1 errors were, and I had no idea. When I started digging, I realized that if I didn't know what they were, and could easily assume my fellow bootcampers didn't know what they were, I could probably help someone out by doing an introduction on this topic.
 
 I knew experienced developers would most likely know about this topic. But you can't wait until you're an expert to give talks. You can't expect, and you don't need to expect, that your audience is going to be more experienced than you. Quite the contrary: going to meetups, I expected everyone to know more than me, but discovered that while some people were way ahead of me in knowledge and skill, others knew much less than me. Just contextualize your talk for newbies or whoever, and be clear about where you personally are as a developer.
 
@@ -37,7 +37,7 @@ I was able to go to [Windy City Rails](https://windycityrails.com/), a major Rai
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z4j57V2SAsA" frameborder="0" allowfullscreen></iframe>
 
-Thanks to that weekend, I not only landed an interview with a company and a slew of professional connections in Chicago, but also met a developer who runs a project called [SheNomads](http://www.shenomads.com/), and ended up recording a podcast with her. Plus, I was able to post about my WindyCityRails talk on LinkedIn and Twitter and got even more traction out of that that way.
+Thanks to that weekend, I not only landed an interview with a company and a slew of professional connections in Chicago, but also met a developer who ran a project called [SheNomads](https://twitter.com/shenomads?lang=en), and ended up recording a podcast with her. Plus, I was able to post about my WindyCityRails talk on LinkedIn and Twitter and got even more traction out of that that way.
 
 ## 4. Seriously, it lands you interviews.
 
@@ -50,19 +50,19 @@ After this recursion talk, a developer from Betterment took me aside and asked i
 
 ![nyc_rb_talk]({{ site.baseurl }}/assets/img/nyc_rb.png)
 
-After this (second) [N+1 Errors talk at NYC.rb meetup](http://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](http://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](https://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
+After this (second) [N+1 Errors talk at NYC.rb meetup](https://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](https://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](https://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
 
 ## Okay, I'm convinced! How do I get my talks accepted?
 
 Now we're talking! Here's some tips from pros:
 
 * Schneems' [article on getting your talk proposal accepted](https://www.schneems.com/blogs/2016-04-07-conference-proposal)
-* Lena Reinhardt's [talk proposal preparation from start to finish](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+* Lena Reinhardt's [talk proposal preparation from start to finish](https://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 * CloudFoundry's ["3 Keys to Getting Your Talk Accepted At A Conference "](https://www.cloudfoundry.org/3-keys-to-getting-your-talk-accepted-at-a-conference/)
 
 Now, you might have noticed that these are skewed towards conferences, but meetup talks are a very good way to start (and those are most of what I've done, too). The setup for that is basically the same as for a conference talk, except much easier and lighter. You want to choose and pitch a topic that you can comfortably relate to someone in a window of 10-25 minutes, ideally with code samples.
 
-Next week, I'm running an [event at Dev Bootcamp where alumni give lightning talks](http://www.meetup.com/DBC-NYC/events/234697108/). Here are some proposals that have been accepted:
+Next week, I'm running an [event at Dev Bootcamp where alumni give lightning talks](https://www.meetup.com/DBC-NYC/events/234697108/). Here are some proposals that have been accepted:
 
 > **"Lessons from Code Review"**: "In this talk, I will share some of the lessons I have learned from reviewing others' code, from revising scripts to entering a new codebase during my first open source contribution.  Most of the code will be in Python and an emphasis will be placed on approaching your own learning thoughtfully."
 

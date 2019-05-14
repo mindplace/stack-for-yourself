@@ -10,17 +10,13 @@ categories: [comp-sci]
 Remember that data structures go hand in hand with [algorithms]({% post_url 2016-09-01-algorithms-uncategorized %}).
 
 ### Foundational concepts
-* [Binary search](http://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
-* [Quick and dirty intro to Big O notation](http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/)
+* [Binary search](https://fluxusfrequency.github.io/blog/2014/01/31/building-a-binary-search/)
+* [Quick and dirty intro to Big O notation](https://www.honeybadger.io/blog/a-rubyist-s-guide-to-big-o-notation/)
 * [Big O notation cheat sheet](http://bigocheatsheet.com/)
 
 ### Sorting algorithms
-* [Sorting algorithms animations](http://www.sorting-algorithms.com/), a fantastic place to start learning about different kinds of sorting algorithms.
+* [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms), a fantastic place to start learning about different kinds of sorting algorithms.
 * [Writing different sorts as algorithms](https://www.nczonline.net/blog/tag/algorithms/)
 
 ### Trees
-* [Balancing a binary search tree](http://www.stoimen.com/blog/2012/07/03/computer-algorithms-balancing-a-binary-search-tree/)
-* [Removing a node in a binary search tree](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)
-
-### The more exotic data structures
-* [Bloom filters](https://subvisual.co/blog/posts/96-a-look-into-bloom-filters-with-ruby): like Ruby hashes (or hash maps), allows for near-constant-time lookup. A very cool and wierd data structure.
+* [Removing a node in a binary search tree](https://www.algolist.net/Data_structures/Binary_search_tree/Removal)

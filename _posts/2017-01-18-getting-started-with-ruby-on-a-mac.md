@@ -10,7 +10,7 @@ tags: [blog]
 Then this guide will not work for you. These things might:
 
 * Official list of ways to install Ruby, as given [by the documentation](https://www.ruby-lang.org/en/documentation/installation/).
-* **Windows users**: try [this RubyInstaller](http://rubyinstaller.org/), or this [TeamTreeHouse Rails installation guide](https://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application/getting-started-with-rails/installing-rails-windows).
+* **Windows users**: try [this RubyInstaller](https://rubyinstaller.org/), or this [TeamTreeHouse Rails installation guide](https://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application/getting-started-with-rails/installing-rails-windows).
 * **Linux users**: check out the [official list of ways to install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your dystro.
 
 ### Okay, you're a Mac user. Have you ever used your Terminal before?
@@ -20,11 +20,11 @@ Yes? Okay, you're good to go.
 No? **Don't go any further before learning about your Terminal.** Here's resources to get you started:
 
 * Our [Command line interfaces]({% post_url 2016-10-01-command-line %}) introduction
-* TeamTreeHouse's [introduction to the Mac Terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+* TeamTreeHouse's [introduction to the Mac Terminal](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * Ashley Noland's great guide to [getting started with Terminal](https://ashleynolan.co.uk/blog/getting-started-with-terminal)
 * Take the [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html), a really excellent and concise tutorial getting you up and running with navigating the shell and writing bash commands.
 
-Note: the terms *command line*, *command-line*, *command line interface (CLI)*, *terminal*, *shell*, and *bash* all mean the same thing: a text-based interface to your computer where you can run [bash](http://cs.lmu.edu/~ray/notes/bash/) code.
+Note: the terms *command line*, *command-line*, *command line interface (CLI)*, *terminal*, *shell*, and *bash* all mean the same thing: a text-based interface to your computer where you can run [bash](https://cs.lmu.edu/~ray/notes/bash/) code.
 
 <hr>
 
@@ -46,7 +46,7 @@ Here's the process this guide will take:
 
 ## Part 1: Installing a package manager
 
-Open your terminal. Install [Homebrew](http://brew.sh/), a package manager, by pasting the following code into your prompt:
+Open your terminal. Install [Homebrew](https://brew.sh/), a package manager, by pasting the following code into your prompt:
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

@@ -7,7 +7,7 @@ categories: [back-end]
 ---
 
 ## Start here
-Check out [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems: helps you get a sense of how languages differ in their syntax and philosophies.
+Check out [RosettaCode](https://rosettacode.org/wiki/Rosetta_Code), a place to see different languages solving the same problems: helps you get a sense of how languages differ in their syntax and philosophies.
 
 Plenty of people suggest you have a systematic approach to learning a new language. [Here is one such suggested plan](https://gist.github.com/CristhianMotoche/85c4f6cdafc23ee92df0bb6ff65ab1be) and I think if you can do all or most of this list with a language of your choosing then you are definitely at the level of being paid to write code. And also to be my hero.
 
@@ -40,8 +40,7 @@ A very very cool language developed by Google and currently taking off. Based on
 ### C
 C is a powerful language that gives programmers the opportunity to exact wide control over their code and programs. It's incredibly fast, and many other languages, like Ruby, are actually written in it.
 
-* [Overview](http://www.tutorialspoint.com/cprogramming/c_overview.htm?)
-* [Learn C the Hard Way](http://c.learncodethehardway.org/book/), a great online tutorial for C (and not necessarily hard..."the hard way" refers to typing up all the code that's presented.)
+* [Overview](https://www.tutorialspoint.com/cprogramming/c_overview.htm?)
 * *[The C Programming Language](https://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a2dacad1fa8eed0aa0feaf1d54f70410)*, by Brian Kernighan
 
 <hr>

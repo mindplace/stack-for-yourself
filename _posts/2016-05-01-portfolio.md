@@ -11,7 +11,7 @@ Regardless of whether you're positioning yourself as front-end, back-end, full-s
 As a **front-end** developer, for example, you would make sure your Github repositories contain the following:
 
 * At least a couple of from-scratch pages/sites/projects with [your own HTML&CSS]({% post_url 2016-06-01-front-end-part-1-html-css-dom %})
-* Something using a [CSS pre-processor](https://www.sitepoint.com/6-current-options-css-preprocessors/) like [SASS](http://sass-lang.com/)
+* Something using a [CSS pre-processor](https://www.sitepoint.com/6-current-options-css-preprocessors/) like [SASS](https://sass-lang.com/)
 * A project using [plain JavaScript and something using jQuery and Ajax]({% post_url 2016-06-01-javascript-uncategorized %})
 * Something built with a [JavaScript framework like React, Angular, or Ember]( {% post_url 2016-06-01-front-end-frameworks %})
 * Several somethings that make use of [non-JS frameworks like Bootstrap, Materialize, Jekyll, etc.]({% post_url 2016-06-01-front-end-frameworks %})
@@ -26,18 +26,12 @@ So put together at least 10 projects you can talk about to other developers and 
 
 <hr>
 
-### Some inspiring portfolio sites
-
-* Wending Zhang's [personal portfolio site](http://wentin.co/)
-
-<hr>
-
 ### Get ideas on stuff to build
 Below are some places to get ideas on stuff to build yourself--but also remember that [contributing to open source projects]({% post_url 2016-05-01-contributing-to-open-source %}) are one of the best ideas you can have if you want to build up your credibility as a programmer.
 
 * ["Every time you build a to-do list, a puppy dies: ideas for projects to build"](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.nmrjimo29)
 * [SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2016-Ideas)
-* [Skillshare](http://skillshare.im/)
-* [DreamingInCode](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+* [Skillshare](https://skillshare.im/)
+* [DreamingInCode](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [NiftyAssignments](http://nifty.stanford.edu/)
 * [IdeaMachine](http://www.ideamachine.io/)

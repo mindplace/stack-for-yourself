@@ -6,7 +6,7 @@ tags: [general, all]
 categories: [everything-else]
 ---
 ## Start here
-Make sure you [get the right tools installed on your computer](http://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
+Make sure you [get the right tools installed on your computer](https://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
 
 #### Your most essential tools:
 * A text-editor (some options below)
@@ -41,8 +41,8 @@ These are programs inside of which you'll be writing into and saving code files.
 #### Sublime
 [Sublime](https://www.sublimetext.com/) is probably the most popular text editor.
 
-* Sublime's [official documentation and resources](http://docs.sublimetext.info/en/latest/)
-* Sublime [shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+* Sublime's [official documentation and resources](https://docs.sublimetext.info/en/latest/)
+* Sublime [shortcuts](https://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
 * [PackageControl](https://packagecontrol.io/) for Sublime, add-ons that you can download to make Sublime even more useful.
 
 <br>
@@ -51,11 +51,11 @@ These are programs inside of which you'll be writing into and saving code files.
 An important text editor but one that can only be navigated with keyboard shortcuts, so it has a steep learning curve. But it's really worth it to be able to create and edit files at the speed of thought. If you're on a Mac or Linux OS, your computer already has it installed! That said, treat yourself to a better version via [MacVim](https://github.com/macvim-dev/macvim) (which supports non-Mac computers as well).
 
 * [vim's official documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
-* [StackOverflow answers on most-used vim shortcuts](http://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
-* ["Best of Vim tips"](http://rayninfo.co.uk/vimtips.html)
-* [OpenVim tutorial](http://www.openvim.com/tutorial.html)
+* [StackOverflow answers on most-used vim shortcuts](https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
+* ["Best of Vim tips"](https://rayninfo.co.uk/vimtips.html)
+* [OpenVim tutorial](https://www.openvim.com/tutorial.html)
 * [Vim Adventures](https://vim-adventures.com/)
-* [Graphical vim cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+* [Graphical vim cheatsheet](https://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * Another [vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
 * One more [vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
 * Super-simple [Vim cheatsheet](https://vim.rtorr.com/)
@@ -81,11 +81,6 @@ Did you know the guy who invented JavaScript was the CEO of Mozilla?
 
 * Mozilla's [developer tools](https://developer.mozilla.org/en-US/docs/Tools)
 
-<hr>
-
-#### Opera
-
-* Opera [dev tools](http://help.opera.com/Linux/10.50/en/devtools.html)
 
 <hr>
 
@@ -97,35 +92,35 @@ Surprised to see it make this list? Don't be--IE also has dev tools!
 <hr>
 
 ### Virtual machines, development environments, and Docker
-* [Docker: difference between images and containers](http://stackoverflow.com/questions/23735149/docker-image-vs-container)
+* [Docker: difference between images and containers](https://stackoverflow.com/questions/23735149/docker-image-vs-container)
 * [Getting started and check status commands](https://docs.docker.com/machine/get-started/)
-* [Understanding the Docker ecosystem](http://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary), a free book
+* [Understanding the Docker ecosystem](https://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary), a free book
 * [Using Vagrant VMs for Rails development](https://gorails.com/guides/using-vagrant-for-rails-development)
 
 <hr>
 
 ### Support for computers and programs you'll be using
 * [Developing on a Chromebook: Tutorial for getting started](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d#.ayk5cv7w1)
-* [Atom text editor keyboard cheatsheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
+* [Atom text editor keyboard cheatsheet](https://blog.bugsnag.com/atom-editor-cheat-sheet)
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?utm_source=gmail), a great Chrome extension to help you open multiple links from a web page.
 * Mac users: check out [this amazing bunch of official Apple newsletters](https://lists.apple.com/mailman/listinfo) that allow you to listen in to conversations developers are having with building Mac products, and think about issues like security, etc. [Here's a wonderful guide to securing your Mac computer](https://github.com/drduh/macOS-Security-and-Privacy-Guide).
 
 <hr>
 
 ### Agile: managing development
-What is Agile? It's a way of working in teams, permitting you to be more, well, agile. The [Agile Manifesto](http://agilemanifesto.org/) is the basis for this concept. Agile is wildly popular among development teams, and used extremely widely, so it's a good idea to understand what working within an Agile environment is like.
+What is Agile? It's a way of working in teams, permitting you to be more, well, agile. The [Agile Manifesto](https://agilemanifesto.org/) is the basis for this concept. Agile is wildly popular among development teams, and used extremely widely, so it's a good idea to understand what working within an Agile environment is like.
 
 * [Agile warrior](https://agilewarrior.wordpress.com/)
 * [Practices of an Agile developer](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)
-* ThoughtBot’s [Playbook](http://playbook.thoughtbot.com/), an explanation of how ThoughtBot builds software via Agile. In-depth and extremely thought-provoking.
+* ThoughtBot’s [Playbook](https://playbook.thoughtbot.com/), an explanation of how ThoughtBot builds software via Agile. In-depth and extremely thought-provoking.
 * ThoughtBot's [guides to working in teams with various technologies](https://github.com/thoughtbot/guides), hugely valuable reading.
 
 <hr>
 
 ### Project organization
 * [Trello](https://trello.com/), organize via 'boards'.
-* [Evernote](https://www.evernote.com/referral/Registration.action?sig=beaceb2cbd8b81059e0c159e700172056225c39ab31ab7fa54426f96b9cd7bc7&uid=63359964), for organizing all your projects and papers.
-* [Asana](https://app.asana.com/), helping teams keep on track on projects.
+* [Evernote](https://www.evernote.com), for organizing all your projects and papers.
+* [Asana](https://asana.com/), helping teams keep on track on projects.
 
 <hr>
 

@@ -10,7 +10,7 @@ fundamentals:
   links:
     links: Check out <a href="/comp-sci/2016/10/01/general-uncategorized/">our list of fundamental computer science concepts</a>.
     roadmap: Take a look at <a href="https://github.com/kamranahmedse/developer-roadmap/" target="_blank"> this 2018 developer roadmap</a>. This a useful reference if you're wondering where a topic fits into your journey.
-    variety: Variety of <a href="http://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science">free online Computer Science courses from universities</a>. These are often Computer Science courses that teach broad programming/computer concepts.
+    variety: Variety of <a href="https://wayback.archive-it.org/3671/20150528220118/https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science">free online Computer Science courses from universities</a>. These are often Computer Science courses that teach broad programming/computer concepts.
     compsci: Some great Computer Science <a href="http://videolectures.net/Top/Computer_Science/">video lectures</a>.
 
 back-end-language:
@@ -39,7 +39,7 @@ networking:
   text: Learn how the web works, how requests are made, where code lives, how servers listen for and respond to queries.
   links:
     internet: Our <a href="/back-end/2016/10/01/networking-basics/">introduction to networking</a>, or, an introduction to how the Internet works and how applications make and respond to requests.
-    text: Learn a back-end web framework for the back-end language you chose. Back-end frameworks consist of files that are prewritten for you in the appropriate language, in order to take care of the initial setup of an application. They handle managing your database, creating the 'logic' of what your application can do, and they allow you to focus on working on the parts that are unique to your application instead of basic configurations that every application must have in order to be 'live' on a server. An example of a back-end web framework for Ruby is <a href="/2016/07/01/ruby-rails/">Rails</a>. Here's a <a href="http://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending">place to learn about web development concepts</a> within the context of Rails.
+    text: Learn a back-end web framework for the back-end language you chose. Back-end frameworks consist of files that are prewritten for you in the appropriate language, in order to take care of the initial setup of an application. They handle managing your database, creating the 'logic' of what your application can do, and they allow you to focus on working on the parts that are unique to your application instead of basic configurations that every application must have in order to be 'live' on a server. An example of a back-end web framework for Ruby is <a href="/2016/07/01/ruby-rails/">Rails</a>. Here's a <a href="https://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending">place to learn about web development concepts</a> within the context of Rails.
 
 front-end-basics:
   text: Learn to create simple pages with HTML and CSS.
@@ -50,9 +50,8 @@ front-end-basics:
 javascript:
   text: Learn JavaScript. Be able to write vanilla JavaScript both in the sense of objects and in the sense of DOM manipulations.
   links:
-    jquery: Learn more about the DOM and the way JavaScript interacts with HTML and CSS. A great way to do that would be to learn the most popular JavaScript library, jQuery. Find that and other resources <a href="http://localhost:4000/front-end/2016/06/01/javascript-uncategorized/">here</a>.
+    jquery: Learn more about the DOM and the way JavaScript interacts with HTML and CSS. A great way to do that would be to learn the most popular JavaScript library, jQuery. Find that and other resources <a href="/front-end/2016/06/01/javascript-uncategorized/">here</a>.
     framework: Choose a <a href="/front-end/2016/06/01/front-end-frameworks/">front-end JavaScript framework</a> and learn it. Every modern framework has a great community and support right now, so don't worry too much about choosing the 'wrong' one.
-    irn: <a href="http://lrnapp.com/">IRN app</a>, a JavaScript-based course to learn programming.
 
 next steps:
   text: Finally, showcase your work live, and build, build, build.
@@ -69,7 +68,7 @@ other-roadmaps:
     yet-one-more-freecodecamp: <a href='https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf'>A roadmap to becoming a web developer in 2017</a>
     becoming-a-dev-in-2017: <a href="https://github.com/kamranahmedse/developer-roadmap">Becoming a developer in 2017</a>, an open-source map for full-stack, front-end, and/or back-end development essential competencies.
     google: <a href="http://everydayutilitarian.com/essays/learn-code/">Go from Zero to Programmer Hero in One Guide!</a> But really there's a lot of <a href="https://www.quora.com/If-you-were-designing-a-syllabus-to-take-a-newbie-like-me-from-a-coding-zero-to-a-Full-Stack-Web-Dev-Hero-in-6-months-and-under-1000-what-would-you-tell-me-to-learn-and-what-online-resources-should-I-use">cool discussions</a> about how to get into web development when you're a raw beginner, that are worth checking out.
-    dreaming-in-code: <a href="http://www.dreamincode.net/forums/forum/78-programming-tutorials/">Dreaming in Code</a>, Lots of tutorials for different languages.
+    dreaming-in-code: <a href="https://www.dreamincode.net/forums/forum/78-programming-tutorials/">Dreaming in Code</a>, Lots of tutorials for different languages.
     mozilla: <a href="https://developer.mozilla.org/en-US/docs/Web">Web technology for developers</a>.
     free-code-camp: <a href="https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645#.wz90cqkwl">"How to Get a Developer Job In Less Than A Year"</a>, a perspective from <a href="https://www.freecodecamp.com/">FreeCodeCamp</a>.
     codecademy: <a href="https://www.codecademy.com">Codecademy's Full Stack path</a>. Codecademy is an amazing first step on your road to code, especially if you have never written any code before. Great introduction to essential full stack concepts and competencies.
@@ -78,7 +77,6 @@ other-roadmaps:
     team-treehouse: <a href="https://teamtreehouse.com/">Team TreeHouse</a>, various small courses.
     khan-academy: <a href="https://www.khanacademy.org/">KhanAcademy</a> courses.
     bento: <a href="https://bento.io/">Bento</a>, cool tutorials for different web development technologies and concepts.
-    learn-the-hard-way: <a href="http://programming-motherfucker.com/become.html">Learn the Hard Way courses</a>, highly recommended.
-    codeschool: <a href="http://discover-devtools.codeschool.com/">Codeschool</a>, lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
+    codeschool: <a href="https://discover-devtools.codeschool.com/">Codeschool</a>, lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
     lynda: <a href="https://www.lynda.com/">Lynda</a>, video tutorials.
-    lifehacker: <a href="http://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code">LifeHacker's "Programmer 101 Teach Yourself To Code"</a> article with plenty of links.
+    lifehacker: <a href="https://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code">LifeHacker's "Programmer 101 Teach Yourself To Code"</a> article with plenty of links.
