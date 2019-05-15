@@ -83,10 +83,10 @@ Check the output to make sure everything installs as expected.
 In the terminal, type the following:
 
 ```
-rbenv install 2.3.0
+rbenv install 2.6.0
 ```
 
-This command tells `rbenv` to install Ruby, specifically Ruby version 2.3.0. There are other versions, but this is a good, current version (as of Jan 18, 2017).
+This command tells `rbenv` to install Ruby, specifically Ruby version 2.6.0. There are other versions, but this is a good, current version (as of Jan 18, 2017).
 
 This will also take some time.
 
@@ -107,10 +107,10 @@ This is the last step in installing `rbenv`. When you've run this command, quit 
 Now, let's set the correct Ruby version to be used whenever you want to write some Ruby code and run it:
 
 ```
-rbenv global 2.3.0
+rbenv global 2.6.0
 ```
 
-This means, "Set the global version of Ruby in this computer to be 2.3.0".
+This means, "Set the global version of Ruby in this computer to be 2.6.0".
 
 Finally, run the following code:
 
@@ -118,7 +118,7 @@ Finally, run the following code:
 gem update --system
 ```
 
-This will update where your gems will download, making sure they will always download to a subfolder within the Ruby 2.3.0 version, which will allow you access. This will also ensure you have the most recent version of [rubygems](https://rubygems.org/) installed on your computer, to allow you to download gems from here on.
+This will update where your gems will download, making sure they will always download to a subfolder within the Ruby 2.6.0 version, which will allow you access. This will also ensure you have the most recent version of [rubygems](https://rubygems.org/) installed on your computer, to allow you to download gems from here on.
 
 <hr>
 
