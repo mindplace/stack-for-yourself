@@ -102,8 +102,6 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 
 There won't be any output when you run this command.
 
-This is the last step in installing `rbenv`. When you've run this command, quit your terminal entirely, then reopen it.
-
 Now, let's set the correct Ruby version to be used whenever you want to write some Ruby code and run it:
 
 ```
@@ -124,9 +122,9 @@ This will update where your gems will download, making sure they will always dow
 
 ## Part 5: Download a gem to test that everything works
 
-Quit and reopen your terminal one more time.
+Quit and reopen your terminal.
 
-Run the following code to download [pry](https://github.com/pry/pry), a fantastic gem used to pause programs in the middle in order to inspect values:
+Run the following code to download [pry](https://github.com/pry/pry), a great gem used to pause programs in the middle in order to inspect values:
 
 ```
 gem install pry
@@ -151,4 +149,4 @@ You can write Ruby files on your computer now. Here's a list of things to try ou
   * Save your file.
   * In your terminal, run the file using the command `ruby test_file.rb` and see whatever output be printed on the screen.
 
-* **Continue your learning** by checking out our [resources on Ruby]({{ site.baseurl }}/tag/ruby).
+* **Continue your learning** by checking out our [resources on Ruby]({% post_url 2016-07-01-ruby-overview %}).
