@@ -6,14 +6,13 @@
 @import 'vendor/bootstrap-theme';
 
 // Theme
+@import 'theme/theme';
 @import 'theme/syntax-highlighting';
-@import 'theme/poole';
-@import 'theme/hyde';
-@import 'theme/codemirror';
 
 // Components
 @import 'components/footer';
 @import 'components/header';
+@import 'components/sidebar';
 
 // Pages
 @import 'pages/category';

@@ -1,26 +1,5 @@
 @import 'variables';
 
-/*
- *  __                  __
- * /\ \                /\ \
- * \ \ \___   __  __   \_\ \     __
- *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
- *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
- *    \ \_\ \_\/`____ \ \___,_\ \____\
- *     \/_/\/_/`/___/> \/__,_ /\/____/
- *                /\___/
- *                \/__/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
- *
- * Hijacked and adoped by @qwtel. Learn more at
- * https://qwtel.com/hydejack.
- */
-
-html {
-  font-family:$base-font-family;
-}
 
 /*
  * Sidebar
@@ -220,6 +199,7 @@ html {
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
+
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
@@ -261,51 +241,4 @@ html {
 
 @media (min-width: 64em) {
   .content { margin-left: 22rem; }
-}
-
-.related-posts li a {
-  font-weight: normal;
-}
-
-/* Icon font styles */
-[class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-
-  /* "Better" Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.icon-icon-github:before {
-  content: "\e900";
-}
-
-.icon-icon-twitter:before {
-  content: "\e901";
-}
-
-.me {
-  width: 6.5rem;
-  margin-right: 1rem;
-  border-radius: 100%;
-  position: relative;
-  z-index: 2;
-  float: left;
-}
-
-.tag-description {
-  margin: 0;
-  font-size: 12px;
-}
-
-.post-section {
-  margin-bottom: 20px;
-  h3 { margin-bottom: 5px; }
 }

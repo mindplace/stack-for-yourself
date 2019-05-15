@@ -2,30 +2,30 @@
 
 // Our variables
 // $base-font-family: "Roboto Slab", "PT Serif", Georgia, serif;
-$base-font-family: 'Open Sans', sans-serif;
-$base-font-size:   14px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-font-family:        'Open Sans', sans-serif;
+$base-font-size:          14px;
+$base-font-weight:        400;
+$small-font-size:         $base-font-size * 0.875;
+$base-line-height:        1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:            30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:              #111;
+$background-color:        #fdfdfd;
+$brand-color:             #2a7ae2;
 
-$brand-click-color: #457EAC;
+$brand-click-color:       #457EAC;
 $brand-click-hover-color: #2D5D7B;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:              #828282;
+$grey-color-light:        lighten($grey-color, 40%);
+$grey-color-dark:         darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:           800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:                 600px;
+$on-laptop:               800px;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
