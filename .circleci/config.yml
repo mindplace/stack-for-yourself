@@ -14,14 +14,14 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Ruby dependencies
+          name: Install Ruby dependencies
           command: bundle install
       - run:
-          name: Node dependencies
+          name: Install Node dependencies
           command: sudo npm install -g firebase-tools
       - run:
-          name: Build
+          name: Build the Jekyll site
           command: bundle exec jekyll build --verbose
       - run:
-          name: Deploy
+          name: Deploy to Firebase
           command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
