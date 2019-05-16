@@ -236,6 +236,11 @@
     max-width: 60%;
     margin-left: 20rem;
     border-left: none;
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 }
 
