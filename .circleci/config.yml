@@ -5,7 +5,8 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby:latest
+      - image: circleci/node:latest
 
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
