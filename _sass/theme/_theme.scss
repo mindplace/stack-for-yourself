@@ -36,9 +36,6 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-
-  /* Prevent side-scrolling on mobile */
-  overflow-x: hidden;
   position: relative;
 }
 
@@ -127,33 +124,25 @@ pre {
   margin-bottom: 1rem;
   padding: 1rem;
   line-height: 1.4;
-  /* Prevent code linebreaks and allow side-scrolling (much better readability on mobile) */
-  /*white-space: pre;
   white-space: pre-wrap;
+  overflow-wrap: break-word;
+  white-space: pre;
   word-break: break-all;
-  word-wrap: break-word;*/
-  overflow-x: auto;
+  word-wrap: break-word;
   -webkit-overflow-scrolling: touch;
   background-color: #f9f9f9;
-
-  /* Make code same width as regular text, and scroll the full page width on mobile */
-  /*margin-left: -1rem;
-  margin-right: -1rem;*/
 }
+
 pre code {
   padding: 0;
   color: inherit;
   background-color: transparent;
-
-  // font-size: .75rem;
 }
 
-/* <del>Pygments</del> Rouge via Jekyll */
 .highlight {
   margin-bottom: 1rem;
-  /* Disableling the border radius prevents repainting when scrolling on mobile */
-  /*border-radius: 4px;*/
 }
+
 .highlight pre {
   margin-bottom: 0;
 }
@@ -199,18 +188,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
-/*
- * Custom type
- *
- * Extend paragraphs with `.lead` for larger introductory text.
- */
-
-// .lead {
-//   font-size: 1.25rem;
-// }
-
-
 /*
  * Messages
  *
@@ -223,8 +200,6 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
-  /*margin-left: -1rem;
-  margin-right: -1rem;*/
 }
 
 
@@ -237,10 +212,6 @@ tbody tr:nth-child(odd) th {
 .container {
   padding: 0 1rem;
   margin-left:  auto;
-  // margin-right: auto;
-
-  /* Prevent side-scrolling on mobile */
-  overflow-x: hidden;
   position: relative;
 }
 
