@@ -234,7 +234,7 @@
 @media (min-width: 48em) {
   .content {
     max-width: 60%;
-    margin-left: 20rem;
+    margin-left: 18rem;
     border-left: none;
 
     height: 100vh;
@@ -245,5 +245,5 @@
 }
 
 @media (min-width: 64em) {
-  .content { margin-left: 22rem; }
+  .content { padding-left: 4rem; }
 }
