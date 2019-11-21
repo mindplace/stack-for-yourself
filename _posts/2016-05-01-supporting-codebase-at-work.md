@@ -13,6 +13,7 @@ Always work to level up your ability to write better software: [best practice so
 <hr>
 
 ## Code and work
+* ["On being a senior engineer"](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * ["Do this on your first day at a remote job"](https://www.linkedin.com/pulse/do-your-first-day-remote-job-nicole-wosje/)
 * [Code calligraphy vs code scratch](https://medium.freecodecamp.com/what-is-shitty-code-handwriting-ae7c00708b#.2xp08elhl): very insightful article on both bad and good choices that turn out code.
 * [Forget technical debt, built technical wealth](https://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)): write code and build codebases that are sustainable, or how to not have legacy code from your first day.
