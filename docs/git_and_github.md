@@ -1,16 +1,6 @@
----
-layout: post
-title: "git and Github"
-shortnote: "The cornerstone tools to project management and sharing code."
-tags: [general, all]
-categories: [comp-sci]
----
-
-## Start here
+# git & Github
 
 [Github](https://github.com) and git are impossible to not bring up when talking about open source. git is a [command-line]({% post_url 2016-10-01-command-line %}) tool that lets you create and transverse a history of your project, making branches to add features or fix bugs while the master branch retains the cleanest and best working copy of your code. Github allows you to share your git repositories and contribute to the git repositories of other people.   
-
-<hr>
 
 ### git
 
@@ -20,8 +10,6 @@ categories: [comp-sci]
 * [Learning git branching](https://learngitbranching.js.org/)
 * Github's guide to [understanding the process of using git](https://guides.github.com/introduction/flow/) and seeing the process' flow.
 * ["Truncating git history"](https://passingcuriosity.com/2017/truncating-git-history/)
-
-<hr>
 
 ### Github
 

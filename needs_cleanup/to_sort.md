@@ -14,6 +14,7 @@ https://medium.freecodecamp.org/10-points-to-remember-thatll-help-you-master-cod
 
 https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd
 
+https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b
 
 https://howdns.works/
@@ -28,3 +29,13 @@ https://awkale.me/cheatsheets/
 
 
 https://codeburst.io/animate-your-react-in-2-mins-dd4b50c45976
+
+
+https://mtlynch.io/code-review-love/
+https://staffeng.com/guides/staff-archetypes
+Martin's recommendation: https://staffeng.com/
+Managing Technical Debt https://www.pluralsight.com/tech-blog/managing-technical-debt
+https://www.railsspeed.com/
+Engineering Wants to Rewrite! https://svpg.com/engineering-wants-to-rewrite/
+Complete Guide to Rails Best practices https://www.railsspeed.com/
+https://mtlynch.io/code-review-love/

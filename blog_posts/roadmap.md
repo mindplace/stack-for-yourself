@@ -1,3 +1,42 @@
+# Your Full Stack Roadmap
+
+## Hello world!
+
+You want to learn how to program. Hopefully you want to learn to build web applications. Or you're already a developer and want to keep working on your skills. Awesome! These docs are an aggregation of resources from around the web to help you learn to code.
+
+
+## Learning to code can be [really hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard).
+
+Don't give up.
+
+<img src="https://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png" width="100%">
+
+Your [first 100 hours](https://www.vikingcodeschool.com/posts/the-beginner-s-dilemma-your-first-100-hours-of-code) will probably be to be especially difficult: first you'll be on Codecademy or somewhere similar, getting the hang of variables and `puts` statements, and suddenly you'll find yourself trying to solve some sort of simple [algorithm](...) like [finding the nth Fibonacci number](https://www.programmerinterview.com/index.php/recursion/find-nth-fibonacci-number), and everything will break and you'll get frustrated, cry, and believe you're not cut out for this.
+
+Don't let this deter you. Keep at it and it will continue to make more and more sense. Make a plan, define your projects and your personal roadmap, reach out to others for help, direction, support, and community, and don't lose heart.
+
+Trust that you _really are_ cut out for this. [People of all ages and walks of life are cut out for this](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.1fo7o2wib)--your background means _nothing_. I personally hold 2 degrees in English literature and worked in HR/Compliance before deciding to pursue software engineering, and I couldn't be happier with my decision.
+
+<hr>
+
+## Essential competencies and your full-stack roadmap!
+
+<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/08/1409261668002.png" width="100%" alt="web development layers">
+
+## Stack For Yourself's Curriculum
+
+back-end:
+  name: Back-end Development
+  description: Back-end computing is the infrastructure of a website or application that is not usually visible to the user. It usually involves a database and a web framework working together to store information for the application, allowing developers to make HTTP requests for that information or to add information to the database.
+
+front-end:
+  name: Front-end Development
+  description: Front-end computing handles everything that a user of an application or website would interact with/view. Typically this involves HTML, styling with CSS, and creating user interaction with JavaScript. A purely front-end application would not connect to a database. For example, this website is purely front-end and has no database, makes no HTTP requests to a web framework, or depends on anything other than its own HTML, CSS, and JavaScript files.
+
+comp-sci:
+  name: Computer Science Fundamendals
+  description: Fundamental concepts include managing your tools and being able to use text editors and command-line interfaces to write and run code, irrespective of whether you are pursuing front-end, back-end, or full-stack web development.
+
 basics:
   text: Set up your development environment.
   links:
@@ -80,3 +119,45 @@ other-roadmaps:
     codeschool: <a href="https://discover-devtools.codeschool.com/">Codeschool</a>, lots of great, interactive tutorials, especially geared towards raw beginners. Some of them are behind paywalls, but it's very reasonable pricing.
     lynda: <a href="https://www.lynda.com/">Lynda</a>, video tutorials.
     lifehacker: <a href="https://lifehacker.com/5401954/programmer-101-teach-yourself-how-to-code">LifeHacker's "Programmer 101 Teach Yourself To Code"</a> article with plenty of links.
+
+<hr>
+
+## Bootcamps
+
+I really like the idea of <a href="https://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/">mastery learning</a>, which is when you learn or are taught a concept until you master it, before moving on to the next one. Ideally, you do it with the help of a mentor or community.
+
+If you choose to go to a bootcamp, <a href="https://www.linkedin.com/pulse/5-steps-get-most-out-coding-bootcamp-tom-goldenberg?trk=hp-feed-article-title-publish">get the most out of it</a>.
+
+**Free**
+
+* **Your own path.** Many software engineers are self taught, and _all_ engineers have to learn how to teach themselves at some point in their early journey. **You can learn everything you need to know without spending any money.** The catch is, you will need buckets of discipline.
+* [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): completely free, Ruby-based full-stack development program, with an amazing online community.
+* [FreeCodeCamp](https://www.freecodecamp.com): superb, completely free program, teaching from the front-end backwards, with an excellent and huge community which in many cities has local presence. Actively maintained and being expanded to include new courses such as one teaching D3.js.
+
+**Mentor-based bootcamps**
+
+* [Bloc.io](https://www.bloc.io/web-developer-career-track): a paid bootcamp whose model is to connect you with a developer who acts as a mentor.
+* [Thinkful](https://www.thinkful.com): similarly to Bloc.io, a paid bootcamp program connecting you to a mentor.
+
+**Traditional bootcamps**
+
+* [AppAcademy](https://www.appacademy.io/course/app-academy-open): probably the best one I can think of.
+* ...too many other great high-quality ones to name.
+*
+
+<hr>
+
+## Communities
+
+* Podcasts, such as, [Best podcasts for new coders](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.2tw6sfg9f)
+* Local [Meetup](https://meetup.com) groups and [Eventbrite events](https://eventbrite.com). These often take the form of workshops or classes, which is a great way to level up your skillset.
+* [Brooklyn Hackathon Events](https://www.eventbrite.com/d/ny--brooklyn/hackathon/?crt=regular&slat=40.5926724&slng=-73.9888682&sort=best&view=list)
+* [AngelHack](https://angelhack.com/), a company that hosts hackathons in different cities.
+* [Devpost](https://devpost.com/hackathons), a hackathon directory of online and in-person hackathons around the globe.
+* [Stack Overflow](https://stackoverflow.com)
+* [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+* [Gitter](https://gitter.im/) coding chatrooms
+* [NYCDevs Slack channel](https://nycdevs.slack.com/messages/general/)
+* [Find other Rubyists](https://www.reddit.com/r/ruby/comments/4jktya/where_do_rubyists_hang_out_online_these_days/)
+* [Ruby conferences](https://rubyconferences.org/)
+  * ["Get Your Conference Proposal Accepted"](https://schneems.com/blogs/2016-04-07-conference-proposal)

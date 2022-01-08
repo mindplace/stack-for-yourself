@@ -1,12 +1,4 @@
----
-layout: post
-title: "Understanding, consuming, and building APIs and data"
-shortnote: "Open APIs and free data sources."
-tags: [general, back-end, all]
-categories: [back-end, front-end]
----
-
-## Start here
+# Open APIs
 
 **Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
 

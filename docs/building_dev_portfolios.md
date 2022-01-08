@@ -1,11 +1,5 @@
----
-layout: post
-title: "Building your portfolio"
-shortnote: "Resources to help build out technical portfolios, get ideas, and contribute to open source."
-tags: [all, working, general]
-categories: [everything-else]
----
-## Start here
+# Building project portfolios
+
 Regardless of whether you're positioning yourself as front-end, back-end, full-stack, QA, or what-have-you...you need projects that showcase those skills.
 
 As a **front-end** developer, for example, you would make sure your Github repositories contain the following:
