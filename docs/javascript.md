@@ -1,12 +1,4 @@
----
-layout: post
-title: "JavaScript"
-shortnote: "Tutorials, articles, and resources."
-tags: [javascript, front-end, all]
-categories: [front-end]
----
-
-## Start here
+# JavaScript
 
 JavaScript has been around a pretty good long time, and has been getting much better over time. Because it's the only dynamic programming language supported by most browsers, it's an essential language for web development. It was named JavaScript to take advantage of Java's popularity at the time, although it is in no way at all related to Java. Later it was renamed EcmaScript, but colloquially it's still called JavaScript. [These talks covering a ton of JavaScript topics](https://talks.devbootcamp.com/?s=JavaScript) are a good place to start.
 

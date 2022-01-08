@@ -1,12 +1,12 @@
 ### Resources
 My collection of resources for software engineering.
 
-* [Building your portfolio](./docs/building_dev_portfolios.md)
+* [Ruby](./docs/ruby.md), my language of choice
+* [Programming languages](./docs/languages.md)
+* [APIs and data science](./docs/apis_and_data.md)
 * [git and Github](./docs/git_and_github.md)
-* [APIs](./docs/open_apis.md)
-* [Ruby](./docs/ruby.md)
+* [Building your portfolio](./docs/building_dev_portfolios.md)
 * [Working as a developer](./docs/working_as_a_developer.md)
-* [Writing your own programming language](./docs/writing_your_own_language.md)
 
 ### Blog posts
 Writing words about software.
