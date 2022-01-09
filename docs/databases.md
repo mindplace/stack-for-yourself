@@ -1,5 +1,7 @@
 # Databases
 
+Learn how to setup and use databases with your projects. Get really comfortable with SQL syntax.
+
 * [SQLtutor](https://github.com/audibleblink/sql-trainer), a learn-by-doing tutorial giving you lots of practice making different kinds of raw SQL queries.
 * [Database tables designing tool](https://github.com/ondras/wwwsqldesigner): before you can start coding up a new app, you must consider its basic data relationships.
 

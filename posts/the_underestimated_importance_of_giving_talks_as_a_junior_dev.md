@@ -1,15 +1,10 @@
----
-layout: post
-title: "The Underestimated Importance of Giving Talks as a Junior Developer"
-shortnote: "You don't have to be an expert. You just need to get yourself in front of people."
-tags: [blog]
----
+# The underestimated importance of giving talks as a beginner or junior engineer
 
 I can't say enough about the positive qualities of giving talks as you are job-hunting, especially as a junior developer fresh out of coding bootcamp, a self-taught program, or college. Here's my list of the most important reasons.
 
 ## 1. It makes you accountable to learning something really well.
 
-![n_plus_one_first]({{ site.baseurl }}/assets/img/n_plus_one_first.png)
+![n_plus_one_first](../assets/n_plus_one_first.png)
 
 When I applied to give this talk at Rails Camp at the United Nations during the summer of 2016, I knew nothing about [N+1 errors in Rails](https://estherleytush.com/2016/07/10/avoiding-n-plus-one-queries.html). In fact, my very first interview had asked me what N+1 errors were, and I had no idea. When I started digging, I realized that if I didn't know what they were, and could easily assume my fellow bootcampers didn't know what they were, I could probably help someone out by doing an introduction on this topic.
 
@@ -44,11 +39,11 @@ Thanks to that weekend, I not only landed an interview with a company and a slew
 > "Another way I’ve landed interviews is by presenting at a meetup. This is a much better way to meet people in the room, rather than just being another guy / girl in the audience. Be courageous and put yourself in front of others. Showcase your talent."
 <br><br>~ Tom Goldenberg, ["Open Letter to Employers on Behalf of Bootcamp Grads"](https://medium.com/@tomgoldenberg/open-letter-to-employers-on-behalf-of-bootcamp-grads-and-also-to-bootcamp-grads-b40a722ced85#.giztbxbz6)
 
-![recursion_talk]({{ site.baseurl }}/assets/img/recursion_talk.png)
+![recursion_talk](../assets/recursion_talk.png)
 
 After this recursion talk, a developer from Betterment took me aside and asked if I would be interested in working there: that translated very quickly into interviews.
 
-![nyc_rb_talk]({{ site.baseurl }}/assets/img/nyc_rb.png)
+![nyc_rb_talk](../assets/nyc_rb.png)
 
 After this (second) [N+1 Errors talk at NYC.rb meetup](https://www.meetup.com/NYC-rb/events/231306324/), I spoke with the CTO of [Groundwork](https://www.buildgroundwork.com/#main) who was in the audience. That turned into an interview as well, and they ended up making me an offer (I wrote about that [here](https://estherleytush.com/2016/10/20/five-offers-in-four-months.html)).  
 
@@ -77,3 +72,7 @@ Find your nearest technical meetups. If they aren't explicitly calling for talks
 Apply to speak at conferences for your chosen languages and technologies.
 
 It's a supercharger for your job hunt: don't miss out on making this opportunity for yourself.
+
+### Resources
+
+* ["Get Your Conference Proposal Accepted"](https://schneems.com/blogs/2016-04-07-conference-proposal)

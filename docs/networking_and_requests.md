@@ -1,10 +1,13 @@
 # Networking and web requests
 
+Learn a back-end web framework for the back-end language you chose. Back-end frameworks consist of files that are prewritten for you in the appropriate language, in order to take care of the initial setup of an application. They handle managing your database, creating the 'logic' of what your application can do, and they allow you to focus on working on the parts that are unique to your application instead of basic configurations that every application must have in order to be 'live' on a server. An example of a back-end web framework for Ruby is <a href="/2016/07/01/ruby-rails/">Rails</a>. Here's a <a href="https://www.unforgivableruby.com/post/114752678529/learning-web-developmentrails-without-spending">place to learn about web development concepts</a> within the context of Rails.
+
 * Mozilla's great introduction to [how the Internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 * heck out this [animated guide to how the internet works](https://internet.frontier.com/how-the-internet-works/)
 
 ### Internet basics
 
+* [How DNS works](https://howdns.works/)
 * [HTTP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html), a thorough primer on HTTP.
 * What's a web server? [This will tell you.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 * [Understanding status codes with Status Cats](https://http.cat/): every HTTP request has a response that is accompanied by a status code like `200 OK` or `500 Internal Server Error`, and these lovely felines can help you remember them.
@@ -42,7 +45,7 @@ To understand the concept behind using APIs to get information from a server, re
 #### JavaScript
 * ["A practical guide to fetch(), reduce() and formatting data from an external API"](https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb)
 * Use [Postman](https://www.getpostman.com/), a great, free tool that helps you with all aspects of using or developing APIs with JavaScript.
-* You'll need to understand CORS (cross-origin resource sharing). We have resources on that on our [networking basics](...) page.
+* You'll need to understand CORS (cross-origin resource sharing)
 
 <hr>
 

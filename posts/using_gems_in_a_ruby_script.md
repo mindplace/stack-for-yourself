@@ -1,11 +1,6 @@
----
-layout: post
-title: "Using gems in a Ruby script: pry"
-shortnote: "Getting started with pulling in additional libraries in a Ruby project."
-tags: [blog]
----
+# Using gems in a Ruby script
 
-Like many (most?) languages, when you execute a program in Ruby, it holds the entire program in memory while it executes. So in order to use external libraries and/or [gems]({% post_url 2016-07-01-ruby-gems %}), you'll need to let your program know to include them.
+Like many (most?) languages, when you execute a program in Ruby, it holds the entire program in memory while it executes. So in order to use external libraries and gems, you'll need to let your program know to include them.
 
 ## An example of when you'd want to include pry
 

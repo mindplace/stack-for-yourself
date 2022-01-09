@@ -1,12 +1,4 @@
----
-layout: post
-title: "Static & Simple Sites: Generators and Hosting"
-shortnote: "Jekyll and other static site generators."
-tags: [javascript, front-end, all]
-categories: [front-end]
----
-
-## Start Here
+# Static sites
 
 **What's a static site?**
 

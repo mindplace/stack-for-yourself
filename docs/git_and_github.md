@@ -19,5 +19,5 @@ git is a [command-line](...) tool that lets you create a history of project chan
 * [Github MarkDown tutorial](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Make a gist](https://gist.github.com/): a free way to share code snippets, super useful tool. Can also be embedded in sites!
 * [Make repo show pages on Github using gh-pages](https://help.github.com/articles/creating-project-pages-manually/), and [here's Github's intro to it](https://pages.github.com/).
-* Github's guide to [using a custom domain for your Github Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) and [configuring a publishing source for Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/). (Do you need to understand more about domains? Check out our [resources on networking and the Internet]({% post_url 2016-10-01-networking-basics %}).)
+* Github's guide to [using a custom domain for your Github Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) and [configuring a publishing source for Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
 * Guide to [Github Issues](https://guides.github.com/features/issues/)

@@ -1,13 +1,8 @@
----
-layout: post
-title: "Guide to Getting Started with Ruby"
-shortnote: "Get Ruby installed on your local computer."
-tags: [blog]
----
+# Getting started with Ruby on your computer
 
 ### Are you developing on a Windows or Linux computer?
 
-Then this guide will not work for you. These things might:
+This guide will not work for you. These things might:
 
 * Official list of ways to install Ruby, as given [by the documentation](https://www.ruby-lang.org/en/documentation/installation/).
 * **Windows users**: try [this RubyInstaller](https://rubyinstaller.org/), or this [TeamTreeHouse Rails installation guide](https://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application/getting-started-with-rails/installing-rails-windows).
@@ -19,7 +14,7 @@ Yes? Okay, you're good to go.
 
 No? **Don't go any further before learning about your Terminal.** Here's resources to get you started:
 
-* Our [Command line interfaces]({% post_url 2016-10-01-command-line %}) introduction
+* [Command line interfaces](../docs/command_line_ui.md) introduction
 * TeamTreeHouse's [introduction to the Mac Terminal](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * Ashley Noland's great guide to [getting started with Terminal](https://ashleynolan.co.uk/blog/getting-started-with-terminal)
 * Take the [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html), a really excellent and concise tutorial getting you up and running with navigating the shell and writing bash commands.
@@ -83,10 +78,10 @@ Check the output to make sure everything installs as expected.
 In the terminal, type the following:
 
 ```
-rbenv install 2.6.0
+rbenv install 3.0.3
 ```
 
-This command tells `rbenv` to install Ruby, specifically Ruby version 2.6.0. There are other versions, but this is a good, current version (as of Jan 18, 2017).
+This command tells `rbenv` to install Ruby, specifically Ruby version 3.0.3.
 
 This will also take some time.
 
@@ -105,10 +100,10 @@ There won't be any output when you run this command.
 Now, let's set the correct Ruby version to be used whenever you want to write some Ruby code and run it:
 
 ```
-rbenv global 2.6.0
+rbenv global 3.0.3
 ```
 
-This means, "Set the global version of Ruby in this computer to be 2.6.0".
+This means, "Set the global version of Ruby in this computer to be 3.0.3".
 
 Finally, run the following code:
 
@@ -116,7 +111,7 @@ Finally, run the following code:
 gem update --system
 ```
 
-This will update where your gems will download, making sure they will always download to a subfolder within the Ruby 2.6.0 version, which will allow you access. This will also ensure you have the most recent version of [rubygems](https://rubygems.org/) installed on your computer, to allow you to download gems from here on.
+This will update where your gems will download, making sure they will always download to a subfolder within the Ruby 3.0.3 version, which will allow you access. This will also ensure you have the most recent version of [rubygems](https://rubygems.org/) installed on your computer, to allow you to download gems from here on.
 
 <hr>
 
@@ -149,4 +144,4 @@ You can write Ruby files on your computer now. Here's a list of things to try ou
   * Save your file.
   * In your terminal, run the file using the command `ruby test_file.rb` and see whatever output be printed on the screen.
 
-* **Continue your learning** by checking out our [resources on Ruby]({% post_url 2016-07-01-ruby-overview %}).
+* **Continue your learning** by checking out my [resources on Ruby](../docs/ruby.md).

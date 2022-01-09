@@ -1,11 +1,6 @@
----
-layout: post
-title: "Accessing APIs with Ruby: a tutorial"
-shortnote: "Using 'open-uri' and JSON to get data from an API with Ruby."
-tags: [blog]
----
+# Accessing APIs with Ruby
 
-**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
+**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks](../docs/networking_and_requests.md).**
 
 Ruby's [`open-uri`](https://ruby-doc.org/stdlib-2.1.2/libdoc/open-uri/rdoc/OpenURI.html) is a built-in library used to help make HTTP requests. Ruby's [`json`](https://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html) module is also great to know for parsing JSON data into Ruby hashes.
 

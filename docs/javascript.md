@@ -2,18 +2,13 @@
 
 JavaScript has been around a pretty good long time, and has been getting much better over time. Because it's the only dynamic programming language supported by most browsers, it's an essential language for web development. It was named JavaScript to take advantage of Java's popularity at the time, although it is in no way at all related to Java. Later it was renamed EcmaScript, but colloquially it's still called JavaScript. [These talks covering a ton of JavaScript topics](https://talks.devbootcamp.com/?s=JavaScript) are a good place to start.
 
-ES6 has just come out, bringing with it a lot of changes to syntax and execution, most of them very timely. Check out this [ES6 cheatsheet](https://es6cheatsheet.com/) which acts as a good intro to changes from ES5.
-
-Get some context on the JavaScript eco system:
-
 * ["A Beginner's JavaScript Study Plan"](https://medium.freecodecamp.com/a-beginners-javascript-study-plan-27f1d698ea5e#.y13jz4xrt) to putting together a JavaScript study plan.
 * ["Modern JavaScript for Ancient Web Developers"](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
 * Grab's entire team of engineers use [this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41).
-* [The State of JavaScript, 2017](https://stateofjs.com/)
+* [The State of JavaScript](https://stateofjs.com/)
+* Try out [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to run HTML, CSS, and JavaScript together to see output.
 
-<hr>
-
-### Tutorials and guides to get you started with JavaScript
+### Tutorials and guides to get you started
 
 * *[Javascript & JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)*, by Jon Ducket
 * *[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c7b995d73f150026cf997ec106ca37d3)*, by Marjin Haverbeke, and there's a [free version available on his site as well](https://eloquentjavascript.net/).
@@ -24,7 +19,11 @@ Get some context on the JavaScript eco system:
 * [JavaScript mini-course](http://ejohn.org/apps/learn/)
 * Build 30 vanilla JavaScript projects with [this free course by Wes Bos](https://javascript30.com/)
 
-<hr>
+### Browser dev tools
+You need to be able to peer into how the JavaScript on any page is working.
+
+* Chrome [dev tools](https://developer.chrome.com/devtools)
+* Mozilla [developer tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 ### Articles, cheatsheets, documentation, and important concepts
 * [Awesome collection of courses](https://frontendmasters.com/courses/)
@@ -39,6 +38,7 @@ Get some context on the JavaScript eco system:
 * [JSON Web Token](https://jwt.io/introduction/)
 * Understanding [data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) with JavaScript
 * [Building Progressive Web Applications](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.yiz8t9ww9) rather than native apps on phones.
+* [ES6 cheatsheet](https://es6cheatsheet.com/)
 
 #### JavaScript objects: making and using them
 * Understanding JavaScript's [prototypal inheritance using CSS](https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.rvqrqs27e)
@@ -69,8 +69,6 @@ Get some context on the JavaScript eco system:
 #### Regular Expressions with JavaScript
 * [Scriptular](https://scriptular.com/), a regular expression checker.
 
-<hr>
-
 ## Build tools, task runners, and important supporting tools
 Don't [flounder among the many build tools and task runners out there](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.aqjw9cj0q). You do ned at least one or two of them in your workflow, so get familiar with these big ones.
 
@@ -83,23 +81,9 @@ Don't [flounder among the many build tools and task runners out there](https://m
 * [webpack](https://webpack.github.io/): a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles (often only one) to be loaded by the browser. [webpack documentation is here.](https://webpack.js.org/concepts/). To get started, [take the webpack course](https://webpack.academy/p/the-core-concepts) that the creator of webpack made.
 * [Flux](https://facebook.github.io/flux/) and/or [Redux](https://redux.js.org/): these are tools that manage front-end application state and storage. [Here's an article discussing the two](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/).  
 
-<hr>
-
-## Great libraries to know
-
-### jQuery
-jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/technologies/details/js-jquery/all/all) use it), but [you might not need it](https://github.com/oneuijs/You-Dont-Need-jQuery), and your project may be better off without it.
-
-* [Introduction to jQuery](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
-* [Official documentation](https://api.jquery.com/), and a very good one too
-* [Events documentation](https://api.jquery.com/category/events/)
-* [Creating tabs with jQuery](https://www.mkyong.com/jquery/how-to-use-css-and-jquery-to-hide-and-show-tab-content/)
-* ["I still love jQuery -- and you should, too."](https://hackernoon.com/i-still-love-jquery-and-you-should-too-3114f33f249e)
-
 ### Data visualization libraries
 * [D3 data visualization](https://github.com/d3/d3), the go-to library for data visualization with JavaScript. Also check out these [D3 code snippets](https://bl.ocks.org/) to get started. There's plenty of [other JavaScript libraries for data visualization](https://www.sitepoint.com/twelve-javascript-libraries-data-visualization/) out there as well.
 * [Google Visualizations](https://developers.google.com/chart/interactive/docs/reference#development-tip)
-
 
 ### Other libraries to know
 * [moment.js](https://momentjs.com/): A great library for date and time that comes with a ton of useful date and time functions. This is definitely a production-level library.
@@ -108,16 +92,24 @@ jQuery is incredibly popular ([over 70% of all sites](https://w3techs.com/techno
 * [Bluebird](https://bluebirdjs.com/docs/getting-started.html) promises: a very useful, production-level library making it easy to make and use asynchronous promises in JavaScript.
 * [Lodash.js](https://lodash.com/): Great library that dramatically extends basic array, collection, etc functionality so you don't have to write your own every time. Production-level library that's widely used.
 
-<hr>
-
 ## Writing tests for JavaScript
 * [Tutorial on getting setup with Jasmine gem](https://jasmine.github.io/2.4/introduction.html)
 * [Jasmine syntax and methods](https://jasmine.github.io/2.4/introduction.html)
 * [Testing jQuery with Jasmine](https://github.com/velesin/jasmine-jquery)
 
-<hr>
-
 ## Free stuff
-Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
+* Lots of people give away small bits of code for free. This is a super amazing place to start looking at that stuff: [Codyhouse](https://codyhouse.co/), a place for free tiny JS, HTML & CSS things.
+* [Here's a huge compilation of JavaScript libraries and tools](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030), free to use and enjoy.
 
-* Want more? [Here's a huge compilation of JavaScript libraries and tools](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030), free to use and enjoy.
+### Node.js
+Not actually a framework, it's basically JavaScript on the back-end. Node.js plus [Express.js](https://expressjs.com/) is the beginning of a beautiful back-end app!
+
+* [Documentation](https://nodejs.org/en/docs/)
+* [Node status](https://status.npmjs.org/): great site if you're precompiling and something goes wrong with downloading Node.
+* [NodeSchool](https://nodeschool.io/)
+* [OverAPI Node.js Cheatsheet](https://overapi.com/nodejs)
+* [*Node.js Beginner*](https://www.nodebeginner.org/) book
+* [*Node.js In Action*](https://www.manning.com/books/node-js-in-action)
+* Get started with [installing Node on your computer](https://docs.npmjs.com/getting-started/installing-node). You can also [use a package manager that your computer already uses](https://nodejs.org/en/download/package-manager/) to download and install Node.
+* Learn more about Node [from one of the developers who built it at Google](https://medium.freecodecamp.com/an-interview-with-matt-loring-an-engineer-on-googles-nodejs-runtime-team-3de1adddffdd)
+* ["Understanding Node.js's event-driven architecture"](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)

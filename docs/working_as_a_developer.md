@@ -1,18 +1,13 @@
 # Looking for work
 
-Before you do anything else, connect with the [technical community]({% post_url 2016-05-01-coding-community %}), especially locally. Most jobs aren't posted, and developer jobs are no different. You need to know people who know about jobs in their network, and who would recommend you into those roles.
+Before you do anything else, connect with the tech community, especially locally. Most jobs aren't posted, and developer jobs are no different. You need to know people who know about jobs in their network, and who would recommend you into those roles.
 
-[Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and information.
-
-[Negotiating your salary](https://www.kalzumeus.com/2012/01/23/salary-negotiation/): understanding how to carry out a salary negotiation and what context your negotiation partner is coming from.
-
-Remember that half, if not more, of the skills you need are soft skills. Here's a [fantastic guide on how to prepare for the soft-skills part of a developer interview](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466).
-
-
-* Put together your [portfolio]({% post_url 2016-05-01-portfolio %}).
+* [Negotiating job offers](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.wh6xk26pl): a brilliant mindset and information.
+* [Negotiating your salary](https://www.kalzumeus.com/2012/01/23/salary-negotiation/): understanding how to carry out a salary negotiation and what context your negotiation partner is coming from.
+* Half, if not more, of the skills you need are soft skills. Here's a [fantastic guide on how to prepare for the soft-skills part of a developer interview](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466).
+* Put together your [portfolio](../posts/building_dev_portfolios.md).
 * Build your resume using [Creddle](https://resume.creddle.io/): give it your resume content, select a theme or two, and see an amazing-looking resume pop out.
-
-<hr>
+* [An opinionated guide to writing a tech resume](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ovj364sio), courtesy of a developer who has hired other developers.
 
 ## Finding work
 Want to freelance? [Be prepared to handle clients](https://blog.hightail.com/how-to-handle-clients-by-a-client/).
@@ -46,8 +41,6 @@ Read about how digital nomads [talk about their work schedule](https://gigigriff
 * [Hacker Paradise](https://www.hackerparadise.org/), a group that organizes trips all over the world for developers, designers, and entrepreneurs who want to travel while working remotely or focusing on personal projects.
 * [Nomadlist](https://nomadlist.com/), a searchable, tagged compilation of cities for remote work.
 
-<hr>
-
 ## Searching for work after coding bootcamp
 As an inexperienced developer, you'll be at a disadvantage...but you [can still land a job. It's just harder](https://simpleprogrammer.com/2016/09/12/software-development-job-without-experience/).
 
@@ -64,11 +57,6 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 * ["Sorry, developer bootcamps: I was wrong."](https://medium.com/@dillonforrest/sorry-developer-bootcamps-i-was-wrong-ea37fcc5572c) "...most perceptions towards bootcamp grads are wrong."
 * ["8 tips when starting your developer career after code school"](https://www.codefellows.org/blog/8-tips-when-starting-your-dev-career-after-code-school/)
 
-<hr>
-
-## Preparing for technical interviews
-
-* [An opinionated guide to writing a tech resume](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ovj364sio), courtesy of a developer who has hired other developers.
 
 **Algorithms and Coding Challenges**
 
@@ -93,7 +81,6 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 
 **Front-end Interviews**
 
-* ["Preparing for a front-end web development interview in 2017"](https://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 * ["A developer's guide to interviewing"](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 * ["The Definitive JavaScript Handbook for your next developer interview"](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
@@ -113,35 +100,19 @@ As an inexperienced developer, you'll be at a disadvantage...but you [can still 
 
 # Working as a developer
 
-Always work to level up your ability to write better software: [best practice software resources]({% post_url 2016-11-01-best-practice-software %}) can help you in this quest.
+Always work to level up your ability to write better software.
 
-<hr>
+Good code design is paramount these days for good software that creates value for users--that is, software that is good and enjoyable to use. I suggest that to that end, a good definition for 'good design' is, *good design is when a creator makes thoughtful decisions by taking into account everything that reasonably impacts their target/known user base*. There's nothing frou-frou or easy about good design, nor is it primarily concerned with how things look. It's a fundamental approach that needs to affect every aspect of your software.
 
+## Writing better software and leveling up as a developer
 
-Good design is paramount these days for good software that creates value for users--that is, software that is good and enjoyable to use. I suggest that to that end, a good definition for 'good design' is, *good design is when a creator makes thoughtful decisions by taking into account everything that reasonably impacts their target/known user base*. There's nothing frou-frou or easy about good design, nor is it primarily concerned with how things look. It's a fundamental approach that needs to affect every aspect of your software.
-
-<hr>
-
-## Awesome software
-
-* ["Slack's 2.8 Billion Dollar Secret Sauce"](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908#.kx1zffnv8)
-
-<hr>
-
-## Resources for writing better software
-More resources can be found on our [page for supporting codebases at work]({% post_url 2016-05-01-supporting-codebase-at-work %}).
-
+* * ["Slack's 2.8 Billion Dollar Secret Sauce"](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908#.kx1zffnv8)
 * CodingHorror's awesome post, ["Password rules are bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/)
 * *[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=503f5f6539e7c33836f1f848b424295f)*, by Martin Fowler
 * *[Beautiful Code: Leading Programmers Explain How They Think](https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=9584716c6027fccff9c12e866f3353a2)*, by Andy Oram
 * *[Debugging: The 9 Indispensable Rules For Finding Even the Most Elusive Software and Hardware Problems](https://www.amazon.com/gp/product/0814474578/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=7c11d9e624328bb8242dc11e9c73e0d7)*, by David J Agans
 * *[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&dpID=51szD9HC9pL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1M5H8SBQF96ZHXYV1RQ2&linkCode=ll1&tag=eejs-20&linkId=530b7fcb4f0e734b7952559730673cae)*, by Erich Gamma
 * *[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4bdd44ebc587c423a1986285edd66e2c)*, by Kent Beck
-
-<hr>
-
-## Becoming a better developer
-
 * *[Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)*
 * [Level up as a dev](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.2x5iu4n2i), great article.
 * ["If you want to level up as an engineer, read the code. All of it."](https://medium.com/@mrjoelkemp/a-single-action-that-will-level-you-up-as-a-software-engineer-d5cd2d0e4787)
@@ -170,18 +141,17 @@ More resources can be found on our [page for supporting codebases at work]({% po
 
 <hr>
 
-
 # Contribute to open source
 
 Open source contributions are basically when people share code they've written with others, who can use that code for free (although [licensing has an effect on what you can do with open source code](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)). This project is open source, for example. It's what makes it possible for you to take a copy of this project, make some changes, and request that those changes be merged into the main project branch.
 
 [Opensource.guide](https://opensource.guide/) is a great series of guides to helping you get started with open source, whether as a creator or a contributor.
 
-Open source contributions tend to take the form of contributing your work to projects that are already available, but you can also write code for other people to use, for example making a [Ruby gem]({% post_url 2016-07-01-ruby-gems %}).
+Open source contributions tend to take the form of contributing your work to projects that are already available, but you can also write code for other people to use, for example making Ruby gems.
 
-Girl Develop It put together a great presentation on the topic, [get the PDF here]({{ site.baseurl }}/static/girl-develop-it-oss.pdf).
+Girl Develop It put together a great presentation on the topic, [get the PDF here](../assets/girl-develop-it-oss.pdf).
 
-An essential element of open source contributions is [a grasp of git and Github]({% post_url 2016-05-01-github %}).
+An essential element of open source contributions is [a grasp of git and Github](./git_and_github.md).
 
 ### Find projects to contribute to
 
@@ -190,7 +160,6 @@ An essential element of open source contributions is [a grasp of git and Github]
 * [CodeTriage](https://www.codetriage.com/)
 * [CodeForAmerica](https://www.codeforamerica.org/), check out their volunteer/code wanted section [here](http://www.codeforamerica.org/geeks/civicissues).
 * [UpForGrabs](https://up-for-grabs.net/#/)
-
 
 ## Books
 
@@ -202,69 +171,6 @@ An essential element of open source contributions is [a grasp of git and Github]
 * *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c3a14417e3124e233330982128167324)*, by Jez Humble
 * *[The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=2d8a96b2cfd6021bcb12e268e0213937)*, by Fowler
 
-# Tools
-
-Make sure you [get the right tools installed on your computer](https://installfest.railsbridge.org/installfest/installfest) to start developing for the web (still applicable if you aren't going to use Rails).
-
-#### Your most essential tools:
-* A text-editor (some options below)
-* A good web browser (some options below)
-* A grasp of how to use [git and Github]({% post_url 2016-05-01-github %})
-
-And take the time to read this great essay on the [maker's schedule](http://www.paulgraham.com/makersschedule.html), by Paul Graham of [Y-Combinator](https://www.ycombinator.com/).
-
-<hr>
-
-### Text editors
-These are programs inside of which you'll be writing into and saving code files. You will need to download one in order to write code, even if you make an account with one of the free online code editors below.
-
-* [repl.it](https://repl.it/): a beautiful, simple code editor that you can use online, free, to run code in a variety of languages, such as Ruby, Python, JavaScript, etc.
-* [JSFiddle](https://jsfiddle.net/), a free online tool allowing you to run HTML, CSS, and JavaScript together to see output.
-* [Atom](https://atom.io/) is a text editor built by Github (and my go-to!).=
-  * Atom's [official documentation and resources](https://atom.io/docs)
-  * Atom [shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
-  * [Packages](https://atom.io/packages), or add-ons that you can download to make Atom even more awesome.
-* [Sublime](https://www.sublimetext.com/) is probably the most popular text editor.
-  * Sublime's [official documentation and resources](https://docs.sublimetext.info/en/latest/)
-  * Sublime [shortcuts](https://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
-  * [PackageControl](https://packagecontrol.io/) for Sublime, add-ons that you can download to make Sublime even more useful.
-* vim - An important text editor but one that can only be navigated with keyboard shortcuts, so it has a steep learning curve. But it's really worth it to be able to create and edit files at the speed of thought. If you're on a Mac or Linux OS, your computer already has it installed! That said, treat yourself to a better version via [MacVim](https://github.com/macvim-dev/macvim) (which supports non-Mac computers as well).
-  * [vim's official documentation](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
-  * [StackOverflow answers on most-used vim shortcuts](https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses)
-  * ["Best of Vim tips"](https://rayninfo.co.uk/vimtips.html)
-  * [OpenVim tutorial](https://www.openvim.com/tutorial.html)
-  * [Vim Adventures](https://vim-adventures.com/)
-  * [Graphical vim cheatsheet](https://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
-  * Another [vim keyboard shortcuts cheatsheet](https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/)
-  * One more [vim commands cheatsheet](http://www.angelwatt.com/coding/notes/vim-commands.html)
-  * Super-simple [Vim cheatsheet](https://vim.rtorr.com/)
-  * ["How I Learned to Love Vim"](https://medium.freecodecamp.org/how-i-learned-to-love-vim-ce3e058d57fb)
-  * ["Learning Vim: What I Wish I Knew"](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) - Hacker Noon
-
-### Browser dev tools
-You need to be able to peer into how the page is doing its thing in any browser you're developing in.
-
-* Chrome [dev tools](https://developer.chrome.com/devtools)
-* Mozilla [developer tools](https://developer.mozilla.org/en-US/docs/Tools)
-
-<hr>
-
-### Virtual machines, development environments, and Docker
-* [Docker: difference between images and containers](https://stackoverflow.com/questions/23735149/docker-image-vs-container)
-* [Getting started and check status commands](https://docs.docker.com/machine/get-started/)
-* [Understanding the Docker ecosystem](https://resources.codeship.com/ebooks/docker-ecosystem?utm_source=rubyweeklysecondary), a free book
-* [Using Vagrant VMs for Rails development](https://gorails.com/guides/using-vagrant-for-rails-development)
-
-<hr>
-
-### Support for computers and programs you'll be using
-* [Developing on a Chromebook: Tutorial for getting started](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d#.ayk5cv7w1)
-* [Atom text editor keyboard cheatsheet](https://blog.bugsnag.com/atom-editor-cheat-sheet)
-* [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?utm_source=gmail), a great Chrome extension to help you open multiple links from a web page.
-* Mac users: check out [this amazing bunch of official Apple newsletters](https://lists.apple.com/mailman/listinfo) that allow you to listen in to conversations developers are having with building Mac products, and think about issues like security, etc. [Here's a wonderful guide to securing your Mac computer](https://github.com/drduh/macOS-Security-and-Privacy-Guide).
-
-<hr>
-
 ### Agile: managing development
 What is Agile? It's a way of working in teams, permitting you to be more, well, agile. The [Agile Manifesto](https://agilemanifesto.org/) is the basis for this concept. Agile is wildly popular among development teams, and used extremely widely, so it's a good idea to understand what working within an Agile environment is like.
 
@@ -272,16 +178,4 @@ What is Agile? It's a way of working in teams, permitting you to be more, well, 
 * [Practices of an Agile developer](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)
 * ThoughtBot’s [Playbook](https://playbook.thoughtbot.com/), an explanation of how ThoughtBot builds software via Agile. In-depth and extremely thought-provoking.
 * ThoughtBot's [guides to working in teams with various technologies](https://github.com/thoughtbot/guides), hugely valuable reading.
-
-<hr>
-
-### Project organization
-* [Evernote](https://www.evernote.com), for organizing all your projects and papers.
-* [Asana](https://asana.com/), helping teams keep on track on projects.
-
-<hr>
-
-### Managing your time
-* [Pomodoro timeboxing technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): lots of Chrome extensions for that. I personally use [this amazing Mac app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12).
-* [Rescue Time](https://www.rescuetime.com/): get metrics on how you spend your time
-* Software time estimations are laughably awful. [Here's a translation table for what estimations actually mean for a project.](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
+* On the [maker's schedule](http://www.paulgraham.com/makersschedule.html), by Paul Graham of [Y-Combinator](https://www.ycombinator.com/).

@@ -1,14 +1,13 @@
 # Ruby
 
-Check out our [guide to installing Ruby on your local computer]({% post_url 2017-01-18-getting-started-with-ruby-on-a-mac %}).
+Check out my [guide to installing Ruby on your local computer](../posts/getting_started_with_ruby.md).
 
 Check out [Team Treehouse's list of Ruby projects](https://blog.teamtreehouse.com/coolest-ruby-projects-ever). Ruby is written in C, and you can look at [its source code on Github](https://github.com/ruby/ruby/) because it's an open source language, which is how you're able to learn it for free. Also, there's a project to
 [write a Ruby compiler in Ruby](https://hokstad.com/compiler) as part of a fun effort to write Ruby in Ruby (as opposed to C).
 
 Definitely take a look at the [Ruby core object model](https://www.gliffy.com/go/publish/5152080) to get a sense for how it organizes itself.
 
-Probably the best reason to learn Ruby is to be able to build things on/for the web and have a lot of fun while doing it. So check out [Rails]({% post_url 2016-07-01-ruby-rails %}) and other [Ruby frameworks]({% post_url 2016-07-01-ruby-frameworks %}) for building with
-Ruby on the web.
+Probably the best reason to learn Ruby is to be able to build things on/for the web and have a lot of fun while doing it. So check out Rails and other Ruby frameworks for building with Ruby on the web.
 
 ## Essential resources
 * [Official Ruby documentation](https://ruby-doc.org/): a go-to place to find built-in Ruby methods.
@@ -87,10 +86,6 @@ Ruby on the web.
 
 There's a lot of great Ruby books. Below are a few of the greats, and if that's not enough, [there's more here](http://blog.ozim.eu/2016/04/29/books-every-ruby-slash-rails-dev-should-read).  
 
-*[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, one of the most in-depth looks at Ruby and programming concepts in general.
-
-In terms of interactive tutorials, [Ruby Koans](http://rubykoans.com/) is so very good. Definitely do it!
-
 ### Free Ruby books online
 
 * *[Learn to Program](https://pine.fm/LearnToProgram/)*, by Chris Pine, particularly accessible if you're a complete beginner.
@@ -98,7 +93,7 @@ In terms of interactive tutorials, [Ruby Koans](http://rubykoans.com/) is so ver
 * *[Why's Poignant Guide to Ruby](https://poignant.guide/)*, one of the oddest Ruby books you'll come across, both fun and informative.
 * *[The Bastard’s Book of Ruby](http://ruby.bastardsbook.com/toc/)*, really thoughtfully put together and superbly informative. The author, Dan Nguyen, has also written another awesome book for Regular Expressions in Ruby, called *[The Bastard's Book of Regular Expressions](http://regex.bastardsbook.com/)*.
 
-### Not free, but get these anyway
+### Best of the books
 
 * *[The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)*, by David Black, hands down one of the most in-depth looks at Ruby and programming concepts in general.
 * *[Practical Object-Oriented Design in Ruby](https://www.poodr.com/)*, by Sandi Metz. Affectionately called POODR, this is one of the most beloved Ruby books written.
@@ -126,37 +121,25 @@ In terms of interactive tutorials, [Ruby Koans](http://rubykoans.com/) is so ver
 
 Ruby gems are modular libraries that are meant to be sort of plug-and-play for Ruby projects and apps. Many are meant for or compatible with Rails.
 
-Check out [Awesome Ruby](https://ruby.libhunt.com/) which shows different gems in groups and compares them (since many gems are out there to support the same features).
-<hr>
+* Check out [Awesome Ruby](https://ruby.libhunt.com/) which shows different gems in groups and compares them (since many gems are out there to support the same features).
+* [pry](https://github.com/pry/pry), possibly the best Ruby debugger tool out there right now.
+* [unirest](https://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](https://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax, and as an alternative to [HTTParty](https://github.com/jnunemaker/httparty)
 
 ### Building your own
 * [RailsCasts: build a new gem with bundler](http://railscasts.com/episodes/245-new-gem-with-bundler), probably the easiest way to get started
 * [RubyGems](https://guides.rubygems.org/rubygems-basics/)'s own guide and documentation for building a new gem. (That's the site that aggregates them and from where you download gems via the `gem install [gem_name]` command.)
 
-
-## Especially good to know
-* [pry](https://github.com/pry/pry), possibly the best Ruby debugger tool out there right now.
-* [unirest](https://unirest.io/ruby), helping you make very clean http requests without the headache of [Net::HTTP](https://ruby-doc.org/stdlib-2.3.1/libdoc/net/http/rdoc/Net/HTTP.html) syntax, and as an alternative to [HTTParty](https://github.com/jnunemaker/httparty)
-
-### A general list
-* [emittr](https://github.com/talyssonoc/emittr), an event listener.
-* [github_api](https://github.com/piotrmurach/github) gem, a Ruby wrapper for making requests to the official Github API.
-* [soda-ruby](https://github.com/socrata/soda-ruby), a gem to parse Government Open Data.
-* [destroyed_at](https://github.com/DockYard/ruby-destroyed_at): adds awesome functionality for a Rails app; instead of actually destroying a record of something, it's instead marked as destroyed, so you can restore it if needed.
-* [materialize-sass](https://github.com/mkhairi/materialize-sass), Google's [Materialize]({% post_url 2016-06-01-front-end-frameworks%}) CSS framework in SASS format.
-* [google_visualr](https://github.com/winston/google_visualr): "A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart."
-
 <hr>
 
 # Rails
 
-**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
+**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks](./networking_and_requests.md).**
 
 Rails powers some very cool sites online, like [Shopify](https://www.shopify.com/), [AirBnB](https://www.airbnb.com/), [Basecamp](https://basecamp.com/), [Bloomberg](https://www.bloomberg.com/), [Couchsurfing](https://www.couchsurfing.com/), [Github](https://github.com/), [Goodreads](https://www.goodreads.com/)... and on and on. Ruby, especially on Rails, has a tremendous amount of power for building and deploying quickly, making it especially popular among startups.
 
 Use [Kaffeine](https://kaffeine.herokuapp.com/) if you are hosting your site on Heroku and don't wait it to sleep at the wrong times!
 
-Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for [Sinatra]({% post_url 2016-07-01-ruby-frameworks %})).
+Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (but keep in mind that its actual syntax is meant more for Sinatra).
 
 [Here are the different areas you need to be competent in](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard?__s=uvtabrbrcctximf9dhin) in order to work with Rails. It's a great high-level but concise overview.
 
@@ -291,9 +274,9 @@ Get clarity on your RESTful routes with [Restular](http://www.restular.com/) (bu
 
 # Other frameworks
 
-**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks]({% post_url 2016-10-01-networking-basics %}).**
+**Prerequisite: [understand how the Internet works, how apps make and respond to requests, and other essential networks](./networking_and_requests.md).**
 
-There's more to Ruby web frameworks than [Rails]({% post_url 2016-07-01-ruby-rails %})! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016) is a lineup.
+There's more to Ruby web frameworks than Rails! [Here](https://www.icelab.com.au/notes/next-generation-ruby-web-apps-with-dry-rb-rom-rb-and-roda-reddotrubyconf-2016) is a lineup.
 
 Get clarity on your RESTful routes with [Restular](http://www.restular.com/), an awesome tool.
 

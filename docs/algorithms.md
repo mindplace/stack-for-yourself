@@ -1,6 +1,10 @@
 # Algorithms
 Algorithms are small, self-contained code solutions written to solve specific problems. An algorithm takes some data and manipulates or analyzes it in some way to produce some result. Sometimes they require cleverness, often require loops, and even more often require different kinds of data structures to solve. Algorithms are very commonly used as interview questions.
 
+Learn the language you've chosen by solving small problems, called algorithms. Then graduate to more challenging algorithims, learn and use data structures, and understand essential concepts like Object Oriented Programming. Everything you'll learn will only improve your grasp of the back-end language you've chosen.
+
+Solving algorithms builds your fluency with your chosen language, and they tend to really help you learn that language. They're an essential part of finding work as well, as most jobs reqiure that the applicant solve one or more algorithms at the technical interview.
+
 * Check out [Algosaur](http://algosaur.us/), a graphic guide to algorithms!
 * Take these free Coursera courses: [Algorithms I and II](https://www.coursera.org/course/algs4partI).
 

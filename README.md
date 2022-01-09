@@ -1,17 +1,24 @@
 ### Resources
 My collection of resources for software engineering.
 
-* [Ruby](./docs/ruby.md), my language of choice
-* [Programming languages](./docs/languages.md)
-* [APIs and data science](./docs/apis_and_data.md)
+* [Tools](./docs/tools.md)
+* [Command line interfaces](./docs/command_line_ui.md)
 * [git and Github](./docs/git_and_github.md)
-* [Building your portfolio](./docs/building_dev_portfolios.md)
+* [Programming languages](./docs/languages.md)
+* [Ruby](./docs/ruby.md), my language of choice
+* [Computer science fundamentals](./docs/computer_science.md)
+* [Algorithms][./docs/algorithms.md]
+* [Databases](./docs/databases.md)
+* [Front-end](./docs/front_end.md)
+* [JavaScript](./docs/javascript.md)
+* [Networking and web requests](./docs/networking_and_requests.md)
 * [Working as a developer](./docs/working_as_a_developer.md)
 
 ### Blog posts
 Writing words about software.
 
-* [The fullstack roadmap](./posts/roadmap.md), from newbie to work-ready.
+* [The full stack roadmap](./posts/roadmap.md), from newbie to work-ready.
+* [Building your portfolio](./docs/building_dev_portfolios.md)
 * [The underestimated importance of giving tech talks as a junior engineer](./posts/the_underestimated_importance_of_giving_talks_as_a_junior_dev.md)
 * [Static sites](./posts/static_sites.md) vs dynamic sites.
 
