@@ -7,7 +7,7 @@ My collection of resources for software engineering.
 * [Programming languages](./docs/languages.md)
 * [Ruby](./docs/ruby.md), my language of choice
 * [Computer science fundamentals](./docs/computer_science.md)
-* [Algorithms][./docs/algorithms.md]
+* [Algorithms](./docs/algorithms.md)
 * [Databases](./docs/databases.md)
 * [Front-end](./docs/front_end.md)
 * [JavaScript](./docs/javascript.md)
